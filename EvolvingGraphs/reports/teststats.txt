@@ -1,0 +1,87 @@
+#This is the journey stats report starting at time 0
+#For every pair of vertices, the earliest arrival date and minimum hopcount are displayed
+
+#This report is for the trace: Teste de Jornadas
+#Uploaded to DTNTES by: Bozo
+#Link to the trace: www.com.br
+
+Node 0 to node 1
+Earliest Arrival Date: 1
+Minimum hopcount: 1
+
+Node 0 to node 2
+Earliest Arrival Date: 1
+Minimum hopcount: 1
+
+Node 0 to node 3
+Earliest Arrival Date: 1
+Minimum hopcount: 2
+
+Node 0 to node 4
+Earliest Arrival Date: 1
+Minimum hopcount: 4
+
+Node 1 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 1 to node 2
+Earliest Arrival Date: 1
+Minimum hopcount: 1
+
+Node 1 to node 3
+Earliest Arrival Date: 1
+Minimum hopcount: 2
+
+Node 1 to node 4
+Earliest Arrival Date: 1
+Minimum hopcount: 3
+
+Node 2 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 2 to node 1
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 2 to node 3
+Earliest Arrival Date: 1
+Minimum hopcount: 1
+
+Node 2 to node 4
+Earliest Arrival Date: 1
+Minimum hopcount: 2
+
+Node 3 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 3 to node 1
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 3 to node 2
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 3 to node 4
+Earliest Arrival Date: 1
+Minimum hopcount: 1
+
+Node 4 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 4 to node 1
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 4 to node 2
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 4 to node 3
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+

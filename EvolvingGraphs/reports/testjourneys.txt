@@ -1,0 +1,88 @@
+#This is the full journey report starting at time 0
+#For every pair of vertices, the foremost and shortest journeys are displayed
+#Each edge is in the form (originNode[traversalTime]destinationNode)
+
+#This report is for the trace: Teste de Jornadas
+#Uploaded to DTNTES by: Bozo
+#Link to the trace: www.com.br
+
+Node 0 to node 1
+Foremost Journey: 0 [1] 1
+Shortest Journey: 0 [1] 1
+
+Node 0 to node 2
+Foremost Journey: 0 [1] 1 [1] 2
+Shortest Journey: 0 [2] 2
+
+Node 0 to node 3
+Foremost Journey: 0 [1] 1 [1] 2 [1] 3
+Shortest Journey: 0 [2] 2 [2] 3
+
+Node 0 to node 4
+Foremost Journey: 0 [1] 1 [1] 2 [1] 3 [1] 4
+Shortest Journey: 0 [1] 1 [1] 2 [1] 3 [1] 4
+
+Node 1 to node 0
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 1 to node 2
+Foremost Journey: 1 [1] 2
+Shortest Journey: 1 [1] 2
+
+Node 1 to node 3
+Foremost Journey: 1 [1] 2 [1] 3
+Shortest Journey: 1 [1] 2 [1] 3
+
+Node 1 to node 4
+Foremost Journey: 1 [1] 2 [1] 3 [1] 4
+Shortest Journey: 1 [1] 2 [1] 3 [1] 4
+
+Node 2 to node 0
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 2 to node 1
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 2 to node 3
+Foremost Journey: 2 [1] 3
+Shortest Journey: 2 [1] 3
+
+Node 2 to node 4
+Foremost Journey: 2 [1] 3 [1] 4
+Shortest Journey: 2 [1] 3 [1] 4
+
+Node 3 to node 0
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 3 to node 1
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 3 to node 2
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 3 to node 4
+Foremost Journey: 3 [1] 4
+Shortest Journey: 3 [1] 4
+
+Node 4 to node 0
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 4 to node 1
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 4 to node 2
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+
+Node 4 to node 3
+Foremost Journey: Unreachable
+Shortest Journey: Unreachable
+

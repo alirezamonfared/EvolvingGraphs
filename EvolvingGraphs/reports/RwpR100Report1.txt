@@ -1,0 +1,10207 @@
+#This is the journey stats report starting at time 0
+#For every pair of vertices, the earliest arrival date and minimum hopcount are displayed
+
+#This report is for the trace: null
+#Uploaded to DTNTES by: null
+#No link to the trace was provided
+
+Node 0 to node 1
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 2
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 3
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 4
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 5
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 6
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 7
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 8
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 9
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 10
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 11
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 12
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 13
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 14
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 15
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 16
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 17
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 18
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 19
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 20
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 21
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 22
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 23
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 24
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 25
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 26
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 27
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 28
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 29
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 30
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 31
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 32
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 33
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 34
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 35
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 36
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 37
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 38
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 39
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 40
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 41
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 42
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 43
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 44
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 45
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 46
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 47
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 48
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 49
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 0 to node 50
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 1 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 1 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 1 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 1 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 1 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 1 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 1 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 1 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 1 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 1 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 1 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 1 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 1 to node 16
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 1 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 1 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 1 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 1 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 1 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 1 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 1 to node 23
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 1 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 1 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 1 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 27
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 1 to node 28
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 1 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 1 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 1 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 1 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 1 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 1 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 1 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 1 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 1 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 1 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 1 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 1 to node 42
+Earliest Arrival Date: 5
+Minimum hopcount: 1
+
+Node 1 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 1 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 1 to node 45
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 1 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 1 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 1 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 1 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 1 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 2 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 2 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 2 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 2 to node 4
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 2 to node 5
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 2 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 2 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 2 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 2 to node 9
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 2 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 2 to node 11
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 2 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 2 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 2 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 2 to node 15
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 2 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 2 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 2 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 2 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 2 to node 20
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 2 to node 21
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 2 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 2 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 2 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 2 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 2 to node 26
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 2 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 2 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 2 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 2 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 2 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 2 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 2 to node 33
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 2 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 2 to node 35
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 2 to node 36
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 2 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 2 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 2 to node 39
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 2 to node 40
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 2 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 2 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 2 to node 43
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 2 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 2 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 2 to node 46
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 2 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 2 to node 48
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 2 to node 49
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 2 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 3 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 3 to node 1
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 3 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 3 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 3 to node 6
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 3 to node 7
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 3 to node 8
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 3 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 3 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 3 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 3 to node 12
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 3 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 3 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 3 to node 16
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 3 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 3 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 3 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 3 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 3 to node 22
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 3 to node 23
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 3 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 3 to node 25
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 3 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 27
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 3 to node 28
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 3 to node 29
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 3 to node 30
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 3 to node 31
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 3 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 3 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 3 to node 34
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 3 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 3 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 3 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 3 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 3 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 41
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 3 to node 42
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 3 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 3 to node 44
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 3 to node 45
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 3 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 3 to node 47
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 3 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 3 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 3 to node 50
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 4 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 4 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 4 to node 2
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 4 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 4 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 4 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 4 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 4 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 4 to node 9
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 4 to node 10
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 4 to node 11
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 4 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 4 to node 13
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 4 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 4 to node 15
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 4 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 4 to node 17
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 4 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 4 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 4 to node 20
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 4 to node 21
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 4 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 4 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 4 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 4 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 4 to node 26
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 4 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 4 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 4 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 4 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 4 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 4 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 4 to node 33
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 4 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 4 to node 35
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 4 to node 36
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 4 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 4 to node 38
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 4 to node 39
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 4 to node 40
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 4 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 4 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 4 to node 43
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 4 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 4 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 4 to node 46
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 4 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 4 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 4 to node 49
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 4 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 5 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 5 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 5 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 5 to node 4
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 5 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 5 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 9
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 5 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 5 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 2
+
+Node 5 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 5 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 5 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 15
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 5 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 5 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 5 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 5 to node 20
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 5 to node 21
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 5 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 5 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 5 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 5 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 5 to node 26
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 5 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 5 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 5 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 5 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 5 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 5 to node 33
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 5 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 5 to node 35
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 5 to node 36
+Earliest Arrival Date: 19
+Minimum hopcount: 2
+
+Node 5 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 5 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 5 to node 39
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 5 to node 40
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 5 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 5 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 5 to node 43
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 5 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 5 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 5 to node 46
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 5 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 5 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 5 to node 49
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 5 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 6 to node 1
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 6 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 3
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 7
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 6 to node 8
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 6 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 6 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 12
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 6 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 6 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 6 to node 16
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 6 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 6 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 6 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 6 to node 22
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 6 to node 23
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 6 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 6 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 6 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 27
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 6 to node 28
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 29
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 30
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 6 to node 31
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 6 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 6 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 6 to node 34
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 6 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 6 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 6 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 6 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 6 to node 41
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 42
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 6 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 6 to node 44
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 6 to node 45
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 6 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 47
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 6 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 6 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 6 to node 50
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 7 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 7 to node 1
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 7 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 7 to node 3
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 7 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 7 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 7 to node 6
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 7 to node 8
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 7 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 7 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 7 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 7 to node 12
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 7 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 7 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 7 to node 16
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 7 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 7 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 7 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 7 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 7 to node 22
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 7 to node 23
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 7 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 7 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 7 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 27
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 7 to node 28
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 7 to node 29
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 7 to node 30
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 7 to node 31
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 7 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 7 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 7 to node 34
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 7 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 7 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 7 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 7 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 41
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 7 to node 42
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 7 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 7 to node 44
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 7 to node 45
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 7 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 7 to node 47
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 7 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 7 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 7 to node 50
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 8 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 8 to node 1
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 8 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 8 to node 3
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 8 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 8 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 8 to node 6
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 8 to node 7
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 8 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 8 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 8 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 8 to node 12
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 8 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 8 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 8 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 8 to node 16
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 8 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 8 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 8 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 8 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 8 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 8 to node 22
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 8 to node 23
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 8 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 8 to node 25
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 8 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 8 to node 27
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 8 to node 28
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 8 to node 29
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 8 to node 30
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 8 to node 31
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 8 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 8 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 8 to node 34
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 8 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 8 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 8 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 8 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 8 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 8 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 8 to node 41
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 8 to node 42
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 8 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 8 to node 44
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 8 to node 45
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 8 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 8 to node 47
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 8 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 8 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 8 to node 50
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 9 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 9 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 9 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 9 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 9 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 9 to node 5
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 9 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 9 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 9 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 9 to node 11
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 9 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 9 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 9 to node 15
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 9 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 9 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 9 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 9 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 9 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 21
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 9 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 9 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 9 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 9 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 9 to node 26
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 9 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 9 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 9 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 9 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 9 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 9 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 9 to node 33
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 9 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 9 to node 35
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 36
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 9 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 9 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 9 to node 39
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 40
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 9 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 9 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 9 to node 43
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 9 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 9 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 9 to node 46
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 9 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 9 to node 48
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 9 to node 49
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 9 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 10 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 10 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 10 to node 2
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 10 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 10 to node 4
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 10 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 10 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 10 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 10 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 10 to node 9
+Earliest Arrival Date: 38
+Minimum hopcount: 1
+
+Node 10 to node 11
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 10 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 10 to node 13
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 10 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 10 to node 15
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 10 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 10 to node 17
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 10 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 10 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 10 to node 20
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 10 to node 21
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 10 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 10 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 10 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 10 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 10 to node 26
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 10 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 10 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 10 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 10 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 10 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 10 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 10 to node 33
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 10 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 10 to node 35
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 10 to node 36
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 10 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 10 to node 38
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 10 to node 39
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 10 to node 40
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 10 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 10 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 10 to node 43
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 10 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 10 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 10 to node 46
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 10 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 10 to node 48
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 10 to node 49
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 10 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 11 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 11 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 11 to node 2
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 11 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 11 to node 4
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 11 to node 5
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 11 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 11 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 11 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 11 to node 9
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 11 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 11 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 11 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 11 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 11 to node 15
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 11 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 11 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 11 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 11 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 11 to node 20
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 11 to node 21
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 11 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 11 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 11 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 11 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 11 to node 26
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 11 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 11 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 11 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 11 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 11 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 11 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 11 to node 33
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 11 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 11 to node 35
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 11 to node 36
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 11 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 11 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 11 to node 39
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 11 to node 40
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 11 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 11 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 11 to node 43
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 11 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 11 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 11 to node 46
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 11 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 11 to node 48
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 11 to node 49
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 11 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 12 to node 1
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 12 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 12 to node 3
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 12 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 12 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 12 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 12 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 12 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 12 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 12 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 12 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 12 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 12 to node 16
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 12 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 12 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 12 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 12 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 12 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 12 to node 23
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 12 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 12 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 12 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 12 to node 27
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 12 to node 28
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 12 to node 29
+Earliest Arrival Date: 11
+Minimum hopcount: 1
+
+Node 12 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 12 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 12 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 12 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 12 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 12 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 12 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 12 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 12 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 12 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 12 to node 41
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 12 to node 42
+Earliest Arrival Date: 15
+Minimum hopcount: 2
+
+Node 12 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 12 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 12 to node 45
+Earliest Arrival Date: 15
+Minimum hopcount: 2
+
+Node 12 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 12 to node 47
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 12 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 12 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 12 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 13 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 13 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 13 to node 2
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 13 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 13 to node 4
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 13 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 13 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 13 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 13 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 13 to node 9
+Earliest Arrival Date: 38
+Minimum hopcount: 1
+
+Node 13 to node 10
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 13 to node 11
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 13 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 13 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 13 to node 15
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 13 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 13 to node 17
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 13 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 13 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 13 to node 20
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 13 to node 21
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 13 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 13 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 13 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 13 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 13 to node 26
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 13 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 13 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 13 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 13 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 13 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 13 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 13 to node 33
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 13 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 13 to node 35
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 13 to node 36
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 13 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 13 to node 38
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 13 to node 39
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 13 to node 40
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 13 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 13 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 13 to node 43
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 13 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 13 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 13 to node 46
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 13 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 13 to node 48
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 13 to node 49
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 13 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 14 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 14 to node 1
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 2
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 3
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 14 to node 4
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 5
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 6
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 14 to node 7
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 8
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 10
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 14 to node 11
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 14 to node 12
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 14 to node 13
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 15
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 14 to node 16
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 14 to node 17
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 14 to node 19
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 14 to node 20
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 21
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 22
+Earliest Arrival Date: 58
+Minimum hopcount: 2
+
+Node 14 to node 23
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 24
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 14 to node 25
+Earliest Arrival Date: 58
+Minimum hopcount: 2
+
+Node 14 to node 26
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 27
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 28
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 14 to node 29
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 30
+Earliest Arrival Date: 54
+Minimum hopcount: 2
+
+Node 14 to node 31
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 14 to node 32
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 33
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 34
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 14 to node 35
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 36
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 14 to node 38
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 39
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 40
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 41
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 14 to node 42
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 43
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 14 to node 44
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 14 to node 45
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 46
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 47
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 14 to node 48
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 14 to node 49
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 14 to node 50
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 15 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 15 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 15 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 15 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 15 to node 4
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 15 to node 5
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 15 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 15 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 9
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 15 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 15 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 15 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 15 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 15 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 15 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 15 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 15 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 15 to node 21
+Earliest Arrival Date: 21
+Minimum hopcount: 2
+
+Node 15 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 15 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 15 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 15 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 15 to node 26
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 15 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 15 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 15 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 15 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 15 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 15 to node 33
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 15 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 15 to node 35
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 15 to node 36
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 15 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 15 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 15 to node 39
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 15 to node 40
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 15 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 15 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 15 to node 43
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 15 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 15 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 15 to node 46
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 15 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 15 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 15 to node 49
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 15 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 16 to node 1
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 16 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 16 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 16 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 16 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 16 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 2
+
+Node 16 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 16 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 16 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 16 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 16 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 16 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 16 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 16 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 16 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 16 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 16 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 16 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 16 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 16 to node 23
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 16 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 16 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 16 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 27
+Earliest Arrival Date: 8
+Minimum hopcount: 2
+
+Node 16 to node 28
+Earliest Arrival Date: 10
+Minimum hopcount: 2
+
+Node 16 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 16 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 16 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 16 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 16 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 16 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 16 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 16 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 16 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 16 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 16 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 16 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 16 to node 42
+Earliest Arrival Date: 8
+Minimum hopcount: 2
+
+Node 16 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 16 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 16 to node 45
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 16 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 16 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 16 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 16 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 16 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 17 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 17 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 17 to node 2
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 17 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 17 to node 4
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 17 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 17 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 17 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 17 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 17 to node 9
+Earliest Arrival Date: 38
+Minimum hopcount: 1
+
+Node 17 to node 10
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 17 to node 11
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 17 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 17 to node 13
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 17 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 17 to node 15
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 17 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 17 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 17 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 17 to node 20
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 17 to node 21
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 17 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 17 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 17 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 17 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 17 to node 26
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 17 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 17 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 17 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 17 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 17 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 17 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 17 to node 33
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 17 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 17 to node 35
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 17 to node 36
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 17 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 17 to node 38
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 17 to node 39
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 17 to node 40
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 17 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 17 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 17 to node 43
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 17 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 17 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 17 to node 46
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 17 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 17 to node 48
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 17 to node 49
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 17 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 18 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 18 to node 1
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 2
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 3
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 4
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 18 to node 5
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 6
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 7
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 8
+Earliest Arrival Date: 105
+Minimum hopcount: 1
+
+Node 18 to node 9
+Earliest Arrival Date: 105
+Minimum hopcount: 1
+
+Node 18 to node 10
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 11
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 12
+Earliest Arrival Date: 103
+Minimum hopcount: 1
+
+Node 18 to node 13
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 14
+Earliest Arrival Date: 101
+Minimum hopcount: 1
+
+Node 18 to node 15
+Earliest Arrival Date: 101
+Minimum hopcount: 1
+
+Node 18 to node 16
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 17
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 19
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 20
+Earliest Arrival Date: 101
+Minimum hopcount: 1
+
+Node 18 to node 21
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 22
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 23
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 24
+Earliest Arrival Date: 107
+Minimum hopcount: 2
+
+Node 18 to node 25
+Earliest Arrival Date: 107
+Minimum hopcount: 2
+
+Node 18 to node 26
+Earliest Arrival Date: 101
+Minimum hopcount: 2
+
+Node 18 to node 27
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 28
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 29
+Earliest Arrival Date: 101
+Minimum hopcount: 2
+
+Node 18 to node 30
+Earliest Arrival Date: 107
+Minimum hopcount: 2
+
+Node 18 to node 31
+Earliest Arrival Date: 107
+Minimum hopcount: 2
+
+Node 18 to node 32
+Earliest Arrival Date: 101
+Minimum hopcount: 1
+
+Node 18 to node 33
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 34
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 35
+Earliest Arrival Date: 101
+Minimum hopcount: 2
+
+Node 18 to node 36
+Earliest Arrival Date: 101
+Minimum hopcount: 2
+
+Node 18 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 18 to node 38
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 39
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 40
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 41
+Earliest Arrival Date: 103
+Minimum hopcount: 1
+
+Node 18 to node 42
+Earliest Arrival Date: 103
+Minimum hopcount: 1
+
+Node 18 to node 43
+Earliest Arrival Date: 101
+Minimum hopcount: 1
+
+Node 18 to node 44
+Earliest Arrival Date: 105
+Minimum hopcount: 2
+
+Node 18 to node 45
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 46
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 47
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 48
+Earliest Arrival Date: 103
+Minimum hopcount: 2
+
+Node 18 to node 49
+Earliest Arrival Date: 103
+Minimum hopcount: 1
+
+Node 18 to node 50
+Earliest Arrival Date: 103
+Minimum hopcount: 1
+
+Node 19 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 19 to node 1
+Earliest Arrival Date: 47
+Minimum hopcount: 2
+
+Node 19 to node 2
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 3
+Earliest Arrival Date: 51
+Minimum hopcount: 2
+
+Node 19 to node 4
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 19 to node 5
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 6
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 19 to node 7
+Earliest Arrival Date: 45
+Minimum hopcount: 2
+
+Node 19 to node 8
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 19 to node 9
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 10
+Earliest Arrival Date: 59
+Minimum hopcount: 1
+
+Node 19 to node 11
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 12
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 13
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 19 to node 14
+Earliest Arrival Date: 53
+Minimum hopcount: 2
+
+Node 19 to node 15
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 19 to node 16
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 19 to node 17
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 19 to node 20
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 19 to node 21
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 22
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 19 to node 23
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 19 to node 24
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 19 to node 25
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 19 to node 26
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 19 to node 27
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 19 to node 28
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 19 to node 29
+Earliest Arrival Date: 51
+Minimum hopcount: 2
+
+Node 19 to node 30
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 19 to node 31
+Earliest Arrival Date: 45
+Minimum hopcount: 2
+
+Node 19 to node 32
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 19 to node 33
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 19 to node 34
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 19 to node 35
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 36
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 19 to node 38
+Earliest Arrival Date: 57
+Minimum hopcount: 1
+
+Node 19 to node 39
+Earliest Arrival Date: 53
+Minimum hopcount: 2
+
+Node 19 to node 40
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 19 to node 41
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 42
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 19 to node 43
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 19 to node 44
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 19 to node 45
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 19 to node 46
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 47
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 19 to node 48
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 19 to node 49
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 19 to node 50
+Earliest Arrival Date: 47
+Minimum hopcount: 2
+
+Node 20 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 20 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 20 to node 2
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 20 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 20 to node 4
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 20 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 20 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 20 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 20 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 20 to node 9
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 20 to node 10
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 20 to node 11
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 20 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 20 to node 13
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 20 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 20 to node 15
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 20 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 20 to node 17
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 20 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 20 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 20 to node 21
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 20 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 20 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 20 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 20 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 20 to node 26
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 20 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 20 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 20 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 20 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 20 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 20 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 20 to node 33
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 20 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 20 to node 35
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 20 to node 36
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 20 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 20 to node 38
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 20 to node 39
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 20 to node 40
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 20 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 20 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 20 to node 43
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 20 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 20 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 20 to node 46
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 20 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 20 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 20 to node 49
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 20 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 21 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 21 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 21 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 21 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 21 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 21 to node 5
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 21 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 21 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 21 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 21 to node 9
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 21 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 21 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 21 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 21 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 21 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 21 to node 15
+Earliest Arrival Date: 18
+Minimum hopcount: 2
+
+Node 21 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 21 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 21 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 21 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 21 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 21 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 21 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 21 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 21 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 21 to node 26
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 21 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 21 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 21 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 21 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 21 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 21 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 21 to node 33
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 21 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 21 to node 35
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 21 to node 36
+Earliest Arrival Date: 7
+Minimum hopcount: 2
+
+Node 21 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 21 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 21 to node 39
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 21 to node 40
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 21 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 21 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 21 to node 43
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 21 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 21 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 21 to node 46
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 21 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 21 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 21 to node 49
+Earliest Arrival Date: 16
+Minimum hopcount: 2
+
+Node 21 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 22 to node 1
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 22 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 22 to node 3
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 22 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 22 to node 6
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 22 to node 7
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 22 to node 8
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 22 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 22 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 22 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 22 to node 12
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 22 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 22 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 22 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 22 to node 16
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 22 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 22 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 22 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 22 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 22 to node 23
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 22 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 22 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 22 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 27
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 22 to node 28
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 22 to node 29
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 22 to node 30
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 22 to node 31
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 22 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 22 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 22 to node 34
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 22 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 22 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 22 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 22 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 41
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 22 to node 42
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 22 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 22 to node 44
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 22 to node 45
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 22 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 22 to node 47
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 22 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 22 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 22 to node 50
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 23 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 23 to node 1
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 23 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 23 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 23 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 23 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 23 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 23 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 23 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 23 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 23 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 23 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 23 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 23 to node 16
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 23 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 23 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 23 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 23 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 23 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 23 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 23 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 23 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 27
+Earliest Arrival Date: 5
+Minimum hopcount: 2
+
+Node 23 to node 28
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 23 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 23 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 23 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 23 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 23 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 23 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 23 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 23 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 23 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 23 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 23 to node 42
+Earliest Arrival Date: 8
+Minimum hopcount: 2
+
+Node 23 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 23 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 23 to node 45
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 23 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 23 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 23 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 23 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 23 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 24 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 24 to node 1
+Earliest Arrival Date: 47
+Minimum hopcount: 1
+
+Node 24 to node 2
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 3
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 24 to node 4
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 5
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 6
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 24 to node 7
+Earliest Arrival Date: 45
+Minimum hopcount: 1
+
+Node 24 to node 8
+Earliest Arrival Date: 51
+Minimum hopcount: 2
+
+Node 24 to node 9
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 10
+Earliest Arrival Date: 59
+Minimum hopcount: 1
+
+Node 24 to node 11
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 12
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 13
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 14
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 15
+Earliest Arrival Date: 51
+Minimum hopcount: 2
+
+Node 24 to node 16
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 24 to node 17
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 24 to node 19
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 24 to node 20
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 24 to node 21
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 22
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 24 to node 23
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 24 to node 25
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 24 to node 26
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 24 to node 27
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 24 to node 28
+Earliest Arrival Date: 51
+Minimum hopcount: 1
+
+Node 24 to node 29
+Earliest Arrival Date: 51
+Minimum hopcount: 2
+
+Node 24 to node 30
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 24 to node 31
+Earliest Arrival Date: 45
+Minimum hopcount: 1
+
+Node 24 to node 32
+Earliest Arrival Date: 57
+Minimum hopcount: 1
+
+Node 24 to node 33
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 24 to node 34
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 24 to node 35
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 36
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 24 to node 38
+Earliest Arrival Date: 57
+Minimum hopcount: 1
+
+Node 24 to node 39
+Earliest Arrival Date: 53
+Minimum hopcount: 1
+
+Node 24 to node 40
+Earliest Arrival Date: 55
+Minimum hopcount: 2
+
+Node 24 to node 41
+Earliest Arrival Date: 53
+Minimum hopcount: 2
+
+Node 24 to node 42
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 24 to node 43
+Earliest Arrival Date: 55
+Minimum hopcount: 1
+
+Node 24 to node 44
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 24 to node 45
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 24 to node 46
+Earliest Arrival Date: 53
+Minimum hopcount: 2
+
+Node 24 to node 47
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 24 to node 48
+Earliest Arrival Date: 57
+Minimum hopcount: 1
+
+Node 24 to node 49
+Earliest Arrival Date: 53
+Minimum hopcount: 2
+
+Node 24 to node 50
+Earliest Arrival Date: 47
+Minimum hopcount: 1
+
+Node 25 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 25 to node 1
+Earliest Arrival Date: 35
+Minimum hopcount: 1
+
+Node 25 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 25 to node 3
+Earliest Arrival Date: 39
+Minimum hopcount: 1
+
+Node 25 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 25 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 25 to node 6
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 25 to node 7
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 25 to node 8
+Earliest Arrival Date: 39
+Minimum hopcount: 2
+
+Node 25 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 25 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 25 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 25 to node 12
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 25 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 25 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 25 to node 16
+Earliest Arrival Date: 39
+Minimum hopcount: 2
+
+Node 25 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 25 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 25 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 25 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 25 to node 22
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 25 to node 23
+Earliest Arrival Date: 37
+Minimum hopcount: 1
+
+Node 25 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 25 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 27
+Earliest Arrival Date: 37
+Minimum hopcount: 1
+
+Node 25 to node 28
+Earliest Arrival Date: 39
+Minimum hopcount: 1
+
+Node 25 to node 29
+Earliest Arrival Date: 39
+Minimum hopcount: 2
+
+Node 25 to node 30
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 25 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 25 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 25 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 25 to node 34
+Earliest Arrival Date: 35
+Minimum hopcount: 2
+
+Node 25 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 25 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 25 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 25 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 41
+Earliest Arrival Date: 39
+Minimum hopcount: 2
+
+Node 25 to node 42
+Earliest Arrival Date: 37
+Minimum hopcount: 2
+
+Node 25 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 25 to node 44
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 25 to node 45
+Earliest Arrival Date: 37
+Minimum hopcount: 2
+
+Node 25 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 25 to node 47
+Earliest Arrival Date: 39
+Minimum hopcount: 1
+
+Node 25 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 25 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 25 to node 50
+Earliest Arrival Date: 35
+Minimum hopcount: 1
+
+Node 26 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 26 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 26 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 26 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 26 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 26 to node 5
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 26 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 26 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 9
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 26 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 26 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 26 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 26 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 26 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 15
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 26 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 26 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 26 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 26 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 26 to node 21
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 26 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 26 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 26 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 26 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 26 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 26 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 26 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 26 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 26 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 26 to node 33
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 26 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 26 to node 35
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 26 to node 36
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 26 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 26 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 26 to node 39
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 26 to node 40
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 26 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 26 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 26 to node 43
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 26 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 26 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 26 to node 46
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 26 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 26 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 26 to node 49
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 26 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 27 to node 1
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 27 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 27 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 27 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 27 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 27 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 2
+
+Node 27 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 27 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 27 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 27 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 27 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 27 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 27 to node 16
+Earliest Arrival Date: 7
+Minimum hopcount: 2
+
+Node 27 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 27 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 27 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 27 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 27 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 27 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 27 to node 23
+Earliest Arrival Date: 5
+Minimum hopcount: 2
+
+Node 27 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 27 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 27 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 28
+Earliest Arrival Date: 11
+Minimum hopcount: 2
+
+Node 27 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 2
+
+Node 27 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 27 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 27 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 27 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 27 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 27 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 27 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 27 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 27 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 27 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 2
+
+Node 27 to node 42
+Earliest Arrival Date: 9
+Minimum hopcount: 2
+
+Node 27 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 27 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 27 to node 45
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 27 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 27 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 27 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 27 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 27 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 28 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 28 to node 1
+Earliest Arrival Date: 5
+Minimum hopcount: 1
+
+Node 28 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 28 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 28 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 28 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 28 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 28 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 28 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 28 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 28 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 28 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 28 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 28 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 28 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 28 to node 16
+Earliest Arrival Date: 9
+Minimum hopcount: 2
+
+Node 28 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 28 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 28 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 28 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 28 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 28 to node 23
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 28 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 28 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 28 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 27
+Earliest Arrival Date: 11
+Minimum hopcount: 2
+
+Node 28 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 2
+
+Node 28 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 28 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 28 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 28 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 28 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 28 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 28 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 28 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 28 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 28 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 2
+
+Node 28 to node 42
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 28 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 28 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 28 to node 45
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 28 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 28 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 28 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 28 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 28 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 29 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 29 to node 1
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 29 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 29 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 29 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 29 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 29 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 2
+
+Node 29 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 29 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 29 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 29 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 29 to node 12
+Earliest Arrival Date: 11
+Minimum hopcount: 1
+
+Node 29 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 29 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 29 to node 16
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 29 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 29 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 29 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 29 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 29 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 29 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 29 to node 23
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 29 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 29 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 29 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 27
+Earliest Arrival Date: 15
+Minimum hopcount: 2
+
+Node 29 to node 28
+Earliest Arrival Date: 14
+Minimum hopcount: 2
+
+Node 29 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 29 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 29 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 29 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 29 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 29 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 29 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 29 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 29 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 29 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 41
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 29 to node 42
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 29 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 29 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 29 to node 45
+Earliest Arrival Date: 13
+Minimum hopcount: 1
+
+Node 29 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 29 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 29 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 29 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 29 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 30 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 30 to node 1
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 30 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 30 to node 3
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 30 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 30 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 30 to node 6
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 30 to node 7
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 30 to node 8
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 30 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 30 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 30 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 30 to node 12
+Earliest Arrival Date: 38
+Minimum hopcount: 1
+
+Node 30 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 30 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 30 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 30 to node 16
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 30 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 30 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 30 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 30 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 30 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 30 to node 22
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 30 to node 23
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 30 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 30 to node 25
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 30 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 30 to node 27
+Earliest Arrival Date: 35
+Minimum hopcount: 1
+
+Node 30 to node 28
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 30 to node 29
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 30 to node 31
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 30 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 30 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 30 to node 34
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 30 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 30 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 30 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 30 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 30 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 30 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 30 to node 41
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 30 to node 42
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 30 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 30 to node 44
+Earliest Arrival Date: 38
+Minimum hopcount: 2
+
+Node 30 to node 45
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 30 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 30 to node 47
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 30 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 30 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 30 to node 50
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 31 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 31 to node 1
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 31 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 3
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 31 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 31 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 6
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 31 to node 7
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 31 to node 8
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 31 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 31 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 31 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 12
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 31 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 31 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 31 to node 16
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 31 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 31 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 31 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 31 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 31 to node 22
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 31 to node 23
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 31 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 31 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 31 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 27
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 31 to node 28
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 31 to node 29
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 31 to node 30
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 31 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 31 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 31 to node 34
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 31 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 31 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 31 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 31 to node 41
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 31 to node 42
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 31 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 31 to node 44
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 31 to node 45
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 31 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 47
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 31 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 31 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 31 to node 50
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 32 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 32 to node 1
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 2
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 3
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 4
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 32 to node 5
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 6
+Earliest Arrival Date: 62
+Minimum hopcount: 1
+
+Node 32 to node 7
+Earliest Arrival Date: 60
+Minimum hopcount: 1
+
+Node 32 to node 8
+Earliest Arrival Date: 60
+Minimum hopcount: 1
+
+Node 32 to node 9
+Earliest Arrival Date: 54
+Minimum hopcount: 2
+
+Node 32 to node 10
+Earliest Arrival Date: 62
+Minimum hopcount: 2
+
+Node 32 to node 11
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 12
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 13
+Earliest Arrival Date: 58
+Minimum hopcount: 2
+
+Node 32 to node 14
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 15
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 16
+Earliest Arrival Date: 58
+Minimum hopcount: 2
+
+Node 32 to node 17
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 32 to node 19
+Earliest Arrival Date: 60
+Minimum hopcount: 2
+
+Node 32 to node 20
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 21
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 22
+Earliest Arrival Date: 64
+Minimum hopcount: 2
+
+Node 32 to node 23
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 24
+Earliest Arrival Date: 64
+Minimum hopcount: 1
+
+Node 32 to node 25
+Earliest Arrival Date: 66
+Minimum hopcount: 1
+
+Node 32 to node 26
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 27
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 28
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 29
+Earliest Arrival Date: 56
+Minimum hopcount: 2
+
+Node 32 to node 30
+Earliest Arrival Date: 62
+Minimum hopcount: 1
+
+Node 32 to node 31
+Earliest Arrival Date: 64
+Minimum hopcount: 1
+
+Node 32 to node 33
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 34
+Earliest Arrival Date: 60
+Minimum hopcount: 1
+
+Node 32 to node 35
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 36
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 32 to node 38
+Earliest Arrival Date: 60
+Minimum hopcount: 1
+
+Node 32 to node 39
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 40
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 41
+Earliest Arrival Date: 58
+Minimum hopcount: 2
+
+Node 32 to node 42
+Earliest Arrival Date: 57
+Minimum hopcount: 2
+
+Node 32 to node 43
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 32 to node 44
+Earliest Arrival Date: 66
+Minimum hopcount: 2
+
+Node 32 to node 45
+Earliest Arrival Date: 56
+Minimum hopcount: 1
+
+Node 32 to node 46
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 47
+Earliest Arrival Date: 58
+Minimum hopcount: 1
+
+Node 32 to node 48
+Earliest Arrival Date: 54
+Minimum hopcount: 1
+
+Node 32 to node 49
+Earliest Arrival Date: 54
+Minimum hopcount: 2
+
+Node 32 to node 50
+Earliest Arrival Date: 60
+Minimum hopcount: 1
+
+Node 33 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 33 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 33 to node 2
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 33 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 33 to node 4
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 33 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 33 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 33 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 33 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 33 to node 9
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 33 to node 10
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 33 to node 11
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 33 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 33 to node 13
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 33 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 33 to node 15
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 33 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 33 to node 17
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 33 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 33 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 33 to node 20
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 33 to node 21
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 33 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 33 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 33 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 33 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 33 to node 26
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 33 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 33 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 33 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 33 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 33 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 33 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 33 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 33 to node 35
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 33 to node 36
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 33 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 33 to node 38
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 33 to node 39
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 33 to node 40
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 33 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 33 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 33 to node 43
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 33 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 33 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 33 to node 46
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 33 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 33 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 33 to node 49
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 33 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 34 to node 1
+Earliest Arrival Date: 25
+Minimum hopcount: 2
+
+Node 34 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 3
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 6
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 34 to node 7
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 34 to node 8
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 34 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 34 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 12
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 34 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 34 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 34 to node 16
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 34 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 34 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 34 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 34 to node 22
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 34 to node 23
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 34 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 34 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 34 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 27
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 28
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 34 to node 29
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 34 to node 30
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 34 to node 31
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 34 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 34 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 34 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 34 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 34 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 34 to node 41
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 42
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 34 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 34 to node 44
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 34 to node 45
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 34 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 47
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 34 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 34 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 34 to node 50
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 35 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 35 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 35 to node 2
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 35 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 35 to node 4
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 35 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 35 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 35 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 35 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 35 to node 9
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 35 to node 10
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 35 to node 11
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 35 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 35 to node 13
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 35 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 35 to node 15
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 35 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 35 to node 17
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 35 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 35 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 35 to node 20
+Earliest Arrival Date: 4
+Minimum hopcount: 1
+
+Node 35 to node 21
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 35 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 35 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 35 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 35 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 35 to node 26
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 35 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 35 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 35 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 35 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 35 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 35 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 35 to node 33
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 35 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 35 to node 36
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 35 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 35 to node 38
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 35 to node 39
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 35 to node 40
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 35 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 35 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 35 to node 43
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 35 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 35 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 35 to node 46
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 35 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 35 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 35 to node 49
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 35 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 36 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 36 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 36 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 36 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 36 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 36 to node 5
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 36 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 36 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 36 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 36 to node 9
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 36 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 36 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 36 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 36 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 36 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 36 to node 15
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 36 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 36 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 36 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 36 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 36 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 36 to node 21
+Earliest Arrival Date: 9
+Minimum hopcount: 2
+
+Node 36 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 36 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 36 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 36 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 36 to node 26
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 36 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 36 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 36 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 36 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 36 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 36 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 36 to node 33
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 36 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 36 to node 35
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 36 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 36 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 36 to node 39
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 36 to node 40
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 36 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 36 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 36 to node 43
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 36 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 36 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 36 to node 46
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 36 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 36 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 36 to node 49
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 36 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 37 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 37 to node 1
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 2
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 3
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 4
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 5
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 6
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 7
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 8
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 9
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 10
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 11
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 12
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 13
+Earliest Arrival Date: 206
+Minimum hopcount: 2
+
+Node 37 to node 14
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 15
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 16
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 17
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 37 to node 18
+Earliest Arrival Date: 212
+Minimum hopcount: 1
+
+Node 37 to node 19
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 20
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 21
+Earliest Arrival Date: 212
+Minimum hopcount: 1
+
+Node 37 to node 22
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 23
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 24
+Earliest Arrival Date: 206
+Minimum hopcount: 1
+
+Node 37 to node 25
+Earliest Arrival Date: 206
+Minimum hopcount: 1
+
+Node 37 to node 26
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 27
+Earliest Arrival Date: 206
+Minimum hopcount: 1
+
+Node 37 to node 28
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 29
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 30
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 31
+Earliest Arrival Date: 206
+Minimum hopcount: 1
+
+Node 37 to node 32
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 33
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 34
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 35
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 36
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 38
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 39
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 40
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 41
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 42
+Earliest Arrival Date: 212
+Minimum hopcount: 1
+
+Node 37 to node 43
+Earliest Arrival Date: 210
+Minimum hopcount: 1
+
+Node 37 to node 44
+Earliest Arrival Date: 208
+Minimum hopcount: 1
+
+Node 37 to node 45
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 46
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 47
+Earliest Arrival Date: 208
+Minimum hopcount: 2
+
+Node 37 to node 48
+Earliest Arrival Date: 206
+Minimum hopcount: 1
+
+Node 37 to node 49
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 37 to node 50
+Earliest Arrival Date: 210
+Minimum hopcount: 2
+
+Node 38 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 38 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 38 to node 2
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 38 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 38 to node 4
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 38 to node 5
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 38 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 38 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 38 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 38 to node 9
+Earliest Arrival Date: 38
+Minimum hopcount: 2
+
+Node 38 to node 10
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 38 to node 11
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 38 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 38 to node 13
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 38 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 38 to node 15
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 38 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 38 to node 17
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 38 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 38 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 38 to node 20
+Earliest Arrival Date: 36
+Minimum hopcount: 1
+
+Node 38 to node 21
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 38 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 38 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 38 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 38 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 38 to node 26
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 38 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 38 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 38 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 38 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 38 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 38 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 38 to node 33
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 38 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 38 to node 35
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 38 to node 36
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 38 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 38 to node 39
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 38 to node 40
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 38 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 38 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 38 to node 43
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 38 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 38 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 38 to node 46
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 38 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 38 to node 48
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 38 to node 49
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 38 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 39 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 39 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 39 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 39 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 39 to node 4
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 39 to node 5
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 39 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 39 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 39 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 39 to node 9
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 39 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 39 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 39 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 39 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 39 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 39 to node 15
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 39 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 39 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 39 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 39 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 39 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 39 to node 21
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 39 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 39 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 39 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 39 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 39 to node 26
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 39 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 39 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 39 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 39 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 39 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 39 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 39 to node 33
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 39 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 39 to node 35
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 39 to node 36
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 39 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 39 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 39 to node 40
+Earliest Arrival Date: 14
+Minimum hopcount: 2
+
+Node 39 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 39 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 39 to node 43
+Earliest Arrival Date: 19
+Minimum hopcount: 2
+
+Node 39 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 39 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 39 to node 46
+Earliest Arrival Date: 11
+Minimum hopcount: 1
+
+Node 39 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 39 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 39 to node 49
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 39 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 40 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 40 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 40 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 40 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 40 to node 4
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 40 to node 5
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 40 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 40 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 40 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 40 to node 9
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 40 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 40 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 40 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 40 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 40 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 40 to node 15
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 40 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 40 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 40 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 40 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 40 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 40 to node 21
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 40 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 40 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 40 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 40 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 40 to node 26
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 40 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 40 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 40 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 40 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 40 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 40 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 40 to node 33
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 40 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 40 to node 35
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 40 to node 36
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 40 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 40 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 40 to node 39
+Earliest Arrival Date: 18
+Minimum hopcount: 2
+
+Node 40 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 40 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 40 to node 43
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 40 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 40 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 40 to node 46
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 40 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 40 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 40 to node 49
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 40 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 41 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 41 to node 1
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 41 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 41 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 41 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 41 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 41 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 41 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 2
+
+Node 41 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 41 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 41 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 41 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 41 to node 12
+Earliest Arrival Date: 11
+Minimum hopcount: 1
+
+Node 41 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 41 to node 16
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 41 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 41 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 41 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 41 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 41 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 41 to node 23
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 41 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 41 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 41 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 41 to node 27
+Earliest Arrival Date: 15
+Minimum hopcount: 2
+
+Node 41 to node 28
+Earliest Arrival Date: 14
+Minimum hopcount: 2
+
+Node 41 to node 29
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 41 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 41 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 41 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 41 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 41 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 41 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 41 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 41 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 41 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 41 to node 42
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 41 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 41 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 41 to node 45
+Earliest Arrival Date: 13
+Minimum hopcount: 2
+
+Node 41 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 41 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 41 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 41 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 41 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 42 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 42 to node 1
+Earliest Arrival Date: 5
+Minimum hopcount: 1
+
+Node 42 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 42 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 42 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 42 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 42 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 42 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 42 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 42 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 42 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 42 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 42 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 2
+
+Node 42 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 42 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 42 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 42 to node 16
+Earliest Arrival Date: 9
+Minimum hopcount: 2
+
+Node 42 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 42 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 42 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 42 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 42 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 42 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 42 to node 23
+Earliest Arrival Date: 7
+Minimum hopcount: 2
+
+Node 42 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 42 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 42 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 42 to node 27
+Earliest Arrival Date: 11
+Minimum hopcount: 2
+
+Node 42 to node 28
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 42 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 42 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 42 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 42 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 42 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 42 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 42 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 42 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 42 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 42 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 42 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 42 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 42 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 42 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 42 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 1
+
+Node 42 to node 45
+Earliest Arrival Date: 9
+Minimum hopcount: 2
+
+Node 42 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 42 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 42 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 42 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 42 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 43 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 43 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 43 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 43 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 43 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 43 to node 5
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 43 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 43 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 43 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 43 to node 9
+Earliest Arrival Date: 12
+Minimum hopcount: 1
+
+Node 43 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 43 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 43 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 43 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 43 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 43 to node 15
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 43 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 43 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 43 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 43 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 43 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 43 to node 21
+Earliest Arrival Date: 2
+Minimum hopcount: 1
+
+Node 43 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 43 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 43 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 43 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 43 to node 26
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 43 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 43 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 43 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 43 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 43 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 43 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 43 to node 33
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 43 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 43 to node 35
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 43 to node 36
+Earliest Arrival Date: 7
+Minimum hopcount: 1
+
+Node 43 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 43 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 43 to node 39
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 43 to node 40
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 43 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 43 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 43 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 43 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 43 to node 46
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 43 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 43 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 43 to node 49
+Earliest Arrival Date: 16
+Minimum hopcount: 2
+
+Node 43 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 44 to node 1
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 44 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 44 to node 3
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 44 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 44 to node 6
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 44 to node 7
+Earliest Arrival Date: 26
+Minimum hopcount: 2
+
+Node 44 to node 8
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 44 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 44 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 44 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 44 to node 12
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 44 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 44 to node 16
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 44 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 44 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 44 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 44 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 44 to node 22
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 44 to node 23
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 44 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 44 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 44 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 27
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 44 to node 28
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 44 to node 29
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 44 to node 30
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 44 to node 31
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 44 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 44 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 44 to node 34
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 44 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 44 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 44 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 44 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 44 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 44 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 44 to node 41
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 44 to node 42
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 44 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 44 to node 45
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 44 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 44 to node 47
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 44 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 44 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 44 to node 50
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 45 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 45 to node 1
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 45 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 45 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 45 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 45 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 45 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 45 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 45 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 45 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 45 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 45 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 45 to node 12
+Earliest Arrival Date: 12
+Minimum hopcount: 2
+
+Node 45 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 45 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 45 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 45 to node 16
+Earliest Arrival Date: 5
+Minimum hopcount: 1
+
+Node 45 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 45 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 45 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 45 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 45 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 45 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 45 to node 23
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 45 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 2
+
+Node 45 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 45 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 45 to node 27
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 45 to node 28
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 45 to node 29
+Earliest Arrival Date: 10
+Minimum hopcount: 1
+
+Node 45 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 45 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 45 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 45 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 45 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 45 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 45 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 45 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 45 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 45 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 45 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 45 to node 41
+Earliest Arrival Date: 12
+Minimum hopcount: 2
+
+Node 45 to node 42
+Earliest Arrival Date: 8
+Minimum hopcount: 2
+
+Node 45 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 45 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 45 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 45 to node 47
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 45 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 45 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 45 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 46 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 46 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 46 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 2
+
+Node 46 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 46 to node 4
+Earliest Arrival Date: 21
+Minimum hopcount: 2
+
+Node 46 to node 5
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 46 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 46 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 46 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 46 to node 9
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 46 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 2
+
+Node 46 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 46 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 46 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 46 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 46 to node 15
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 46 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 46 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 46 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 46 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 46 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 46 to node 21
+Earliest Arrival Date: 21
+Minimum hopcount: 2
+
+Node 46 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 46 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 46 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 46 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 46 to node 26
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 46 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 46 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 46 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 46 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 46 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 46 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 46 to node 33
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 46 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 46 to node 35
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 46 to node 36
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 46 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 46 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 46 to node 39
+Earliest Arrival Date: 9
+Minimum hopcount: 1
+
+Node 46 to node 40
+Earliest Arrival Date: 14
+Minimum hopcount: 1
+
+Node 46 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 46 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 46 to node 43
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 46 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 46 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 46 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 46 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 46 to node 49
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 46 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 47 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 47 to node 1
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 47 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 47 to node 3
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 47 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 47 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 47 to node 6
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 47 to node 7
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 47 to node 8
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 47 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 47 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 47 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 47 to node 12
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 47 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 47 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 47 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 47 to node 16
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 47 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 47 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 47 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 1
+
+Node 47 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 47 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 47 to node 22
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 47 to node 23
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 47 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 47 to node 25
+Earliest Arrival Date: 31
+Minimum hopcount: 1
+
+Node 47 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 47 to node 27
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 47 to node 28
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 47 to node 29
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 47 to node 30
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 47 to node 31
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 47 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 47 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 47 to node 34
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 47 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 47 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 47 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 47 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 47 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 47 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 47 to node 41
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 47 to node 42
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 47 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 47 to node 44
+Earliest Arrival Date: 33
+Minimum hopcount: 2
+
+Node 47 to node 45
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 47 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 47 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 47 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 47 to node 50
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 48 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 48 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 48 to node 2
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 48 to node 4
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 48 to node 5
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 48 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 48 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 48 to node 9
+Earliest Arrival Date: 34
+Minimum hopcount: 1
+
+Node 48 to node 10
+Earliest Arrival Date: 38
+Minimum hopcount: 1
+
+Node 48 to node 11
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 48 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 48 to node 13
+Earliest Arrival Date: 34
+Minimum hopcount: 2
+
+Node 48 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 48 to node 15
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 48 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 48 to node 17
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 48 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 2
+
+Node 48 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 2
+
+Node 48 to node 20
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 48 to node 21
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 48 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 48 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 48 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 48 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 48 to node 26
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 48 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 48 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 48 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 48 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 48 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 48 to node 33
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 48 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 48 to node 35
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 48 to node 36
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 48 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 1
+
+Node 48 to node 38
+Earliest Arrival Date: 36
+Minimum hopcount: 2
+
+Node 48 to node 39
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 40
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 48 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 48 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 48 to node 43
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 48 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 48 to node 46
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 48 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 48 to node 49
+Earliest Arrival Date: 30
+Minimum hopcount: 1
+
+Node 48 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 49 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 49 to node 1
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 49 to node 2
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 49 to node 3
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 49 to node 4
+Earliest Arrival Date: 20
+Minimum hopcount: 1
+
+Node 49 to node 5
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 49 to node 6
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 49 to node 7
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 49 to node 8
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 49 to node 9
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 49 to node 10
+Earliest Arrival Date: 32
+Minimum hopcount: 1
+
+Node 49 to node 11
+Earliest Arrival Date: 21
+Minimum hopcount: 1
+
+Node 49 to node 12
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 49 to node 13
+Earliest Arrival Date: 28
+Minimum hopcount: 1
+
+Node 49 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 49 to node 15
+Earliest Arrival Date: 15
+Minimum hopcount: 1
+
+Node 49 to node 16
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 49 to node 17
+Earliest Arrival Date: 26
+Minimum hopcount: 1
+
+Node 49 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 49 to node 19
+Earliest Arrival Date: 49
+Minimum hopcount: 1
+
+Node 49 to node 20
+Earliest Arrival Date: 22
+Minimum hopcount: 1
+
+Node 49 to node 21
+Earliest Arrival Date: 20
+Minimum hopcount: 2
+
+Node 49 to node 22
+Earliest Arrival Date: 52
+Minimum hopcount: 1
+
+Node 49 to node 23
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 49 to node 24
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 49 to node 25
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 49 to node 26
+Earliest Arrival Date: 18
+Minimum hopcount: 1
+
+Node 49 to node 27
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 49 to node 28
+Earliest Arrival Date: 42
+Minimum hopcount: 2
+
+Node 49 to node 29
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 49 to node 30
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 49 to node 31
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 49 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 49 to node 33
+Earliest Arrival Date: 23
+Minimum hopcount: 1
+
+Node 49 to node 34
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 49 to node 35
+Earliest Arrival Date: 21
+Minimum hopcount: 2
+
+Node 49 to node 36
+Earliest Arrival Date: 16
+Minimum hopcount: 1
+
+Node 49 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 49 to node 38
+Earliest Arrival Date: 30
+Minimum hopcount: 2
+
+Node 49 to node 39
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 49 to node 40
+Earliest Arrival Date: 19
+Minimum hopcount: 1
+
+Node 49 to node 41
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 49 to node 42
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 49 to node 43
+Earliest Arrival Date: 18
+Minimum hopcount: 2
+
+Node 49 to node 44
+Earliest Arrival Date: 52
+Minimum hopcount: 2
+
+Node 49 to node 45
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 49 to node 46
+Earliest Arrival Date: 17
+Minimum hopcount: 1
+
+Node 49 to node 47
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 49 to node 48
+Earliest Arrival Date: 24
+Minimum hopcount: 1
+
+Node 49 to node 50
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 50 to node 0
+Earliest Arrival Date: Unreachable
+Minimum hopcount: Unreachable
+
+Node 50 to node 1
+Earliest Arrival Date: 25
+Minimum hopcount: 1
+
+Node 50 to node 2
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+
+Node 50 to node 3
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 50 to node 4
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 50 to node 5
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 50 to node 6
+Earliest Arrival Date: 8
+Minimum hopcount: 1
+
+Node 50 to node 7
+Earliest Arrival Date: 3
+Minimum hopcount: 1
+
+Node 50 to node 8
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 50 to node 9
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 50 to node 10
+Earliest Arrival Date: 50
+Minimum hopcount: 2
+
+Node 50 to node 11
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 50 to node 12
+Earliest Arrival Date: 31
+Minimum hopcount: 2
+
+Node 50 to node 13
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 50 to node 14
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 50 to node 15
+Earliest Arrival Date: 42
+Minimum hopcount: 1
+
+Node 50 to node 16
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 50 to node 17
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 50 to node 18
+Earliest Arrival Date: 99
+Minimum hopcount: 1
+
+Node 50 to node 19
+Earliest Arrival Date: 41
+Minimum hopcount: 2
+
+Node 50 to node 20
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 50 to node 21
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 50 to node 22
+Earliest Arrival Date: 22
+Minimum hopcount: 2
+
+Node 50 to node 23
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 50 to node 24
+Earliest Arrival Date: 43
+Minimum hopcount: 1
+
+Node 50 to node 25
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 50 to node 26
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 50 to node 27
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 50 to node 28
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 50 to node 29
+Earliest Arrival Date: 29
+Minimum hopcount: 2
+
+Node 50 to node 30
+Earliest Arrival Date: 28
+Minimum hopcount: 2
+
+Node 50 to node 31
+Earliest Arrival Date: 18
+Minimum hopcount: 2
+
+Node 50 to node 32
+Earliest Arrival Date: 50
+Minimum hopcount: 1
+
+Node 50 to node 33
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 50 to node 34
+Earliest Arrival Date: 6
+Minimum hopcount: 1
+
+Node 50 to node 35
+Earliest Arrival Date: 46
+Minimum hopcount: 2
+
+Node 50 to node 36
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 50 to node 37
+Earliest Arrival Date: 204
+Minimum hopcount: 2
+
+Node 50 to node 38
+Earliest Arrival Date: 48
+Minimum hopcount: 1
+
+Node 50 to node 39
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 50 to node 40
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 50 to node 41
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 50 to node 42
+Earliest Arrival Date: 27
+Minimum hopcount: 1
+
+Node 50 to node 43
+Earliest Arrival Date: 46
+Minimum hopcount: 1
+
+Node 50 to node 44
+Earliest Arrival Date: 24
+Minimum hopcount: 2
+
+Node 50 to node 45
+Earliest Arrival Date: 27
+Minimum hopcount: 2
+
+Node 50 to node 46
+Earliest Arrival Date: 44
+Minimum hopcount: 1
+
+Node 50 to node 47
+Earliest Arrival Date: 29
+Minimum hopcount: 1
+
+Node 50 to node 48
+Earliest Arrival Date: 48
+Minimum hopcount: 2
+
+Node 50 to node 49
+Earliest Arrival Date: 44
+Minimum hopcount: 2
+

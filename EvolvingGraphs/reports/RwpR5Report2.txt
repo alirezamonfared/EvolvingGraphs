@@ -1,0 +1,9808 @@
+#This is the full journey report starting at time 0
+#For every pair of vertices, the foremost and shortest journeys are displayed
+#Each edge is in the form (originNode[traversalTime]destinationNode)
+
+#This report is for the trace: null
+#Uploaded to DTNTES by: null
+#No link to the trace was provided
+
+Node 0 to node 1
+Foremost Journey: 0 [49] 1
+Shortest Journey: 0 [49] 1
+
+Node 0 to node 2
+Foremost Journey: 0 [49] 2
+Shortest Journey: 0 [49] 2
+
+Node 0 to node 3
+Foremost Journey: 0 [49] 3
+Shortest Journey: 0 [49] 3
+
+Node 0 to node 4
+Foremost Journey: 0 [49] 4
+Shortest Journey: 0 [49] 4
+
+Node 0 to node 5
+Foremost Journey: 0 [49] 5
+Shortest Journey: 0 [49] 5
+
+Node 0 to node 6
+Foremost Journey: 0 [49] 6
+Shortest Journey: 0 [49] 6
+
+Node 0 to node 7
+Foremost Journey: 0 [49] 7
+Shortest Journey: 0 [49] 7
+
+Node 0 to node 8
+Foremost Journey: 0 [49] 8
+Shortest Journey: 0 [49] 8
+
+Node 0 to node 9
+Foremost Journey: 0 [49] 9
+Shortest Journey: 0 [49] 9
+
+Node 0 to node 10
+Foremost Journey: 0 [49] 10
+Shortest Journey: 0 [49] 10
+
+Node 0 to node 11
+Foremost Journey: 0 [49] 11
+Shortest Journey: 0 [49] 11
+
+Node 0 to node 12
+Foremost Journey: 0 [49] 12
+Shortest Journey: 0 [49] 12
+
+Node 0 to node 13
+Foremost Journey: 0 [49] 13
+Shortest Journey: 0 [49] 13
+
+Node 0 to node 14
+Foremost Journey: 0 [49] 14
+Shortest Journey: 0 [49] 14
+
+Node 0 to node 15
+Foremost Journey: 0 [49] 15
+Shortest Journey: 0 [49] 15
+
+Node 0 to node 16
+Foremost Journey: 0 [49] 16
+Shortest Journey: 0 [49] 16
+
+Node 0 to node 17
+Foremost Journey: 0 [49] 17
+Shortest Journey: 0 [49] 17
+
+Node 0 to node 18
+Foremost Journey: 0 [49] 18
+Shortest Journey: 0 [49] 18
+
+Node 0 to node 19
+Foremost Journey: 0 [49] 19
+Shortest Journey: 0 [49] 19
+
+Node 0 to node 20
+Foremost Journey: 0 [49] 20
+Shortest Journey: 0 [49] 20
+
+Node 0 to node 21
+Foremost Journey: 0 [49] 21
+Shortest Journey: 0 [49] 21
+
+Node 0 to node 22
+Foremost Journey: 0 [49] 22
+Shortest Journey: 0 [49] 22
+
+Node 0 to node 23
+Foremost Journey: 0 [49] 23
+Shortest Journey: 0 [49] 23
+
+Node 0 to node 24
+Foremost Journey: 0 [49] 24
+Shortest Journey: 0 [49] 24
+
+Node 0 to node 25
+Foremost Journey: 0 [49] 25
+Shortest Journey: 0 [49] 25
+
+Node 0 to node 26
+Foremost Journey: 0 [49] 26
+Shortest Journey: 0 [49] 26
+
+Node 0 to node 27
+Foremost Journey: 0 [49] 27
+Shortest Journey: 0 [49] 27
+
+Node 0 to node 28
+Foremost Journey: 0 [49] 28
+Shortest Journey: 0 [49] 28
+
+Node 0 to node 29
+Foremost Journey: 0 [49] 29
+Shortest Journey: 0 [49] 29
+
+Node 0 to node 30
+Foremost Journey: 0 [49] 30
+Shortest Journey: 0 [49] 30
+
+Node 0 to node 31
+Foremost Journey: 0 [49] 31
+Shortest Journey: 0 [49] 31
+
+Node 0 to node 32
+Foremost Journey: 0 [49] 32
+Shortest Journey: 0 [49] 32
+
+Node 0 to node 33
+Foremost Journey: 0 [49] 33
+Shortest Journey: 0 [49] 33
+
+Node 0 to node 34
+Foremost Journey: 0 [49] 34
+Shortest Journey: 0 [49] 34
+
+Node 0 to node 35
+Foremost Journey: 0 [49] 35
+Shortest Journey: 0 [49] 35
+
+Node 0 to node 36
+Foremost Journey: 0 [49] 36
+Shortest Journey: 0 [49] 36
+
+Node 0 to node 37
+Foremost Journey: 0 [49] 37
+Shortest Journey: 0 [49] 37
+
+Node 0 to node 38
+Foremost Journey: 0 [49] 38
+Shortest Journey: 0 [49] 38
+
+Node 0 to node 39
+Foremost Journey: 0 [49] 39
+Shortest Journey: 0 [49] 39
+
+Node 0 to node 40
+Foremost Journey: 0 [49] 40
+Shortest Journey: 0 [49] 40
+
+Node 0 to node 41
+Foremost Journey: 0 [49] 41
+Shortest Journey: 0 [49] 41
+
+Node 0 to node 42
+Foremost Journey: 0 [49] 42
+Shortest Journey: 0 [49] 42
+
+Node 0 to node 43
+Foremost Journey: 0 [49] 43
+Shortest Journey: 0 [49] 43
+
+Node 0 to node 44
+Foremost Journey: 0 [49] 44
+Shortest Journey: 0 [49] 44
+
+Node 0 to node 45
+Foremost Journey: 0 [49] 45
+Shortest Journey: 0 [49] 45
+
+Node 0 to node 46
+Foremost Journey: 0 [49] 46
+Shortest Journey: 0 [49] 46
+
+Node 0 to node 47
+Foremost Journey: 0 [49] 47
+Shortest Journey: 0 [49] 47
+
+Node 0 to node 48
+Foremost Journey: 0 [49] 48
+Shortest Journey: 0 [49] 48
+
+Node 0 to node 49
+Foremost Journey: 0 [49] 49
+Shortest Journey: 0 [49] 49
+
+Node 1 to node 0
+Foremost Journey: 1 [49] 0
+Shortest Journey: 1 [49] 0
+
+Node 1 to node 2
+Foremost Journey: 1 [49] 2
+Shortest Journey: 1 [49] 2
+
+Node 1 to node 3
+Foremost Journey: 1 [49] 3
+Shortest Journey: 1 [49] 3
+
+Node 1 to node 4
+Foremost Journey: 1 [49] 4
+Shortest Journey: 1 [49] 4
+
+Node 1 to node 5
+Foremost Journey: 1 [49] 5
+Shortest Journey: 1 [49] 5
+
+Node 1 to node 6
+Foremost Journey: 1 [49] 6
+Shortest Journey: 1 [49] 6
+
+Node 1 to node 7
+Foremost Journey: 1 [49] 7
+Shortest Journey: 1 [49] 7
+
+Node 1 to node 8
+Foremost Journey: 1 [49] 8
+Shortest Journey: 1 [49] 8
+
+Node 1 to node 9
+Foremost Journey: 1 [49] 9
+Shortest Journey: 1 [49] 9
+
+Node 1 to node 10
+Foremost Journey: 1 [49] 10
+Shortest Journey: 1 [49] 10
+
+Node 1 to node 11
+Foremost Journey: 1 [49] 11
+Shortest Journey: 1 [49] 11
+
+Node 1 to node 12
+Foremost Journey: 1 [49] 12
+Shortest Journey: 1 [49] 12
+
+Node 1 to node 13
+Foremost Journey: 1 [49] 13
+Shortest Journey: 1 [49] 13
+
+Node 1 to node 14
+Foremost Journey: 1 [49] 14
+Shortest Journey: 1 [49] 14
+
+Node 1 to node 15
+Foremost Journey: 1 [49] 15
+Shortest Journey: 1 [49] 15
+
+Node 1 to node 16
+Foremost Journey: 1 [49] 16
+Shortest Journey: 1 [49] 16
+
+Node 1 to node 17
+Foremost Journey: 1 [49] 17
+Shortest Journey: 1 [49] 17
+
+Node 1 to node 18
+Foremost Journey: 1 [49] 18
+Shortest Journey: 1 [49] 18
+
+Node 1 to node 19
+Foremost Journey: 1 [49] 19
+Shortest Journey: 1 [49] 19
+
+Node 1 to node 20
+Foremost Journey: 1 [49] 20
+Shortest Journey: 1 [49] 20
+
+Node 1 to node 21
+Foremost Journey: 1 [49] 21
+Shortest Journey: 1 [49] 21
+
+Node 1 to node 22
+Foremost Journey: 1 [49] 22
+Shortest Journey: 1 [49] 22
+
+Node 1 to node 23
+Foremost Journey: 1 [49] 23
+Shortest Journey: 1 [49] 23
+
+Node 1 to node 24
+Foremost Journey: 1 [49] 24
+Shortest Journey: 1 [49] 24
+
+Node 1 to node 25
+Foremost Journey: 1 [49] 25
+Shortest Journey: 1 [49] 25
+
+Node 1 to node 26
+Foremost Journey: 1 [49] 26
+Shortest Journey: 1 [49] 26
+
+Node 1 to node 27
+Foremost Journey: 1 [49] 27
+Shortest Journey: 1 [49] 27
+
+Node 1 to node 28
+Foremost Journey: 1 [49] 28
+Shortest Journey: 1 [49] 28
+
+Node 1 to node 29
+Foremost Journey: 1 [49] 29
+Shortest Journey: 1 [49] 29
+
+Node 1 to node 30
+Foremost Journey: 1 [49] 30
+Shortest Journey: 1 [49] 30
+
+Node 1 to node 31
+Foremost Journey: 1 [49] 31
+Shortest Journey: 1 [49] 31
+
+Node 1 to node 32
+Foremost Journey: 1 [49] 32
+Shortest Journey: 1 [49] 32
+
+Node 1 to node 33
+Foremost Journey: 1 [49] 33
+Shortest Journey: 1 [49] 33
+
+Node 1 to node 34
+Foremost Journey: 1 [49] 34
+Shortest Journey: 1 [49] 34
+
+Node 1 to node 35
+Foremost Journey: 1 [49] 35
+Shortest Journey: 1 [49] 35
+
+Node 1 to node 36
+Foremost Journey: 1 [49] 36
+Shortest Journey: 1 [49] 36
+
+Node 1 to node 37
+Foremost Journey: 1 [49] 37
+Shortest Journey: 1 [49] 37
+
+Node 1 to node 38
+Foremost Journey: 1 [49] 38
+Shortest Journey: 1 [49] 38
+
+Node 1 to node 39
+Foremost Journey: 1 [49] 39
+Shortest Journey: 1 [49] 39
+
+Node 1 to node 40
+Foremost Journey: 1 [49] 40
+Shortest Journey: 1 [49] 40
+
+Node 1 to node 41
+Foremost Journey: 1 [49] 41
+Shortest Journey: 1 [49] 41
+
+Node 1 to node 42
+Foremost Journey: 1 [49] 42
+Shortest Journey: 1 [49] 42
+
+Node 1 to node 43
+Foremost Journey: 1 [49] 43
+Shortest Journey: 1 [49] 43
+
+Node 1 to node 44
+Foremost Journey: 1 [49] 44
+Shortest Journey: 1 [49] 44
+
+Node 1 to node 45
+Foremost Journey: 1 [49] 45
+Shortest Journey: 1 [49] 45
+
+Node 1 to node 46
+Foremost Journey: 1 [49] 46
+Shortest Journey: 1 [49] 46
+
+Node 1 to node 47
+Foremost Journey: 1 [49] 47
+Shortest Journey: 1 [49] 47
+
+Node 1 to node 48
+Foremost Journey: 1 [49] 48
+Shortest Journey: 1 [49] 48
+
+Node 1 to node 49
+Foremost Journey: 1 [49] 49
+Shortest Journey: 1 [49] 49
+
+Node 2 to node 0
+Foremost Journey: 2 [49] 0
+Shortest Journey: 2 [49] 0
+
+Node 2 to node 1
+Foremost Journey: 2 [49] 1
+Shortest Journey: 2 [49] 1
+
+Node 2 to node 3
+Foremost Journey: 2 [49] 3
+Shortest Journey: 2 [49] 3
+
+Node 2 to node 4
+Foremost Journey: 2 [49] 4
+Shortest Journey: 2 [49] 4
+
+Node 2 to node 5
+Foremost Journey: 2 [49] 5
+Shortest Journey: 2 [49] 5
+
+Node 2 to node 6
+Foremost Journey: 2 [49] 6
+Shortest Journey: 2 [49] 6
+
+Node 2 to node 7
+Foremost Journey: 2 [49] 7
+Shortest Journey: 2 [49] 7
+
+Node 2 to node 8
+Foremost Journey: 2 [49] 8
+Shortest Journey: 2 [49] 8
+
+Node 2 to node 9
+Foremost Journey: 2 [49] 9
+Shortest Journey: 2 [49] 9
+
+Node 2 to node 10
+Foremost Journey: 2 [49] 10
+Shortest Journey: 2 [49] 10
+
+Node 2 to node 11
+Foremost Journey: 2 [49] 11
+Shortest Journey: 2 [49] 11
+
+Node 2 to node 12
+Foremost Journey: 2 [49] 12
+Shortest Journey: 2 [49] 12
+
+Node 2 to node 13
+Foremost Journey: 2 [49] 13
+Shortest Journey: 2 [49] 13
+
+Node 2 to node 14
+Foremost Journey: 2 [49] 14
+Shortest Journey: 2 [49] 14
+
+Node 2 to node 15
+Foremost Journey: 2 [49] 15
+Shortest Journey: 2 [49] 15
+
+Node 2 to node 16
+Foremost Journey: 2 [49] 16
+Shortest Journey: 2 [49] 16
+
+Node 2 to node 17
+Foremost Journey: 2 [49] 17
+Shortest Journey: 2 [49] 17
+
+Node 2 to node 18
+Foremost Journey: 2 [49] 18
+Shortest Journey: 2 [49] 18
+
+Node 2 to node 19
+Foremost Journey: 2 [49] 19
+Shortest Journey: 2 [49] 19
+
+Node 2 to node 20
+Foremost Journey: 2 [49] 20
+Shortest Journey: 2 [49] 20
+
+Node 2 to node 21
+Foremost Journey: 2 [49] 21
+Shortest Journey: 2 [49] 21
+
+Node 2 to node 22
+Foremost Journey: 2 [49] 22
+Shortest Journey: 2 [49] 22
+
+Node 2 to node 23
+Foremost Journey: 2 [49] 23
+Shortest Journey: 2 [49] 23
+
+Node 2 to node 24
+Foremost Journey: 2 [49] 24
+Shortest Journey: 2 [49] 24
+
+Node 2 to node 25
+Foremost Journey: 2 [49] 25
+Shortest Journey: 2 [49] 25
+
+Node 2 to node 26
+Foremost Journey: 2 [49] 26
+Shortest Journey: 2 [49] 26
+
+Node 2 to node 27
+Foremost Journey: 2 [49] 27
+Shortest Journey: 2 [49] 27
+
+Node 2 to node 28
+Foremost Journey: 2 [49] 28
+Shortest Journey: 2 [49] 28
+
+Node 2 to node 29
+Foremost Journey: 2 [49] 29
+Shortest Journey: 2 [49] 29
+
+Node 2 to node 30
+Foremost Journey: 2 [49] 30
+Shortest Journey: 2 [49] 30
+
+Node 2 to node 31
+Foremost Journey: 2 [49] 31
+Shortest Journey: 2 [49] 31
+
+Node 2 to node 32
+Foremost Journey: 2 [49] 32
+Shortest Journey: 2 [49] 32
+
+Node 2 to node 33
+Foremost Journey: 2 [49] 33
+Shortest Journey: 2 [49] 33
+
+Node 2 to node 34
+Foremost Journey: 2 [49] 34
+Shortest Journey: 2 [49] 34
+
+Node 2 to node 35
+Foremost Journey: 2 [49] 35
+Shortest Journey: 2 [49] 35
+
+Node 2 to node 36
+Foremost Journey: 2 [49] 36
+Shortest Journey: 2 [49] 36
+
+Node 2 to node 37
+Foremost Journey: 2 [49] 37
+Shortest Journey: 2 [49] 37
+
+Node 2 to node 38
+Foremost Journey: 2 [49] 38
+Shortest Journey: 2 [49] 38
+
+Node 2 to node 39
+Foremost Journey: 2 [49] 39
+Shortest Journey: 2 [49] 39
+
+Node 2 to node 40
+Foremost Journey: 2 [49] 40
+Shortest Journey: 2 [49] 40
+
+Node 2 to node 41
+Foremost Journey: 2 [49] 41
+Shortest Journey: 2 [49] 41
+
+Node 2 to node 42
+Foremost Journey: 2 [49] 42
+Shortest Journey: 2 [49] 42
+
+Node 2 to node 43
+Foremost Journey: 2 [49] 43
+Shortest Journey: 2 [49] 43
+
+Node 2 to node 44
+Foremost Journey: 2 [49] 44
+Shortest Journey: 2 [49] 44
+
+Node 2 to node 45
+Foremost Journey: 2 [49] 45
+Shortest Journey: 2 [49] 45
+
+Node 2 to node 46
+Foremost Journey: 2 [49] 46
+Shortest Journey: 2 [49] 46
+
+Node 2 to node 47
+Foremost Journey: 2 [49] 47
+Shortest Journey: 2 [49] 47
+
+Node 2 to node 48
+Foremost Journey: 2 [49] 48
+Shortest Journey: 2 [49] 48
+
+Node 2 to node 49
+Foremost Journey: 2 [49] 49
+Shortest Journey: 2 [49] 49
+
+Node 3 to node 0
+Foremost Journey: 3 [49] 0
+Shortest Journey: 3 [49] 0
+
+Node 3 to node 1
+Foremost Journey: 3 [49] 1
+Shortest Journey: 3 [49] 1
+
+Node 3 to node 2
+Foremost Journey: 3 [49] 2
+Shortest Journey: 3 [49] 2
+
+Node 3 to node 4
+Foremost Journey: 3 [49] 4
+Shortest Journey: 3 [49] 4
+
+Node 3 to node 5
+Foremost Journey: 3 [49] 5
+Shortest Journey: 3 [49] 5
+
+Node 3 to node 6
+Foremost Journey: 3 [49] 6
+Shortest Journey: 3 [49] 6
+
+Node 3 to node 7
+Foremost Journey: 3 [49] 7
+Shortest Journey: 3 [49] 7
+
+Node 3 to node 8
+Foremost Journey: 3 [49] 8
+Shortest Journey: 3 [49] 8
+
+Node 3 to node 9
+Foremost Journey: 3 [49] 9
+Shortest Journey: 3 [49] 9
+
+Node 3 to node 10
+Foremost Journey: 3 [49] 10
+Shortest Journey: 3 [49] 10
+
+Node 3 to node 11
+Foremost Journey: 3 [49] 11
+Shortest Journey: 3 [49] 11
+
+Node 3 to node 12
+Foremost Journey: 3 [49] 12
+Shortest Journey: 3 [49] 12
+
+Node 3 to node 13
+Foremost Journey: 3 [49] 13
+Shortest Journey: 3 [49] 13
+
+Node 3 to node 14
+Foremost Journey: 3 [49] 14
+Shortest Journey: 3 [49] 14
+
+Node 3 to node 15
+Foremost Journey: 3 [49] 15
+Shortest Journey: 3 [49] 15
+
+Node 3 to node 16
+Foremost Journey: 3 [49] 16
+Shortest Journey: 3 [49] 16
+
+Node 3 to node 17
+Foremost Journey: 3 [49] 17
+Shortest Journey: 3 [49] 17
+
+Node 3 to node 18
+Foremost Journey: 3 [49] 18
+Shortest Journey: 3 [49] 18
+
+Node 3 to node 19
+Foremost Journey: 3 [49] 19
+Shortest Journey: 3 [49] 19
+
+Node 3 to node 20
+Foremost Journey: 3 [49] 20
+Shortest Journey: 3 [49] 20
+
+Node 3 to node 21
+Foremost Journey: 3 [49] 21
+Shortest Journey: 3 [49] 21
+
+Node 3 to node 22
+Foremost Journey: 3 [49] 22
+Shortest Journey: 3 [49] 22
+
+Node 3 to node 23
+Foremost Journey: 3 [49] 23
+Shortest Journey: 3 [49] 23
+
+Node 3 to node 24
+Foremost Journey: 3 [49] 24
+Shortest Journey: 3 [49] 24
+
+Node 3 to node 25
+Foremost Journey: 3 [49] 25
+Shortest Journey: 3 [49] 25
+
+Node 3 to node 26
+Foremost Journey: 3 [49] 26
+Shortest Journey: 3 [49] 26
+
+Node 3 to node 27
+Foremost Journey: 3 [49] 27
+Shortest Journey: 3 [49] 27
+
+Node 3 to node 28
+Foremost Journey: 3 [49] 28
+Shortest Journey: 3 [49] 28
+
+Node 3 to node 29
+Foremost Journey: 3 [49] 29
+Shortest Journey: 3 [49] 29
+
+Node 3 to node 30
+Foremost Journey: 3 [49] 30
+Shortest Journey: 3 [49] 30
+
+Node 3 to node 31
+Foremost Journey: 3 [49] 31
+Shortest Journey: 3 [49] 31
+
+Node 3 to node 32
+Foremost Journey: 3 [49] 32
+Shortest Journey: 3 [49] 32
+
+Node 3 to node 33
+Foremost Journey: 3 [49] 33
+Shortest Journey: 3 [49] 33
+
+Node 3 to node 34
+Foremost Journey: 3 [49] 34
+Shortest Journey: 3 [49] 34
+
+Node 3 to node 35
+Foremost Journey: 3 [49] 35
+Shortest Journey: 3 [49] 35
+
+Node 3 to node 36
+Foremost Journey: 3 [49] 36
+Shortest Journey: 3 [49] 36
+
+Node 3 to node 37
+Foremost Journey: 3 [49] 37
+Shortest Journey: 3 [49] 37
+
+Node 3 to node 38
+Foremost Journey: 3 [49] 38
+Shortest Journey: 3 [49] 38
+
+Node 3 to node 39
+Foremost Journey: 3 [49] 39
+Shortest Journey: 3 [49] 39
+
+Node 3 to node 40
+Foremost Journey: 3 [49] 40
+Shortest Journey: 3 [49] 40
+
+Node 3 to node 41
+Foremost Journey: 3 [49] 41
+Shortest Journey: 3 [49] 41
+
+Node 3 to node 42
+Foremost Journey: 3 [49] 42
+Shortest Journey: 3 [49] 42
+
+Node 3 to node 43
+Foremost Journey: 3 [49] 43
+Shortest Journey: 3 [49] 43
+
+Node 3 to node 44
+Foremost Journey: 3 [49] 44
+Shortest Journey: 3 [49] 44
+
+Node 3 to node 45
+Foremost Journey: 3 [49] 45
+Shortest Journey: 3 [49] 45
+
+Node 3 to node 46
+Foremost Journey: 3 [49] 46
+Shortest Journey: 3 [49] 46
+
+Node 3 to node 47
+Foremost Journey: 3 [49] 47
+Shortest Journey: 3 [49] 47
+
+Node 3 to node 48
+Foremost Journey: 3 [49] 48
+Shortest Journey: 3 [49] 48
+
+Node 3 to node 49
+Foremost Journey: 3 [49] 49
+Shortest Journey: 3 [49] 49
+
+Node 4 to node 0
+Foremost Journey: 4 [49] 0
+Shortest Journey: 4 [49] 0
+
+Node 4 to node 1
+Foremost Journey: 4 [49] 1
+Shortest Journey: 4 [49] 1
+
+Node 4 to node 2
+Foremost Journey: 4 [49] 2
+Shortest Journey: 4 [49] 2
+
+Node 4 to node 3
+Foremost Journey: 4 [49] 3
+Shortest Journey: 4 [49] 3
+
+Node 4 to node 5
+Foremost Journey: 4 [49] 5
+Shortest Journey: 4 [49] 5
+
+Node 4 to node 6
+Foremost Journey: 4 [49] 6
+Shortest Journey: 4 [49] 6
+
+Node 4 to node 7
+Foremost Journey: 4 [49] 7
+Shortest Journey: 4 [49] 7
+
+Node 4 to node 8
+Foremost Journey: 4 [49] 8
+Shortest Journey: 4 [49] 8
+
+Node 4 to node 9
+Foremost Journey: 4 [49] 9
+Shortest Journey: 4 [49] 9
+
+Node 4 to node 10
+Foremost Journey: 4 [49] 10
+Shortest Journey: 4 [49] 10
+
+Node 4 to node 11
+Foremost Journey: 4 [49] 11
+Shortest Journey: 4 [49] 11
+
+Node 4 to node 12
+Foremost Journey: 4 [49] 12
+Shortest Journey: 4 [49] 12
+
+Node 4 to node 13
+Foremost Journey: 4 [49] 13
+Shortest Journey: 4 [49] 13
+
+Node 4 to node 14
+Foremost Journey: 4 [49] 14
+Shortest Journey: 4 [49] 14
+
+Node 4 to node 15
+Foremost Journey: 4 [49] 15
+Shortest Journey: 4 [49] 15
+
+Node 4 to node 16
+Foremost Journey: 4 [49] 16
+Shortest Journey: 4 [49] 16
+
+Node 4 to node 17
+Foremost Journey: 4 [49] 17
+Shortest Journey: 4 [49] 17
+
+Node 4 to node 18
+Foremost Journey: 4 [49] 18
+Shortest Journey: 4 [49] 18
+
+Node 4 to node 19
+Foremost Journey: 4 [49] 19
+Shortest Journey: 4 [49] 19
+
+Node 4 to node 20
+Foremost Journey: 4 [49] 20
+Shortest Journey: 4 [49] 20
+
+Node 4 to node 21
+Foremost Journey: 4 [49] 21
+Shortest Journey: 4 [49] 21
+
+Node 4 to node 22
+Foremost Journey: 4 [49] 22
+Shortest Journey: 4 [49] 22
+
+Node 4 to node 23
+Foremost Journey: 4 [49] 23
+Shortest Journey: 4 [49] 23
+
+Node 4 to node 24
+Foremost Journey: 4 [49] 24
+Shortest Journey: 4 [49] 24
+
+Node 4 to node 25
+Foremost Journey: 4 [49] 25
+Shortest Journey: 4 [49] 25
+
+Node 4 to node 26
+Foremost Journey: 4 [49] 26
+Shortest Journey: 4 [49] 26
+
+Node 4 to node 27
+Foremost Journey: 4 [49] 27
+Shortest Journey: 4 [49] 27
+
+Node 4 to node 28
+Foremost Journey: 4 [49] 28
+Shortest Journey: 4 [49] 28
+
+Node 4 to node 29
+Foremost Journey: 4 [49] 29
+Shortest Journey: 4 [49] 29
+
+Node 4 to node 30
+Foremost Journey: 4 [49] 30
+Shortest Journey: 4 [49] 30
+
+Node 4 to node 31
+Foremost Journey: 4 [49] 31
+Shortest Journey: 4 [49] 31
+
+Node 4 to node 32
+Foremost Journey: 4 [49] 32
+Shortest Journey: 4 [49] 32
+
+Node 4 to node 33
+Foremost Journey: 4 [49] 33
+Shortest Journey: 4 [49] 33
+
+Node 4 to node 34
+Foremost Journey: 4 [49] 34
+Shortest Journey: 4 [49] 34
+
+Node 4 to node 35
+Foremost Journey: 4 [49] 35
+Shortest Journey: 4 [49] 35
+
+Node 4 to node 36
+Foremost Journey: 4 [49] 36
+Shortest Journey: 4 [49] 36
+
+Node 4 to node 37
+Foremost Journey: 4 [49] 37
+Shortest Journey: 4 [49] 37
+
+Node 4 to node 38
+Foremost Journey: 4 [49] 38
+Shortest Journey: 4 [49] 38
+
+Node 4 to node 39
+Foremost Journey: 4 [49] 39
+Shortest Journey: 4 [49] 39
+
+Node 4 to node 40
+Foremost Journey: 4 [49] 40
+Shortest Journey: 4 [49] 40
+
+Node 4 to node 41
+Foremost Journey: 4 [49] 41
+Shortest Journey: 4 [49] 41
+
+Node 4 to node 42
+Foremost Journey: 4 [49] 42
+Shortest Journey: 4 [49] 42
+
+Node 4 to node 43
+Foremost Journey: 4 [49] 43
+Shortest Journey: 4 [49] 43
+
+Node 4 to node 44
+Foremost Journey: 4 [49] 44
+Shortest Journey: 4 [49] 44
+
+Node 4 to node 45
+Foremost Journey: 4 [49] 45
+Shortest Journey: 4 [49] 45
+
+Node 4 to node 46
+Foremost Journey: 4 [49] 46
+Shortest Journey: 4 [49] 46
+
+Node 4 to node 47
+Foremost Journey: 4 [49] 47
+Shortest Journey: 4 [49] 47
+
+Node 4 to node 48
+Foremost Journey: 4 [49] 48
+Shortest Journey: 4 [49] 48
+
+Node 4 to node 49
+Foremost Journey: 4 [49] 49
+Shortest Journey: 4 [49] 49
+
+Node 5 to node 0
+Foremost Journey: 5 [49] 0
+Shortest Journey: 5 [49] 0
+
+Node 5 to node 1
+Foremost Journey: 5 [49] 1
+Shortest Journey: 5 [49] 1
+
+Node 5 to node 2
+Foremost Journey: 5 [49] 2
+Shortest Journey: 5 [49] 2
+
+Node 5 to node 3
+Foremost Journey: 5 [49] 3
+Shortest Journey: 5 [49] 3
+
+Node 5 to node 4
+Foremost Journey: 5 [49] 4
+Shortest Journey: 5 [49] 4
+
+Node 5 to node 6
+Foremost Journey: 5 [49] 6
+Shortest Journey: 5 [49] 6
+
+Node 5 to node 7
+Foremost Journey: 5 [49] 7
+Shortest Journey: 5 [49] 7
+
+Node 5 to node 8
+Foremost Journey: 5 [49] 8
+Shortest Journey: 5 [49] 8
+
+Node 5 to node 9
+Foremost Journey: 5 [49] 9
+Shortest Journey: 5 [49] 9
+
+Node 5 to node 10
+Foremost Journey: 5 [49] 10
+Shortest Journey: 5 [49] 10
+
+Node 5 to node 11
+Foremost Journey: 5 [49] 11
+Shortest Journey: 5 [49] 11
+
+Node 5 to node 12
+Foremost Journey: 5 [49] 12
+Shortest Journey: 5 [49] 12
+
+Node 5 to node 13
+Foremost Journey: 5 [49] 13
+Shortest Journey: 5 [49] 13
+
+Node 5 to node 14
+Foremost Journey: 5 [49] 14
+Shortest Journey: 5 [49] 14
+
+Node 5 to node 15
+Foremost Journey: 5 [49] 15
+Shortest Journey: 5 [49] 15
+
+Node 5 to node 16
+Foremost Journey: 5 [49] 16
+Shortest Journey: 5 [49] 16
+
+Node 5 to node 17
+Foremost Journey: 5 [49] 17
+Shortest Journey: 5 [49] 17
+
+Node 5 to node 18
+Foremost Journey: 5 [49] 18
+Shortest Journey: 5 [49] 18
+
+Node 5 to node 19
+Foremost Journey: 5 [49] 19
+Shortest Journey: 5 [49] 19
+
+Node 5 to node 20
+Foremost Journey: 5 [49] 20
+Shortest Journey: 5 [49] 20
+
+Node 5 to node 21
+Foremost Journey: 5 [49] 21
+Shortest Journey: 5 [49] 21
+
+Node 5 to node 22
+Foremost Journey: 5 [49] 22
+Shortest Journey: 5 [49] 22
+
+Node 5 to node 23
+Foremost Journey: 5 [49] 23
+Shortest Journey: 5 [49] 23
+
+Node 5 to node 24
+Foremost Journey: 5 [49] 24
+Shortest Journey: 5 [49] 24
+
+Node 5 to node 25
+Foremost Journey: 5 [49] 25
+Shortest Journey: 5 [49] 25
+
+Node 5 to node 26
+Foremost Journey: 5 [49] 26
+Shortest Journey: 5 [49] 26
+
+Node 5 to node 27
+Foremost Journey: 5 [49] 27
+Shortest Journey: 5 [49] 27
+
+Node 5 to node 28
+Foremost Journey: 5 [49] 28
+Shortest Journey: 5 [49] 28
+
+Node 5 to node 29
+Foremost Journey: 5 [49] 29
+Shortest Journey: 5 [49] 29
+
+Node 5 to node 30
+Foremost Journey: 5 [49] 30
+Shortest Journey: 5 [49] 30
+
+Node 5 to node 31
+Foremost Journey: 5 [49] 31
+Shortest Journey: 5 [49] 31
+
+Node 5 to node 32
+Foremost Journey: 5 [49] 32
+Shortest Journey: 5 [49] 32
+
+Node 5 to node 33
+Foremost Journey: 5 [49] 33
+Shortest Journey: 5 [49] 33
+
+Node 5 to node 34
+Foremost Journey: 5 [49] 34
+Shortest Journey: 5 [49] 34
+
+Node 5 to node 35
+Foremost Journey: 5 [49] 35
+Shortest Journey: 5 [49] 35
+
+Node 5 to node 36
+Foremost Journey: 5 [49] 36
+Shortest Journey: 5 [49] 36
+
+Node 5 to node 37
+Foremost Journey: 5 [49] 37
+Shortest Journey: 5 [49] 37
+
+Node 5 to node 38
+Foremost Journey: 5 [49] 38
+Shortest Journey: 5 [49] 38
+
+Node 5 to node 39
+Foremost Journey: 5 [49] 39
+Shortest Journey: 5 [49] 39
+
+Node 5 to node 40
+Foremost Journey: 5 [49] 40
+Shortest Journey: 5 [49] 40
+
+Node 5 to node 41
+Foremost Journey: 5 [49] 41
+Shortest Journey: 5 [49] 41
+
+Node 5 to node 42
+Foremost Journey: 5 [49] 42
+Shortest Journey: 5 [49] 42
+
+Node 5 to node 43
+Foremost Journey: 5 [49] 43
+Shortest Journey: 5 [49] 43
+
+Node 5 to node 44
+Foremost Journey: 5 [49] 44
+Shortest Journey: 5 [49] 44
+
+Node 5 to node 45
+Foremost Journey: 5 [49] 45
+Shortest Journey: 5 [49] 45
+
+Node 5 to node 46
+Foremost Journey: 5 [49] 46
+Shortest Journey: 5 [49] 46
+
+Node 5 to node 47
+Foremost Journey: 5 [49] 47
+Shortest Journey: 5 [49] 47
+
+Node 5 to node 48
+Foremost Journey: 5 [49] 48
+Shortest Journey: 5 [49] 48
+
+Node 5 to node 49
+Foremost Journey: 5 [49] 49
+Shortest Journey: 5 [49] 49
+
+Node 6 to node 0
+Foremost Journey: 6 [49] 0
+Shortest Journey: 6 [49] 0
+
+Node 6 to node 1
+Foremost Journey: 6 [49] 1
+Shortest Journey: 6 [49] 1
+
+Node 6 to node 2
+Foremost Journey: 6 [49] 2
+Shortest Journey: 6 [49] 2
+
+Node 6 to node 3
+Foremost Journey: 6 [49] 3
+Shortest Journey: 6 [49] 3
+
+Node 6 to node 4
+Foremost Journey: 6 [49] 4
+Shortest Journey: 6 [49] 4
+
+Node 6 to node 5
+Foremost Journey: 6 [49] 5
+Shortest Journey: 6 [49] 5
+
+Node 6 to node 7
+Foremost Journey: 6 [49] 7
+Shortest Journey: 6 [49] 7
+
+Node 6 to node 8
+Foremost Journey: 6 [49] 8
+Shortest Journey: 6 [49] 8
+
+Node 6 to node 9
+Foremost Journey: 6 [49] 9
+Shortest Journey: 6 [49] 9
+
+Node 6 to node 10
+Foremost Journey: 6 [49] 10
+Shortest Journey: 6 [49] 10
+
+Node 6 to node 11
+Foremost Journey: 6 [49] 11
+Shortest Journey: 6 [49] 11
+
+Node 6 to node 12
+Foremost Journey: 6 [49] 12
+Shortest Journey: 6 [49] 12
+
+Node 6 to node 13
+Foremost Journey: 6 [49] 13
+Shortest Journey: 6 [49] 13
+
+Node 6 to node 14
+Foremost Journey: 6 [49] 14
+Shortest Journey: 6 [49] 14
+
+Node 6 to node 15
+Foremost Journey: 6 [49] 15
+Shortest Journey: 6 [49] 15
+
+Node 6 to node 16
+Foremost Journey: 6 [49] 16
+Shortest Journey: 6 [49] 16
+
+Node 6 to node 17
+Foremost Journey: 6 [49] 17
+Shortest Journey: 6 [49] 17
+
+Node 6 to node 18
+Foremost Journey: 6 [49] 18
+Shortest Journey: 6 [49] 18
+
+Node 6 to node 19
+Foremost Journey: 6 [49] 19
+Shortest Journey: 6 [49] 19
+
+Node 6 to node 20
+Foremost Journey: 6 [49] 20
+Shortest Journey: 6 [49] 20
+
+Node 6 to node 21
+Foremost Journey: 6 [49] 21
+Shortest Journey: 6 [49] 21
+
+Node 6 to node 22
+Foremost Journey: 6 [49] 22
+Shortest Journey: 6 [49] 22
+
+Node 6 to node 23
+Foremost Journey: 6 [49] 23
+Shortest Journey: 6 [49] 23
+
+Node 6 to node 24
+Foremost Journey: 6 [49] 24
+Shortest Journey: 6 [49] 24
+
+Node 6 to node 25
+Foremost Journey: 6 [49] 25
+Shortest Journey: 6 [49] 25
+
+Node 6 to node 26
+Foremost Journey: 6 [49] 26
+Shortest Journey: 6 [49] 26
+
+Node 6 to node 27
+Foremost Journey: 6 [49] 27
+Shortest Journey: 6 [49] 27
+
+Node 6 to node 28
+Foremost Journey: 6 [49] 28
+Shortest Journey: 6 [49] 28
+
+Node 6 to node 29
+Foremost Journey: 6 [49] 29
+Shortest Journey: 6 [49] 29
+
+Node 6 to node 30
+Foremost Journey: 6 [49] 30
+Shortest Journey: 6 [49] 30
+
+Node 6 to node 31
+Foremost Journey: 6 [49] 31
+Shortest Journey: 6 [49] 31
+
+Node 6 to node 32
+Foremost Journey: 6 [49] 32
+Shortest Journey: 6 [49] 32
+
+Node 6 to node 33
+Foremost Journey: 6 [49] 33
+Shortest Journey: 6 [49] 33
+
+Node 6 to node 34
+Foremost Journey: 6 [49] 34
+Shortest Journey: 6 [49] 34
+
+Node 6 to node 35
+Foremost Journey: 6 [49] 35
+Shortest Journey: 6 [49] 35
+
+Node 6 to node 36
+Foremost Journey: 6 [49] 36
+Shortest Journey: 6 [49] 36
+
+Node 6 to node 37
+Foremost Journey: 6 [49] 37
+Shortest Journey: 6 [49] 37
+
+Node 6 to node 38
+Foremost Journey: 6 [49] 38
+Shortest Journey: 6 [49] 38
+
+Node 6 to node 39
+Foremost Journey: 6 [49] 39
+Shortest Journey: 6 [49] 39
+
+Node 6 to node 40
+Foremost Journey: 6 [49] 40
+Shortest Journey: 6 [49] 40
+
+Node 6 to node 41
+Foremost Journey: 6 [49] 41
+Shortest Journey: 6 [49] 41
+
+Node 6 to node 42
+Foremost Journey: 6 [49] 42
+Shortest Journey: 6 [49] 42
+
+Node 6 to node 43
+Foremost Journey: 6 [49] 43
+Shortest Journey: 6 [49] 43
+
+Node 6 to node 44
+Foremost Journey: 6 [49] 44
+Shortest Journey: 6 [49] 44
+
+Node 6 to node 45
+Foremost Journey: 6 [49] 45
+Shortest Journey: 6 [49] 45
+
+Node 6 to node 46
+Foremost Journey: 6 [49] 46
+Shortest Journey: 6 [49] 46
+
+Node 6 to node 47
+Foremost Journey: 6 [49] 47
+Shortest Journey: 6 [49] 47
+
+Node 6 to node 48
+Foremost Journey: 6 [49] 48
+Shortest Journey: 6 [49] 48
+
+Node 6 to node 49
+Foremost Journey: 6 [49] 49
+Shortest Journey: 6 [49] 49
+
+Node 7 to node 0
+Foremost Journey: 7 [49] 0
+Shortest Journey: 7 [49] 0
+
+Node 7 to node 1
+Foremost Journey: 7 [49] 1
+Shortest Journey: 7 [49] 1
+
+Node 7 to node 2
+Foremost Journey: 7 [49] 2
+Shortest Journey: 7 [49] 2
+
+Node 7 to node 3
+Foremost Journey: 7 [49] 3
+Shortest Journey: 7 [49] 3
+
+Node 7 to node 4
+Foremost Journey: 7 [49] 4
+Shortest Journey: 7 [49] 4
+
+Node 7 to node 5
+Foremost Journey: 7 [49] 5
+Shortest Journey: 7 [49] 5
+
+Node 7 to node 6
+Foremost Journey: 7 [49] 6
+Shortest Journey: 7 [49] 6
+
+Node 7 to node 8
+Foremost Journey: 7 [49] 8
+Shortest Journey: 7 [49] 8
+
+Node 7 to node 9
+Foremost Journey: 7 [49] 9
+Shortest Journey: 7 [49] 9
+
+Node 7 to node 10
+Foremost Journey: 7 [49] 10
+Shortest Journey: 7 [49] 10
+
+Node 7 to node 11
+Foremost Journey: 7 [49] 11
+Shortest Journey: 7 [49] 11
+
+Node 7 to node 12
+Foremost Journey: 7 [49] 12
+Shortest Journey: 7 [49] 12
+
+Node 7 to node 13
+Foremost Journey: 7 [49] 13
+Shortest Journey: 7 [49] 13
+
+Node 7 to node 14
+Foremost Journey: 7 [49] 14
+Shortest Journey: 7 [49] 14
+
+Node 7 to node 15
+Foremost Journey: 7 [49] 15
+Shortest Journey: 7 [49] 15
+
+Node 7 to node 16
+Foremost Journey: 7 [49] 16
+Shortest Journey: 7 [49] 16
+
+Node 7 to node 17
+Foremost Journey: 7 [49] 17
+Shortest Journey: 7 [49] 17
+
+Node 7 to node 18
+Foremost Journey: 7 [49] 18
+Shortest Journey: 7 [49] 18
+
+Node 7 to node 19
+Foremost Journey: 7 [49] 19
+Shortest Journey: 7 [49] 19
+
+Node 7 to node 20
+Foremost Journey: 7 [49] 20
+Shortest Journey: 7 [49] 20
+
+Node 7 to node 21
+Foremost Journey: 7 [49] 21
+Shortest Journey: 7 [49] 21
+
+Node 7 to node 22
+Foremost Journey: 7 [49] 22
+Shortest Journey: 7 [49] 22
+
+Node 7 to node 23
+Foremost Journey: 7 [49] 23
+Shortest Journey: 7 [49] 23
+
+Node 7 to node 24
+Foremost Journey: 7 [49] 24
+Shortest Journey: 7 [49] 24
+
+Node 7 to node 25
+Foremost Journey: 7 [49] 25
+Shortest Journey: 7 [49] 25
+
+Node 7 to node 26
+Foremost Journey: 7 [49] 26
+Shortest Journey: 7 [49] 26
+
+Node 7 to node 27
+Foremost Journey: 7 [49] 27
+Shortest Journey: 7 [49] 27
+
+Node 7 to node 28
+Foremost Journey: 7 [49] 28
+Shortest Journey: 7 [49] 28
+
+Node 7 to node 29
+Foremost Journey: 7 [49] 29
+Shortest Journey: 7 [49] 29
+
+Node 7 to node 30
+Foremost Journey: 7 [49] 30
+Shortest Journey: 7 [49] 30
+
+Node 7 to node 31
+Foremost Journey: 7 [49] 31
+Shortest Journey: 7 [49] 31
+
+Node 7 to node 32
+Foremost Journey: 7 [49] 32
+Shortest Journey: 7 [49] 32
+
+Node 7 to node 33
+Foremost Journey: 7 [49] 33
+Shortest Journey: 7 [49] 33
+
+Node 7 to node 34
+Foremost Journey: 7 [49] 34
+Shortest Journey: 7 [49] 34
+
+Node 7 to node 35
+Foremost Journey: 7 [49] 35
+Shortest Journey: 7 [49] 35
+
+Node 7 to node 36
+Foremost Journey: 7 [49] 36
+Shortest Journey: 7 [49] 36
+
+Node 7 to node 37
+Foremost Journey: 7 [49] 37
+Shortest Journey: 7 [49] 37
+
+Node 7 to node 38
+Foremost Journey: 7 [49] 38
+Shortest Journey: 7 [49] 38
+
+Node 7 to node 39
+Foremost Journey: 7 [49] 39
+Shortest Journey: 7 [49] 39
+
+Node 7 to node 40
+Foremost Journey: 7 [49] 40
+Shortest Journey: 7 [49] 40
+
+Node 7 to node 41
+Foremost Journey: 7 [49] 41
+Shortest Journey: 7 [49] 41
+
+Node 7 to node 42
+Foremost Journey: 7 [49] 42
+Shortest Journey: 7 [49] 42
+
+Node 7 to node 43
+Foremost Journey: 7 [49] 43
+Shortest Journey: 7 [49] 43
+
+Node 7 to node 44
+Foremost Journey: 7 [49] 44
+Shortest Journey: 7 [49] 44
+
+Node 7 to node 45
+Foremost Journey: 7 [49] 45
+Shortest Journey: 7 [49] 45
+
+Node 7 to node 46
+Foremost Journey: 7 [49] 46
+Shortest Journey: 7 [49] 46
+
+Node 7 to node 47
+Foremost Journey: 7 [49] 47
+Shortest Journey: 7 [49] 47
+
+Node 7 to node 48
+Foremost Journey: 7 [49] 48
+Shortest Journey: 7 [49] 48
+
+Node 7 to node 49
+Foremost Journey: 7 [49] 49
+Shortest Journey: 7 [49] 49
+
+Node 8 to node 0
+Foremost Journey: 8 [49] 0
+Shortest Journey: 8 [49] 0
+
+Node 8 to node 1
+Foremost Journey: 8 [49] 1
+Shortest Journey: 8 [49] 1
+
+Node 8 to node 2
+Foremost Journey: 8 [49] 2
+Shortest Journey: 8 [49] 2
+
+Node 8 to node 3
+Foremost Journey: 8 [49] 3
+Shortest Journey: 8 [49] 3
+
+Node 8 to node 4
+Foremost Journey: 8 [49] 4
+Shortest Journey: 8 [49] 4
+
+Node 8 to node 5
+Foremost Journey: 8 [49] 5
+Shortest Journey: 8 [49] 5
+
+Node 8 to node 6
+Foremost Journey: 8 [49] 6
+Shortest Journey: 8 [49] 6
+
+Node 8 to node 7
+Foremost Journey: 8 [49] 7
+Shortest Journey: 8 [49] 7
+
+Node 8 to node 9
+Foremost Journey: 8 [49] 9
+Shortest Journey: 8 [49] 9
+
+Node 8 to node 10
+Foremost Journey: 8 [49] 10
+Shortest Journey: 8 [49] 10
+
+Node 8 to node 11
+Foremost Journey: 8 [49] 11
+Shortest Journey: 8 [49] 11
+
+Node 8 to node 12
+Foremost Journey: 8 [49] 12
+Shortest Journey: 8 [49] 12
+
+Node 8 to node 13
+Foremost Journey: 8 [49] 13
+Shortest Journey: 8 [49] 13
+
+Node 8 to node 14
+Foremost Journey: 8 [49] 14
+Shortest Journey: 8 [49] 14
+
+Node 8 to node 15
+Foremost Journey: 8 [49] 15
+Shortest Journey: 8 [49] 15
+
+Node 8 to node 16
+Foremost Journey: 8 [49] 16
+Shortest Journey: 8 [49] 16
+
+Node 8 to node 17
+Foremost Journey: 8 [49] 17
+Shortest Journey: 8 [49] 17
+
+Node 8 to node 18
+Foremost Journey: 8 [49] 18
+Shortest Journey: 8 [49] 18
+
+Node 8 to node 19
+Foremost Journey: 8 [49] 19
+Shortest Journey: 8 [49] 19
+
+Node 8 to node 20
+Foremost Journey: 8 [49] 20
+Shortest Journey: 8 [49] 20
+
+Node 8 to node 21
+Foremost Journey: 8 [49] 21
+Shortest Journey: 8 [49] 21
+
+Node 8 to node 22
+Foremost Journey: 8 [49] 22
+Shortest Journey: 8 [49] 22
+
+Node 8 to node 23
+Foremost Journey: 8 [49] 23
+Shortest Journey: 8 [49] 23
+
+Node 8 to node 24
+Foremost Journey: 8 [49] 24
+Shortest Journey: 8 [49] 24
+
+Node 8 to node 25
+Foremost Journey: 8 [49] 25
+Shortest Journey: 8 [49] 25
+
+Node 8 to node 26
+Foremost Journey: 8 [49] 26
+Shortest Journey: 8 [49] 26
+
+Node 8 to node 27
+Foremost Journey: 8 [49] 27
+Shortest Journey: 8 [49] 27
+
+Node 8 to node 28
+Foremost Journey: 8 [49] 28
+Shortest Journey: 8 [49] 28
+
+Node 8 to node 29
+Foremost Journey: 8 [49] 29
+Shortest Journey: 8 [49] 29
+
+Node 8 to node 30
+Foremost Journey: 8 [49] 30
+Shortest Journey: 8 [49] 30
+
+Node 8 to node 31
+Foremost Journey: 8 [49] 31
+Shortest Journey: 8 [49] 31
+
+Node 8 to node 32
+Foremost Journey: 8 [49] 32
+Shortest Journey: 8 [49] 32
+
+Node 8 to node 33
+Foremost Journey: 8 [49] 33
+Shortest Journey: 8 [49] 33
+
+Node 8 to node 34
+Foremost Journey: 8 [49] 34
+Shortest Journey: 8 [49] 34
+
+Node 8 to node 35
+Foremost Journey: 8 [49] 35
+Shortest Journey: 8 [49] 35
+
+Node 8 to node 36
+Foremost Journey: 8 [49] 36
+Shortest Journey: 8 [49] 36
+
+Node 8 to node 37
+Foremost Journey: 8 [49] 37
+Shortest Journey: 8 [49] 37
+
+Node 8 to node 38
+Foremost Journey: 8 [49] 38
+Shortest Journey: 8 [49] 38
+
+Node 8 to node 39
+Foremost Journey: 8 [49] 39
+Shortest Journey: 8 [49] 39
+
+Node 8 to node 40
+Foremost Journey: 8 [49] 40
+Shortest Journey: 8 [49] 40
+
+Node 8 to node 41
+Foremost Journey: 8 [49] 41
+Shortest Journey: 8 [49] 41
+
+Node 8 to node 42
+Foremost Journey: 8 [49] 42
+Shortest Journey: 8 [49] 42
+
+Node 8 to node 43
+Foremost Journey: 8 [49] 43
+Shortest Journey: 8 [49] 43
+
+Node 8 to node 44
+Foremost Journey: 8 [49] 44
+Shortest Journey: 8 [49] 44
+
+Node 8 to node 45
+Foremost Journey: 8 [49] 45
+Shortest Journey: 8 [49] 45
+
+Node 8 to node 46
+Foremost Journey: 8 [49] 46
+Shortest Journey: 8 [49] 46
+
+Node 8 to node 47
+Foremost Journey: 8 [49] 47
+Shortest Journey: 8 [49] 47
+
+Node 8 to node 48
+Foremost Journey: 8 [49] 48
+Shortest Journey: 8 [49] 48
+
+Node 8 to node 49
+Foremost Journey: 8 [49] 49
+Shortest Journey: 8 [49] 49
+
+Node 9 to node 0
+Foremost Journey: 9 [49] 0
+Shortest Journey: 9 [49] 0
+
+Node 9 to node 1
+Foremost Journey: 9 [49] 1
+Shortest Journey: 9 [49] 1
+
+Node 9 to node 2
+Foremost Journey: 9 [49] 2
+Shortest Journey: 9 [49] 2
+
+Node 9 to node 3
+Foremost Journey: 9 [49] 3
+Shortest Journey: 9 [49] 3
+
+Node 9 to node 4
+Foremost Journey: 9 [49] 4
+Shortest Journey: 9 [49] 4
+
+Node 9 to node 5
+Foremost Journey: 9 [49] 5
+Shortest Journey: 9 [49] 5
+
+Node 9 to node 6
+Foremost Journey: 9 [49] 6
+Shortest Journey: 9 [49] 6
+
+Node 9 to node 7
+Foremost Journey: 9 [49] 7
+Shortest Journey: 9 [49] 7
+
+Node 9 to node 8
+Foremost Journey: 9 [49] 8
+Shortest Journey: 9 [49] 8
+
+Node 9 to node 10
+Foremost Journey: 9 [49] 10
+Shortest Journey: 9 [49] 10
+
+Node 9 to node 11
+Foremost Journey: 9 [49] 11
+Shortest Journey: 9 [49] 11
+
+Node 9 to node 12
+Foremost Journey: 9 [49] 12
+Shortest Journey: 9 [49] 12
+
+Node 9 to node 13
+Foremost Journey: 9 [49] 13
+Shortest Journey: 9 [49] 13
+
+Node 9 to node 14
+Foremost Journey: 9 [49] 14
+Shortest Journey: 9 [49] 14
+
+Node 9 to node 15
+Foremost Journey: 9 [49] 15
+Shortest Journey: 9 [49] 15
+
+Node 9 to node 16
+Foremost Journey: 9 [49] 16
+Shortest Journey: 9 [49] 16
+
+Node 9 to node 17
+Foremost Journey: 9 [49] 17
+Shortest Journey: 9 [49] 17
+
+Node 9 to node 18
+Foremost Journey: 9 [49] 18
+Shortest Journey: 9 [49] 18
+
+Node 9 to node 19
+Foremost Journey: 9 [49] 19
+Shortest Journey: 9 [49] 19
+
+Node 9 to node 20
+Foremost Journey: 9 [49] 20
+Shortest Journey: 9 [49] 20
+
+Node 9 to node 21
+Foremost Journey: 9 [49] 21
+Shortest Journey: 9 [49] 21
+
+Node 9 to node 22
+Foremost Journey: 9 [49] 22
+Shortest Journey: 9 [49] 22
+
+Node 9 to node 23
+Foremost Journey: 9 [49] 23
+Shortest Journey: 9 [49] 23
+
+Node 9 to node 24
+Foremost Journey: 9 [49] 24
+Shortest Journey: 9 [49] 24
+
+Node 9 to node 25
+Foremost Journey: 9 [49] 25
+Shortest Journey: 9 [49] 25
+
+Node 9 to node 26
+Foremost Journey: 9 [49] 26
+Shortest Journey: 9 [49] 26
+
+Node 9 to node 27
+Foremost Journey: 9 [49] 27
+Shortest Journey: 9 [49] 27
+
+Node 9 to node 28
+Foremost Journey: 9 [49] 28
+Shortest Journey: 9 [49] 28
+
+Node 9 to node 29
+Foremost Journey: 9 [49] 29
+Shortest Journey: 9 [49] 29
+
+Node 9 to node 30
+Foremost Journey: 9 [49] 30
+Shortest Journey: 9 [49] 30
+
+Node 9 to node 31
+Foremost Journey: 9 [49] 31
+Shortest Journey: 9 [49] 31
+
+Node 9 to node 32
+Foremost Journey: 9 [49] 32
+Shortest Journey: 9 [49] 32
+
+Node 9 to node 33
+Foremost Journey: 9 [49] 33
+Shortest Journey: 9 [49] 33
+
+Node 9 to node 34
+Foremost Journey: 9 [49] 34
+Shortest Journey: 9 [49] 34
+
+Node 9 to node 35
+Foremost Journey: 9 [49] 35
+Shortest Journey: 9 [49] 35
+
+Node 9 to node 36
+Foremost Journey: 9 [49] 36
+Shortest Journey: 9 [49] 36
+
+Node 9 to node 37
+Foremost Journey: 9 [49] 37
+Shortest Journey: 9 [49] 37
+
+Node 9 to node 38
+Foremost Journey: 9 [49] 38
+Shortest Journey: 9 [49] 38
+
+Node 9 to node 39
+Foremost Journey: 9 [49] 39
+Shortest Journey: 9 [49] 39
+
+Node 9 to node 40
+Foremost Journey: 9 [49] 40
+Shortest Journey: 9 [49] 40
+
+Node 9 to node 41
+Foremost Journey: 9 [49] 41
+Shortest Journey: 9 [49] 41
+
+Node 9 to node 42
+Foremost Journey: 9 [49] 42
+Shortest Journey: 9 [49] 42
+
+Node 9 to node 43
+Foremost Journey: 9 [49] 43
+Shortest Journey: 9 [49] 43
+
+Node 9 to node 44
+Foremost Journey: 9 [49] 44
+Shortest Journey: 9 [49] 44
+
+Node 9 to node 45
+Foremost Journey: 9 [49] 45
+Shortest Journey: 9 [49] 45
+
+Node 9 to node 46
+Foremost Journey: 9 [49] 46
+Shortest Journey: 9 [49] 46
+
+Node 9 to node 47
+Foremost Journey: 9 [49] 47
+Shortest Journey: 9 [49] 47
+
+Node 9 to node 48
+Foremost Journey: 9 [49] 48
+Shortest Journey: 9 [49] 48
+
+Node 9 to node 49
+Foremost Journey: 9 [49] 49
+Shortest Journey: 9 [49] 49
+
+Node 10 to node 0
+Foremost Journey: 10 [49] 0
+Shortest Journey: 10 [49] 0
+
+Node 10 to node 1
+Foremost Journey: 10 [49] 1
+Shortest Journey: 10 [49] 1
+
+Node 10 to node 2
+Foremost Journey: 10 [49] 2
+Shortest Journey: 10 [49] 2
+
+Node 10 to node 3
+Foremost Journey: 10 [49] 3
+Shortest Journey: 10 [49] 3
+
+Node 10 to node 4
+Foremost Journey: 10 [49] 4
+Shortest Journey: 10 [49] 4
+
+Node 10 to node 5
+Foremost Journey: 10 [49] 5
+Shortest Journey: 10 [49] 5
+
+Node 10 to node 6
+Foremost Journey: 10 [49] 6
+Shortest Journey: 10 [49] 6
+
+Node 10 to node 7
+Foremost Journey: 10 [49] 7
+Shortest Journey: 10 [49] 7
+
+Node 10 to node 8
+Foremost Journey: 10 [49] 8
+Shortest Journey: 10 [49] 8
+
+Node 10 to node 9
+Foremost Journey: 10 [49] 9
+Shortest Journey: 10 [49] 9
+
+Node 10 to node 11
+Foremost Journey: 10 [49] 11
+Shortest Journey: 10 [49] 11
+
+Node 10 to node 12
+Foremost Journey: 10 [49] 12
+Shortest Journey: 10 [49] 12
+
+Node 10 to node 13
+Foremost Journey: 10 [49] 13
+Shortest Journey: 10 [49] 13
+
+Node 10 to node 14
+Foremost Journey: 10 [49] 14
+Shortest Journey: 10 [49] 14
+
+Node 10 to node 15
+Foremost Journey: 10 [49] 15
+Shortest Journey: 10 [49] 15
+
+Node 10 to node 16
+Foremost Journey: 10 [49] 16
+Shortest Journey: 10 [49] 16
+
+Node 10 to node 17
+Foremost Journey: 10 [49] 17
+Shortest Journey: 10 [49] 17
+
+Node 10 to node 18
+Foremost Journey: 10 [49] 18
+Shortest Journey: 10 [49] 18
+
+Node 10 to node 19
+Foremost Journey: 10 [49] 19
+Shortest Journey: 10 [49] 19
+
+Node 10 to node 20
+Foremost Journey: 10 [49] 20
+Shortest Journey: 10 [49] 20
+
+Node 10 to node 21
+Foremost Journey: 10 [49] 21
+Shortest Journey: 10 [49] 21
+
+Node 10 to node 22
+Foremost Journey: 10 [49] 22
+Shortest Journey: 10 [49] 22
+
+Node 10 to node 23
+Foremost Journey: 10 [49] 23
+Shortest Journey: 10 [49] 23
+
+Node 10 to node 24
+Foremost Journey: 10 [49] 24
+Shortest Journey: 10 [49] 24
+
+Node 10 to node 25
+Foremost Journey: 10 [49] 25
+Shortest Journey: 10 [49] 25
+
+Node 10 to node 26
+Foremost Journey: 10 [49] 26
+Shortest Journey: 10 [49] 26
+
+Node 10 to node 27
+Foremost Journey: 10 [49] 27
+Shortest Journey: 10 [49] 27
+
+Node 10 to node 28
+Foremost Journey: 10 [49] 28
+Shortest Journey: 10 [49] 28
+
+Node 10 to node 29
+Foremost Journey: 10 [49] 29
+Shortest Journey: 10 [49] 29
+
+Node 10 to node 30
+Foremost Journey: 10 [49] 30
+Shortest Journey: 10 [49] 30
+
+Node 10 to node 31
+Foremost Journey: 10 [49] 31
+Shortest Journey: 10 [49] 31
+
+Node 10 to node 32
+Foremost Journey: 10 [49] 32
+Shortest Journey: 10 [49] 32
+
+Node 10 to node 33
+Foremost Journey: 10 [49] 33
+Shortest Journey: 10 [49] 33
+
+Node 10 to node 34
+Foremost Journey: 10 [49] 34
+Shortest Journey: 10 [49] 34
+
+Node 10 to node 35
+Foremost Journey: 10 [49] 35
+Shortest Journey: 10 [49] 35
+
+Node 10 to node 36
+Foremost Journey: 10 [49] 36
+Shortest Journey: 10 [49] 36
+
+Node 10 to node 37
+Foremost Journey: 10 [49] 37
+Shortest Journey: 10 [49] 37
+
+Node 10 to node 38
+Foremost Journey: 10 [49] 38
+Shortest Journey: 10 [49] 38
+
+Node 10 to node 39
+Foremost Journey: 10 [49] 39
+Shortest Journey: 10 [49] 39
+
+Node 10 to node 40
+Foremost Journey: 10 [49] 40
+Shortest Journey: 10 [49] 40
+
+Node 10 to node 41
+Foremost Journey: 10 [49] 41
+Shortest Journey: 10 [49] 41
+
+Node 10 to node 42
+Foremost Journey: 10 [49] 42
+Shortest Journey: 10 [49] 42
+
+Node 10 to node 43
+Foremost Journey: 10 [49] 43
+Shortest Journey: 10 [49] 43
+
+Node 10 to node 44
+Foremost Journey: 10 [49] 44
+Shortest Journey: 10 [49] 44
+
+Node 10 to node 45
+Foremost Journey: 10 [49] 45
+Shortest Journey: 10 [49] 45
+
+Node 10 to node 46
+Foremost Journey: 10 [49] 46
+Shortest Journey: 10 [49] 46
+
+Node 10 to node 47
+Foremost Journey: 10 [49] 47
+Shortest Journey: 10 [49] 47
+
+Node 10 to node 48
+Foremost Journey: 10 [49] 48
+Shortest Journey: 10 [49] 48
+
+Node 10 to node 49
+Foremost Journey: 10 [49] 49
+Shortest Journey: 10 [49] 49
+
+Node 11 to node 0
+Foremost Journey: 11 [49] 0
+Shortest Journey: 11 [49] 0
+
+Node 11 to node 1
+Foremost Journey: 11 [49] 1
+Shortest Journey: 11 [49] 1
+
+Node 11 to node 2
+Foremost Journey: 11 [49] 2
+Shortest Journey: 11 [49] 2
+
+Node 11 to node 3
+Foremost Journey: 11 [49] 3
+Shortest Journey: 11 [49] 3
+
+Node 11 to node 4
+Foremost Journey: 11 [49] 4
+Shortest Journey: 11 [49] 4
+
+Node 11 to node 5
+Foremost Journey: 11 [49] 5
+Shortest Journey: 11 [49] 5
+
+Node 11 to node 6
+Foremost Journey: 11 [49] 6
+Shortest Journey: 11 [49] 6
+
+Node 11 to node 7
+Foremost Journey: 11 [49] 7
+Shortest Journey: 11 [49] 7
+
+Node 11 to node 8
+Foremost Journey: 11 [49] 8
+Shortest Journey: 11 [49] 8
+
+Node 11 to node 9
+Foremost Journey: 11 [49] 9
+Shortest Journey: 11 [49] 9
+
+Node 11 to node 10
+Foremost Journey: 11 [49] 10
+Shortest Journey: 11 [49] 10
+
+Node 11 to node 12
+Foremost Journey: 11 [49] 12
+Shortest Journey: 11 [49] 12
+
+Node 11 to node 13
+Foremost Journey: 11 [49] 13
+Shortest Journey: 11 [49] 13
+
+Node 11 to node 14
+Foremost Journey: 11 [49] 14
+Shortest Journey: 11 [49] 14
+
+Node 11 to node 15
+Foremost Journey: 11 [49] 15
+Shortest Journey: 11 [49] 15
+
+Node 11 to node 16
+Foremost Journey: 11 [49] 16
+Shortest Journey: 11 [49] 16
+
+Node 11 to node 17
+Foremost Journey: 11 [49] 17
+Shortest Journey: 11 [49] 17
+
+Node 11 to node 18
+Foremost Journey: 11 [49] 18
+Shortest Journey: 11 [49] 18
+
+Node 11 to node 19
+Foremost Journey: 11 [49] 19
+Shortest Journey: 11 [49] 19
+
+Node 11 to node 20
+Foremost Journey: 11 [49] 20
+Shortest Journey: 11 [49] 20
+
+Node 11 to node 21
+Foremost Journey: 11 [49] 21
+Shortest Journey: 11 [49] 21
+
+Node 11 to node 22
+Foremost Journey: 11 [49] 22
+Shortest Journey: 11 [49] 22
+
+Node 11 to node 23
+Foremost Journey: 11 [49] 23
+Shortest Journey: 11 [49] 23
+
+Node 11 to node 24
+Foremost Journey: 11 [49] 24
+Shortest Journey: 11 [49] 24
+
+Node 11 to node 25
+Foremost Journey: 11 [49] 25
+Shortest Journey: 11 [49] 25
+
+Node 11 to node 26
+Foremost Journey: 11 [49] 26
+Shortest Journey: 11 [49] 26
+
+Node 11 to node 27
+Foremost Journey: 11 [49] 27
+Shortest Journey: 11 [49] 27
+
+Node 11 to node 28
+Foremost Journey: 11 [49] 28
+Shortest Journey: 11 [49] 28
+
+Node 11 to node 29
+Foremost Journey: 11 [49] 29
+Shortest Journey: 11 [49] 29
+
+Node 11 to node 30
+Foremost Journey: 11 [49] 30
+Shortest Journey: 11 [49] 30
+
+Node 11 to node 31
+Foremost Journey: 11 [49] 31
+Shortest Journey: 11 [49] 31
+
+Node 11 to node 32
+Foremost Journey: 11 [49] 32
+Shortest Journey: 11 [49] 32
+
+Node 11 to node 33
+Foremost Journey: 11 [49] 33
+Shortest Journey: 11 [49] 33
+
+Node 11 to node 34
+Foremost Journey: 11 [49] 34
+Shortest Journey: 11 [49] 34
+
+Node 11 to node 35
+Foremost Journey: 11 [49] 35
+Shortest Journey: 11 [49] 35
+
+Node 11 to node 36
+Foremost Journey: 11 [49] 36
+Shortest Journey: 11 [49] 36
+
+Node 11 to node 37
+Foremost Journey: 11 [49] 37
+Shortest Journey: 11 [49] 37
+
+Node 11 to node 38
+Foremost Journey: 11 [49] 38
+Shortest Journey: 11 [49] 38
+
+Node 11 to node 39
+Foremost Journey: 11 [49] 39
+Shortest Journey: 11 [49] 39
+
+Node 11 to node 40
+Foremost Journey: 11 [49] 40
+Shortest Journey: 11 [49] 40
+
+Node 11 to node 41
+Foremost Journey: 11 [49] 41
+Shortest Journey: 11 [49] 41
+
+Node 11 to node 42
+Foremost Journey: 11 [49] 42
+Shortest Journey: 11 [49] 42
+
+Node 11 to node 43
+Foremost Journey: 11 [49] 43
+Shortest Journey: 11 [49] 43
+
+Node 11 to node 44
+Foremost Journey: 11 [49] 44
+Shortest Journey: 11 [49] 44
+
+Node 11 to node 45
+Foremost Journey: 11 [49] 45
+Shortest Journey: 11 [49] 45
+
+Node 11 to node 46
+Foremost Journey: 11 [49] 46
+Shortest Journey: 11 [49] 46
+
+Node 11 to node 47
+Foremost Journey: 11 [49] 47
+Shortest Journey: 11 [49] 47
+
+Node 11 to node 48
+Foremost Journey: 11 [49] 48
+Shortest Journey: 11 [49] 48
+
+Node 11 to node 49
+Foremost Journey: 11 [49] 49
+Shortest Journey: 11 [49] 49
+
+Node 12 to node 0
+Foremost Journey: 12 [49] 0
+Shortest Journey: 12 [49] 0
+
+Node 12 to node 1
+Foremost Journey: 12 [49] 1
+Shortest Journey: 12 [49] 1
+
+Node 12 to node 2
+Foremost Journey: 12 [49] 2
+Shortest Journey: 12 [49] 2
+
+Node 12 to node 3
+Foremost Journey: 12 [49] 3
+Shortest Journey: 12 [49] 3
+
+Node 12 to node 4
+Foremost Journey: 12 [49] 4
+Shortest Journey: 12 [49] 4
+
+Node 12 to node 5
+Foremost Journey: 12 [49] 5
+Shortest Journey: 12 [49] 5
+
+Node 12 to node 6
+Foremost Journey: 12 [49] 6
+Shortest Journey: 12 [49] 6
+
+Node 12 to node 7
+Foremost Journey: 12 [49] 7
+Shortest Journey: 12 [49] 7
+
+Node 12 to node 8
+Foremost Journey: 12 [49] 8
+Shortest Journey: 12 [49] 8
+
+Node 12 to node 9
+Foremost Journey: 12 [49] 9
+Shortest Journey: 12 [49] 9
+
+Node 12 to node 10
+Foremost Journey: 12 [49] 10
+Shortest Journey: 12 [49] 10
+
+Node 12 to node 11
+Foremost Journey: 12 [49] 11
+Shortest Journey: 12 [49] 11
+
+Node 12 to node 13
+Foremost Journey: 12 [49] 13
+Shortest Journey: 12 [49] 13
+
+Node 12 to node 14
+Foremost Journey: 12 [49] 14
+Shortest Journey: 12 [49] 14
+
+Node 12 to node 15
+Foremost Journey: 12 [49] 15
+Shortest Journey: 12 [49] 15
+
+Node 12 to node 16
+Foremost Journey: 12 [49] 16
+Shortest Journey: 12 [49] 16
+
+Node 12 to node 17
+Foremost Journey: 12 [49] 17
+Shortest Journey: 12 [49] 17
+
+Node 12 to node 18
+Foremost Journey: 12 [49] 18
+Shortest Journey: 12 [49] 18
+
+Node 12 to node 19
+Foremost Journey: 12 [49] 19
+Shortest Journey: 12 [49] 19
+
+Node 12 to node 20
+Foremost Journey: 12 [49] 20
+Shortest Journey: 12 [49] 20
+
+Node 12 to node 21
+Foremost Journey: 12 [49] 21
+Shortest Journey: 12 [49] 21
+
+Node 12 to node 22
+Foremost Journey: 12 [49] 22
+Shortest Journey: 12 [49] 22
+
+Node 12 to node 23
+Foremost Journey: 12 [49] 23
+Shortest Journey: 12 [49] 23
+
+Node 12 to node 24
+Foremost Journey: 12 [49] 24
+Shortest Journey: 12 [49] 24
+
+Node 12 to node 25
+Foremost Journey: 12 [49] 25
+Shortest Journey: 12 [49] 25
+
+Node 12 to node 26
+Foremost Journey: 12 [49] 26
+Shortest Journey: 12 [49] 26
+
+Node 12 to node 27
+Foremost Journey: 12 [49] 27
+Shortest Journey: 12 [49] 27
+
+Node 12 to node 28
+Foremost Journey: 12 [49] 28
+Shortest Journey: 12 [49] 28
+
+Node 12 to node 29
+Foremost Journey: 12 [49] 29
+Shortest Journey: 12 [49] 29
+
+Node 12 to node 30
+Foremost Journey: 12 [49] 30
+Shortest Journey: 12 [49] 30
+
+Node 12 to node 31
+Foremost Journey: 12 [49] 31
+Shortest Journey: 12 [49] 31
+
+Node 12 to node 32
+Foremost Journey: 12 [49] 32
+Shortest Journey: 12 [49] 32
+
+Node 12 to node 33
+Foremost Journey: 12 [49] 33
+Shortest Journey: 12 [49] 33
+
+Node 12 to node 34
+Foremost Journey: 12 [49] 34
+Shortest Journey: 12 [49] 34
+
+Node 12 to node 35
+Foremost Journey: 12 [49] 35
+Shortest Journey: 12 [49] 35
+
+Node 12 to node 36
+Foremost Journey: 12 [49] 36
+Shortest Journey: 12 [49] 36
+
+Node 12 to node 37
+Foremost Journey: 12 [49] 37
+Shortest Journey: 12 [49] 37
+
+Node 12 to node 38
+Foremost Journey: 12 [49] 38
+Shortest Journey: 12 [49] 38
+
+Node 12 to node 39
+Foremost Journey: 12 [49] 39
+Shortest Journey: 12 [49] 39
+
+Node 12 to node 40
+Foremost Journey: 12 [49] 40
+Shortest Journey: 12 [49] 40
+
+Node 12 to node 41
+Foremost Journey: 12 [49] 41
+Shortest Journey: 12 [49] 41
+
+Node 12 to node 42
+Foremost Journey: 12 [49] 42
+Shortest Journey: 12 [49] 42
+
+Node 12 to node 43
+Foremost Journey: 12 [49] 43
+Shortest Journey: 12 [49] 43
+
+Node 12 to node 44
+Foremost Journey: 12 [49] 44
+Shortest Journey: 12 [49] 44
+
+Node 12 to node 45
+Foremost Journey: 12 [49] 45
+Shortest Journey: 12 [49] 45
+
+Node 12 to node 46
+Foremost Journey: 12 [49] 46
+Shortest Journey: 12 [49] 46
+
+Node 12 to node 47
+Foremost Journey: 12 [49] 47
+Shortest Journey: 12 [49] 47
+
+Node 12 to node 48
+Foremost Journey: 12 [49] 48
+Shortest Journey: 12 [49] 48
+
+Node 12 to node 49
+Foremost Journey: 12 [49] 49
+Shortest Journey: 12 [49] 49
+
+Node 13 to node 0
+Foremost Journey: 13 [49] 0
+Shortest Journey: 13 [49] 0
+
+Node 13 to node 1
+Foremost Journey: 13 [49] 1
+Shortest Journey: 13 [49] 1
+
+Node 13 to node 2
+Foremost Journey: 13 [49] 2
+Shortest Journey: 13 [49] 2
+
+Node 13 to node 3
+Foremost Journey: 13 [49] 3
+Shortest Journey: 13 [49] 3
+
+Node 13 to node 4
+Foremost Journey: 13 [49] 4
+Shortest Journey: 13 [49] 4
+
+Node 13 to node 5
+Foremost Journey: 13 [49] 5
+Shortest Journey: 13 [49] 5
+
+Node 13 to node 6
+Foremost Journey: 13 [49] 6
+Shortest Journey: 13 [49] 6
+
+Node 13 to node 7
+Foremost Journey: 13 [49] 7
+Shortest Journey: 13 [49] 7
+
+Node 13 to node 8
+Foremost Journey: 13 [49] 8
+Shortest Journey: 13 [49] 8
+
+Node 13 to node 9
+Foremost Journey: 13 [49] 9
+Shortest Journey: 13 [49] 9
+
+Node 13 to node 10
+Foremost Journey: 13 [49] 10
+Shortest Journey: 13 [49] 10
+
+Node 13 to node 11
+Foremost Journey: 13 [49] 11
+Shortest Journey: 13 [49] 11
+
+Node 13 to node 12
+Foremost Journey: 13 [49] 12
+Shortest Journey: 13 [49] 12
+
+Node 13 to node 14
+Foremost Journey: 13 [49] 14
+Shortest Journey: 13 [49] 14
+
+Node 13 to node 15
+Foremost Journey: 13 [49] 15
+Shortest Journey: 13 [49] 15
+
+Node 13 to node 16
+Foremost Journey: 13 [49] 16
+Shortest Journey: 13 [49] 16
+
+Node 13 to node 17
+Foremost Journey: 13 [49] 17
+Shortest Journey: 13 [49] 17
+
+Node 13 to node 18
+Foremost Journey: 13 [49] 18
+Shortest Journey: 13 [49] 18
+
+Node 13 to node 19
+Foremost Journey: 13 [49] 19
+Shortest Journey: 13 [49] 19
+
+Node 13 to node 20
+Foremost Journey: 13 [49] 20
+Shortest Journey: 13 [49] 20
+
+Node 13 to node 21
+Foremost Journey: 13 [49] 21
+Shortest Journey: 13 [49] 21
+
+Node 13 to node 22
+Foremost Journey: 13 [49] 22
+Shortest Journey: 13 [49] 22
+
+Node 13 to node 23
+Foremost Journey: 13 [49] 23
+Shortest Journey: 13 [49] 23
+
+Node 13 to node 24
+Foremost Journey: 13 [49] 24
+Shortest Journey: 13 [49] 24
+
+Node 13 to node 25
+Foremost Journey: 13 [49] 25
+Shortest Journey: 13 [49] 25
+
+Node 13 to node 26
+Foremost Journey: 13 [49] 26
+Shortest Journey: 13 [49] 26
+
+Node 13 to node 27
+Foremost Journey: 13 [49] 27
+Shortest Journey: 13 [49] 27
+
+Node 13 to node 28
+Foremost Journey: 13 [49] 28
+Shortest Journey: 13 [49] 28
+
+Node 13 to node 29
+Foremost Journey: 13 [49] 29
+Shortest Journey: 13 [49] 29
+
+Node 13 to node 30
+Foremost Journey: 13 [49] 30
+Shortest Journey: 13 [49] 30
+
+Node 13 to node 31
+Foremost Journey: 13 [49] 31
+Shortest Journey: 13 [49] 31
+
+Node 13 to node 32
+Foremost Journey: 13 [49] 32
+Shortest Journey: 13 [49] 32
+
+Node 13 to node 33
+Foremost Journey: 13 [49] 33
+Shortest Journey: 13 [49] 33
+
+Node 13 to node 34
+Foremost Journey: 13 [49] 34
+Shortest Journey: 13 [49] 34
+
+Node 13 to node 35
+Foremost Journey: 13 [49] 35
+Shortest Journey: 13 [49] 35
+
+Node 13 to node 36
+Foremost Journey: 13 [49] 36
+Shortest Journey: 13 [49] 36
+
+Node 13 to node 37
+Foremost Journey: 13 [49] 37
+Shortest Journey: 13 [49] 37
+
+Node 13 to node 38
+Foremost Journey: 13 [49] 38
+Shortest Journey: 13 [49] 38
+
+Node 13 to node 39
+Foremost Journey: 13 [49] 39
+Shortest Journey: 13 [49] 39
+
+Node 13 to node 40
+Foremost Journey: 13 [49] 40
+Shortest Journey: 13 [49] 40
+
+Node 13 to node 41
+Foremost Journey: 13 [49] 41
+Shortest Journey: 13 [49] 41
+
+Node 13 to node 42
+Foremost Journey: 13 [49] 42
+Shortest Journey: 13 [49] 42
+
+Node 13 to node 43
+Foremost Journey: 13 [49] 43
+Shortest Journey: 13 [49] 43
+
+Node 13 to node 44
+Foremost Journey: 13 [49] 44
+Shortest Journey: 13 [49] 44
+
+Node 13 to node 45
+Foremost Journey: 13 [49] 45
+Shortest Journey: 13 [49] 45
+
+Node 13 to node 46
+Foremost Journey: 13 [49] 46
+Shortest Journey: 13 [49] 46
+
+Node 13 to node 47
+Foremost Journey: 13 [49] 47
+Shortest Journey: 13 [49] 47
+
+Node 13 to node 48
+Foremost Journey: 13 [49] 48
+Shortest Journey: 13 [49] 48
+
+Node 13 to node 49
+Foremost Journey: 13 [49] 49
+Shortest Journey: 13 [49] 49
+
+Node 14 to node 0
+Foremost Journey: 14 [49] 0
+Shortest Journey: 14 [49] 0
+
+Node 14 to node 1
+Foremost Journey: 14 [49] 1
+Shortest Journey: 14 [49] 1
+
+Node 14 to node 2
+Foremost Journey: 14 [49] 2
+Shortest Journey: 14 [49] 2
+
+Node 14 to node 3
+Foremost Journey: 14 [49] 3
+Shortest Journey: 14 [49] 3
+
+Node 14 to node 4
+Foremost Journey: 14 [49] 4
+Shortest Journey: 14 [49] 4
+
+Node 14 to node 5
+Foremost Journey: 14 [49] 5
+Shortest Journey: 14 [49] 5
+
+Node 14 to node 6
+Foremost Journey: 14 [49] 6
+Shortest Journey: 14 [49] 6
+
+Node 14 to node 7
+Foremost Journey: 14 [49] 7
+Shortest Journey: 14 [49] 7
+
+Node 14 to node 8
+Foremost Journey: 14 [49] 8
+Shortest Journey: 14 [49] 8
+
+Node 14 to node 9
+Foremost Journey: 14 [49] 9
+Shortest Journey: 14 [49] 9
+
+Node 14 to node 10
+Foremost Journey: 14 [49] 10
+Shortest Journey: 14 [49] 10
+
+Node 14 to node 11
+Foremost Journey: 14 [49] 11
+Shortest Journey: 14 [49] 11
+
+Node 14 to node 12
+Foremost Journey: 14 [49] 12
+Shortest Journey: 14 [49] 12
+
+Node 14 to node 13
+Foremost Journey: 14 [49] 13
+Shortest Journey: 14 [49] 13
+
+Node 14 to node 15
+Foremost Journey: 14 [49] 15
+Shortest Journey: 14 [49] 15
+
+Node 14 to node 16
+Foremost Journey: 14 [49] 16
+Shortest Journey: 14 [49] 16
+
+Node 14 to node 17
+Foremost Journey: 14 [49] 17
+Shortest Journey: 14 [49] 17
+
+Node 14 to node 18
+Foremost Journey: 14 [49] 18
+Shortest Journey: 14 [49] 18
+
+Node 14 to node 19
+Foremost Journey: 14 [49] 19
+Shortest Journey: 14 [49] 19
+
+Node 14 to node 20
+Foremost Journey: 14 [49] 20
+Shortest Journey: 14 [49] 20
+
+Node 14 to node 21
+Foremost Journey: 14 [49] 21
+Shortest Journey: 14 [49] 21
+
+Node 14 to node 22
+Foremost Journey: 14 [49] 22
+Shortest Journey: 14 [49] 22
+
+Node 14 to node 23
+Foremost Journey: 14 [49] 23
+Shortest Journey: 14 [49] 23
+
+Node 14 to node 24
+Foremost Journey: 14 [49] 24
+Shortest Journey: 14 [49] 24
+
+Node 14 to node 25
+Foremost Journey: 14 [49] 25
+Shortest Journey: 14 [49] 25
+
+Node 14 to node 26
+Foremost Journey: 14 [49] 26
+Shortest Journey: 14 [49] 26
+
+Node 14 to node 27
+Foremost Journey: 14 [49] 27
+Shortest Journey: 14 [49] 27
+
+Node 14 to node 28
+Foremost Journey: 14 [49] 28
+Shortest Journey: 14 [49] 28
+
+Node 14 to node 29
+Foremost Journey: 14 [49] 29
+Shortest Journey: 14 [49] 29
+
+Node 14 to node 30
+Foremost Journey: 14 [49] 30
+Shortest Journey: 14 [49] 30
+
+Node 14 to node 31
+Foremost Journey: 14 [49] 31
+Shortest Journey: 14 [49] 31
+
+Node 14 to node 32
+Foremost Journey: 14 [49] 32
+Shortest Journey: 14 [49] 32
+
+Node 14 to node 33
+Foremost Journey: 14 [49] 33
+Shortest Journey: 14 [49] 33
+
+Node 14 to node 34
+Foremost Journey: 14 [49] 34
+Shortest Journey: 14 [49] 34
+
+Node 14 to node 35
+Foremost Journey: 14 [49] 35
+Shortest Journey: 14 [49] 35
+
+Node 14 to node 36
+Foremost Journey: 14 [49] 36
+Shortest Journey: 14 [49] 36
+
+Node 14 to node 37
+Foremost Journey: 14 [49] 37
+Shortest Journey: 14 [49] 37
+
+Node 14 to node 38
+Foremost Journey: 14 [49] 38
+Shortest Journey: 14 [49] 38
+
+Node 14 to node 39
+Foremost Journey: 14 [49] 39
+Shortest Journey: 14 [49] 39
+
+Node 14 to node 40
+Foremost Journey: 14 [49] 40
+Shortest Journey: 14 [49] 40
+
+Node 14 to node 41
+Foremost Journey: 14 [49] 41
+Shortest Journey: 14 [49] 41
+
+Node 14 to node 42
+Foremost Journey: 14 [49] 42
+Shortest Journey: 14 [49] 42
+
+Node 14 to node 43
+Foremost Journey: 14 [49] 43
+Shortest Journey: 14 [49] 43
+
+Node 14 to node 44
+Foremost Journey: 14 [49] 44
+Shortest Journey: 14 [49] 44
+
+Node 14 to node 45
+Foremost Journey: 14 [49] 45
+Shortest Journey: 14 [49] 45
+
+Node 14 to node 46
+Foremost Journey: 14 [49] 46
+Shortest Journey: 14 [49] 46
+
+Node 14 to node 47
+Foremost Journey: 14 [49] 47
+Shortest Journey: 14 [49] 47
+
+Node 14 to node 48
+Foremost Journey: 14 [49] 48
+Shortest Journey: 14 [49] 48
+
+Node 14 to node 49
+Foremost Journey: 14 [49] 49
+Shortest Journey: 14 [49] 49
+
+Node 15 to node 0
+Foremost Journey: 15 [49] 0
+Shortest Journey: 15 [49] 0
+
+Node 15 to node 1
+Foremost Journey: 15 [49] 1
+Shortest Journey: 15 [49] 1
+
+Node 15 to node 2
+Foremost Journey: 15 [49] 2
+Shortest Journey: 15 [49] 2
+
+Node 15 to node 3
+Foremost Journey: 15 [49] 3
+Shortest Journey: 15 [49] 3
+
+Node 15 to node 4
+Foremost Journey: 15 [49] 4
+Shortest Journey: 15 [49] 4
+
+Node 15 to node 5
+Foremost Journey: 15 [49] 5
+Shortest Journey: 15 [49] 5
+
+Node 15 to node 6
+Foremost Journey: 15 [49] 6
+Shortest Journey: 15 [49] 6
+
+Node 15 to node 7
+Foremost Journey: 15 [49] 7
+Shortest Journey: 15 [49] 7
+
+Node 15 to node 8
+Foremost Journey: 15 [49] 8
+Shortest Journey: 15 [49] 8
+
+Node 15 to node 9
+Foremost Journey: 15 [49] 9
+Shortest Journey: 15 [49] 9
+
+Node 15 to node 10
+Foremost Journey: 15 [49] 10
+Shortest Journey: 15 [49] 10
+
+Node 15 to node 11
+Foremost Journey: 15 [49] 11
+Shortest Journey: 15 [49] 11
+
+Node 15 to node 12
+Foremost Journey: 15 [49] 12
+Shortest Journey: 15 [49] 12
+
+Node 15 to node 13
+Foremost Journey: 15 [49] 13
+Shortest Journey: 15 [49] 13
+
+Node 15 to node 14
+Foremost Journey: 15 [49] 14
+Shortest Journey: 15 [49] 14
+
+Node 15 to node 16
+Foremost Journey: 15 [49] 16
+Shortest Journey: 15 [49] 16
+
+Node 15 to node 17
+Foremost Journey: 15 [49] 17
+Shortest Journey: 15 [49] 17
+
+Node 15 to node 18
+Foremost Journey: 15 [49] 18
+Shortest Journey: 15 [49] 18
+
+Node 15 to node 19
+Foremost Journey: 15 [49] 19
+Shortest Journey: 15 [49] 19
+
+Node 15 to node 20
+Foremost Journey: 15 [49] 20
+Shortest Journey: 15 [49] 20
+
+Node 15 to node 21
+Foremost Journey: 15 [49] 21
+Shortest Journey: 15 [49] 21
+
+Node 15 to node 22
+Foremost Journey: 15 [49] 22
+Shortest Journey: 15 [49] 22
+
+Node 15 to node 23
+Foremost Journey: 15 [49] 23
+Shortest Journey: 15 [49] 23
+
+Node 15 to node 24
+Foremost Journey: 15 [49] 24
+Shortest Journey: 15 [49] 24
+
+Node 15 to node 25
+Foremost Journey: 15 [49] 25
+Shortest Journey: 15 [49] 25
+
+Node 15 to node 26
+Foremost Journey: 15 [49] 26
+Shortest Journey: 15 [49] 26
+
+Node 15 to node 27
+Foremost Journey: 15 [49] 27
+Shortest Journey: 15 [49] 27
+
+Node 15 to node 28
+Foremost Journey: 15 [49] 28
+Shortest Journey: 15 [49] 28
+
+Node 15 to node 29
+Foremost Journey: 15 [49] 29
+Shortest Journey: 15 [49] 29
+
+Node 15 to node 30
+Foremost Journey: 15 [49] 30
+Shortest Journey: 15 [49] 30
+
+Node 15 to node 31
+Foremost Journey: 15 [49] 31
+Shortest Journey: 15 [49] 31
+
+Node 15 to node 32
+Foremost Journey: 15 [49] 32
+Shortest Journey: 15 [49] 32
+
+Node 15 to node 33
+Foremost Journey: 15 [49] 33
+Shortest Journey: 15 [49] 33
+
+Node 15 to node 34
+Foremost Journey: 15 [49] 34
+Shortest Journey: 15 [49] 34
+
+Node 15 to node 35
+Foremost Journey: 15 [49] 35
+Shortest Journey: 15 [49] 35
+
+Node 15 to node 36
+Foremost Journey: 15 [49] 36
+Shortest Journey: 15 [49] 36
+
+Node 15 to node 37
+Foremost Journey: 15 [49] 37
+Shortest Journey: 15 [49] 37
+
+Node 15 to node 38
+Foremost Journey: 15 [49] 38
+Shortest Journey: 15 [49] 38
+
+Node 15 to node 39
+Foremost Journey: 15 [49] 39
+Shortest Journey: 15 [49] 39
+
+Node 15 to node 40
+Foremost Journey: 15 [49] 40
+Shortest Journey: 15 [49] 40
+
+Node 15 to node 41
+Foremost Journey: 15 [49] 41
+Shortest Journey: 15 [49] 41
+
+Node 15 to node 42
+Foremost Journey: 15 [49] 42
+Shortest Journey: 15 [49] 42
+
+Node 15 to node 43
+Foremost Journey: 15 [49] 43
+Shortest Journey: 15 [49] 43
+
+Node 15 to node 44
+Foremost Journey: 15 [49] 44
+Shortest Journey: 15 [49] 44
+
+Node 15 to node 45
+Foremost Journey: 15 [49] 45
+Shortest Journey: 15 [49] 45
+
+Node 15 to node 46
+Foremost Journey: 15 [49] 46
+Shortest Journey: 15 [49] 46
+
+Node 15 to node 47
+Foremost Journey: 15 [49] 47
+Shortest Journey: 15 [49] 47
+
+Node 15 to node 48
+Foremost Journey: 15 [49] 48
+Shortest Journey: 15 [49] 48
+
+Node 15 to node 49
+Foremost Journey: 15 [49] 49
+Shortest Journey: 15 [49] 49
+
+Node 16 to node 0
+Foremost Journey: 16 [49] 0
+Shortest Journey: 16 [49] 0
+
+Node 16 to node 1
+Foremost Journey: 16 [49] 1
+Shortest Journey: 16 [49] 1
+
+Node 16 to node 2
+Foremost Journey: 16 [49] 2
+Shortest Journey: 16 [49] 2
+
+Node 16 to node 3
+Foremost Journey: 16 [49] 3
+Shortest Journey: 16 [49] 3
+
+Node 16 to node 4
+Foremost Journey: 16 [49] 4
+Shortest Journey: 16 [49] 4
+
+Node 16 to node 5
+Foremost Journey: 16 [49] 5
+Shortest Journey: 16 [49] 5
+
+Node 16 to node 6
+Foremost Journey: 16 [49] 6
+Shortest Journey: 16 [49] 6
+
+Node 16 to node 7
+Foremost Journey: 16 [49] 7
+Shortest Journey: 16 [49] 7
+
+Node 16 to node 8
+Foremost Journey: 16 [49] 8
+Shortest Journey: 16 [49] 8
+
+Node 16 to node 9
+Foremost Journey: 16 [49] 9
+Shortest Journey: 16 [49] 9
+
+Node 16 to node 10
+Foremost Journey: 16 [49] 10
+Shortest Journey: 16 [49] 10
+
+Node 16 to node 11
+Foremost Journey: 16 [49] 11
+Shortest Journey: 16 [49] 11
+
+Node 16 to node 12
+Foremost Journey: 16 [49] 12
+Shortest Journey: 16 [49] 12
+
+Node 16 to node 13
+Foremost Journey: 16 [49] 13
+Shortest Journey: 16 [49] 13
+
+Node 16 to node 14
+Foremost Journey: 16 [49] 14
+Shortest Journey: 16 [49] 14
+
+Node 16 to node 15
+Foremost Journey: 16 [49] 15
+Shortest Journey: 16 [49] 15
+
+Node 16 to node 17
+Foremost Journey: 16 [49] 17
+Shortest Journey: 16 [49] 17
+
+Node 16 to node 18
+Foremost Journey: 16 [49] 18
+Shortest Journey: 16 [49] 18
+
+Node 16 to node 19
+Foremost Journey: 16 [49] 19
+Shortest Journey: 16 [49] 19
+
+Node 16 to node 20
+Foremost Journey: 16 [49] 20
+Shortest Journey: 16 [49] 20
+
+Node 16 to node 21
+Foremost Journey: 16 [49] 21
+Shortest Journey: 16 [49] 21
+
+Node 16 to node 22
+Foremost Journey: 16 [49] 22
+Shortest Journey: 16 [49] 22
+
+Node 16 to node 23
+Foremost Journey: 16 [49] 23
+Shortest Journey: 16 [49] 23
+
+Node 16 to node 24
+Foremost Journey: 16 [49] 24
+Shortest Journey: 16 [49] 24
+
+Node 16 to node 25
+Foremost Journey: 16 [49] 25
+Shortest Journey: 16 [49] 25
+
+Node 16 to node 26
+Foremost Journey: 16 [49] 26
+Shortest Journey: 16 [49] 26
+
+Node 16 to node 27
+Foremost Journey: 16 [49] 27
+Shortest Journey: 16 [49] 27
+
+Node 16 to node 28
+Foremost Journey: 16 [49] 28
+Shortest Journey: 16 [49] 28
+
+Node 16 to node 29
+Foremost Journey: 16 [49] 29
+Shortest Journey: 16 [49] 29
+
+Node 16 to node 30
+Foremost Journey: 16 [49] 30
+Shortest Journey: 16 [49] 30
+
+Node 16 to node 31
+Foremost Journey: 16 [49] 31
+Shortest Journey: 16 [49] 31
+
+Node 16 to node 32
+Foremost Journey: 16 [49] 32
+Shortest Journey: 16 [49] 32
+
+Node 16 to node 33
+Foremost Journey: 16 [49] 33
+Shortest Journey: 16 [49] 33
+
+Node 16 to node 34
+Foremost Journey: 16 [49] 34
+Shortest Journey: 16 [49] 34
+
+Node 16 to node 35
+Foremost Journey: 16 [49] 35
+Shortest Journey: 16 [49] 35
+
+Node 16 to node 36
+Foremost Journey: 16 [49] 36
+Shortest Journey: 16 [49] 36
+
+Node 16 to node 37
+Foremost Journey: 16 [49] 37
+Shortest Journey: 16 [49] 37
+
+Node 16 to node 38
+Foremost Journey: 16 [49] 38
+Shortest Journey: 16 [49] 38
+
+Node 16 to node 39
+Foremost Journey: 16 [49] 39
+Shortest Journey: 16 [49] 39
+
+Node 16 to node 40
+Foremost Journey: 16 [49] 40
+Shortest Journey: 16 [49] 40
+
+Node 16 to node 41
+Foremost Journey: 16 [49] 41
+Shortest Journey: 16 [49] 41
+
+Node 16 to node 42
+Foremost Journey: 16 [49] 42
+Shortest Journey: 16 [49] 42
+
+Node 16 to node 43
+Foremost Journey: 16 [49] 43
+Shortest Journey: 16 [49] 43
+
+Node 16 to node 44
+Foremost Journey: 16 [49] 44
+Shortest Journey: 16 [49] 44
+
+Node 16 to node 45
+Foremost Journey: 16 [49] 45
+Shortest Journey: 16 [49] 45
+
+Node 16 to node 46
+Foremost Journey: 16 [49] 46
+Shortest Journey: 16 [49] 46
+
+Node 16 to node 47
+Foremost Journey: 16 [49] 47
+Shortest Journey: 16 [49] 47
+
+Node 16 to node 48
+Foremost Journey: 16 [49] 48
+Shortest Journey: 16 [49] 48
+
+Node 16 to node 49
+Foremost Journey: 16 [49] 49
+Shortest Journey: 16 [49] 49
+
+Node 17 to node 0
+Foremost Journey: 17 [49] 0
+Shortest Journey: 17 [49] 0
+
+Node 17 to node 1
+Foremost Journey: 17 [49] 1
+Shortest Journey: 17 [49] 1
+
+Node 17 to node 2
+Foremost Journey: 17 [49] 2
+Shortest Journey: 17 [49] 2
+
+Node 17 to node 3
+Foremost Journey: 17 [49] 3
+Shortest Journey: 17 [49] 3
+
+Node 17 to node 4
+Foremost Journey: 17 [49] 4
+Shortest Journey: 17 [49] 4
+
+Node 17 to node 5
+Foremost Journey: 17 [49] 5
+Shortest Journey: 17 [49] 5
+
+Node 17 to node 6
+Foremost Journey: 17 [49] 6
+Shortest Journey: 17 [49] 6
+
+Node 17 to node 7
+Foremost Journey: 17 [49] 7
+Shortest Journey: 17 [49] 7
+
+Node 17 to node 8
+Foremost Journey: 17 [49] 8
+Shortest Journey: 17 [49] 8
+
+Node 17 to node 9
+Foremost Journey: 17 [49] 9
+Shortest Journey: 17 [49] 9
+
+Node 17 to node 10
+Foremost Journey: 17 [49] 10
+Shortest Journey: 17 [49] 10
+
+Node 17 to node 11
+Foremost Journey: 17 [49] 11
+Shortest Journey: 17 [49] 11
+
+Node 17 to node 12
+Foremost Journey: 17 [49] 12
+Shortest Journey: 17 [49] 12
+
+Node 17 to node 13
+Foremost Journey: 17 [49] 13
+Shortest Journey: 17 [49] 13
+
+Node 17 to node 14
+Foremost Journey: 17 [49] 14
+Shortest Journey: 17 [49] 14
+
+Node 17 to node 15
+Foremost Journey: 17 [49] 15
+Shortest Journey: 17 [49] 15
+
+Node 17 to node 16
+Foremost Journey: 17 [49] 16
+Shortest Journey: 17 [49] 16
+
+Node 17 to node 18
+Foremost Journey: 17 [49] 18
+Shortest Journey: 17 [49] 18
+
+Node 17 to node 19
+Foremost Journey: 17 [49] 19
+Shortest Journey: 17 [49] 19
+
+Node 17 to node 20
+Foremost Journey: 17 [49] 20
+Shortest Journey: 17 [49] 20
+
+Node 17 to node 21
+Foremost Journey: 17 [49] 21
+Shortest Journey: 17 [49] 21
+
+Node 17 to node 22
+Foremost Journey: 17 [49] 22
+Shortest Journey: 17 [49] 22
+
+Node 17 to node 23
+Foremost Journey: 17 [49] 23
+Shortest Journey: 17 [49] 23
+
+Node 17 to node 24
+Foremost Journey: 17 [49] 24
+Shortest Journey: 17 [49] 24
+
+Node 17 to node 25
+Foremost Journey: 17 [49] 25
+Shortest Journey: 17 [49] 25
+
+Node 17 to node 26
+Foremost Journey: 17 [49] 26
+Shortest Journey: 17 [49] 26
+
+Node 17 to node 27
+Foremost Journey: 17 [49] 27
+Shortest Journey: 17 [49] 27
+
+Node 17 to node 28
+Foremost Journey: 17 [49] 28
+Shortest Journey: 17 [49] 28
+
+Node 17 to node 29
+Foremost Journey: 17 [49] 29
+Shortest Journey: 17 [49] 29
+
+Node 17 to node 30
+Foremost Journey: 17 [49] 30
+Shortest Journey: 17 [49] 30
+
+Node 17 to node 31
+Foremost Journey: 17 [49] 31
+Shortest Journey: 17 [49] 31
+
+Node 17 to node 32
+Foremost Journey: 17 [49] 32
+Shortest Journey: 17 [49] 32
+
+Node 17 to node 33
+Foremost Journey: 17 [49] 33
+Shortest Journey: 17 [49] 33
+
+Node 17 to node 34
+Foremost Journey: 17 [49] 34
+Shortest Journey: 17 [49] 34
+
+Node 17 to node 35
+Foremost Journey: 17 [49] 35
+Shortest Journey: 17 [49] 35
+
+Node 17 to node 36
+Foremost Journey: 17 [49] 36
+Shortest Journey: 17 [49] 36
+
+Node 17 to node 37
+Foremost Journey: 17 [49] 37
+Shortest Journey: 17 [49] 37
+
+Node 17 to node 38
+Foremost Journey: 17 [49] 38
+Shortest Journey: 17 [49] 38
+
+Node 17 to node 39
+Foremost Journey: 17 [49] 39
+Shortest Journey: 17 [49] 39
+
+Node 17 to node 40
+Foremost Journey: 17 [49] 40
+Shortest Journey: 17 [49] 40
+
+Node 17 to node 41
+Foremost Journey: 17 [49] 41
+Shortest Journey: 17 [49] 41
+
+Node 17 to node 42
+Foremost Journey: 17 [49] 42
+Shortest Journey: 17 [49] 42
+
+Node 17 to node 43
+Foremost Journey: 17 [49] 43
+Shortest Journey: 17 [49] 43
+
+Node 17 to node 44
+Foremost Journey: 17 [49] 44
+Shortest Journey: 17 [49] 44
+
+Node 17 to node 45
+Foremost Journey: 17 [49] 45
+Shortest Journey: 17 [49] 45
+
+Node 17 to node 46
+Foremost Journey: 17 [49] 46
+Shortest Journey: 17 [49] 46
+
+Node 17 to node 47
+Foremost Journey: 17 [49] 47
+Shortest Journey: 17 [49] 47
+
+Node 17 to node 48
+Foremost Journey: 17 [49] 48
+Shortest Journey: 17 [49] 48
+
+Node 17 to node 49
+Foremost Journey: 17 [49] 49
+Shortest Journey: 17 [49] 49
+
+Node 18 to node 0
+Foremost Journey: 18 [49] 0
+Shortest Journey: 18 [49] 0
+
+Node 18 to node 1
+Foremost Journey: 18 [49] 1
+Shortest Journey: 18 [49] 1
+
+Node 18 to node 2
+Foremost Journey: 18 [49] 2
+Shortest Journey: 18 [49] 2
+
+Node 18 to node 3
+Foremost Journey: 18 [49] 3
+Shortest Journey: 18 [49] 3
+
+Node 18 to node 4
+Foremost Journey: 18 [49] 4
+Shortest Journey: 18 [49] 4
+
+Node 18 to node 5
+Foremost Journey: 18 [49] 5
+Shortest Journey: 18 [49] 5
+
+Node 18 to node 6
+Foremost Journey: 18 [49] 6
+Shortest Journey: 18 [49] 6
+
+Node 18 to node 7
+Foremost Journey: 18 [49] 7
+Shortest Journey: 18 [49] 7
+
+Node 18 to node 8
+Foremost Journey: 18 [49] 8
+Shortest Journey: 18 [49] 8
+
+Node 18 to node 9
+Foremost Journey: 18 [49] 9
+Shortest Journey: 18 [49] 9
+
+Node 18 to node 10
+Foremost Journey: 18 [49] 10
+Shortest Journey: 18 [49] 10
+
+Node 18 to node 11
+Foremost Journey: 18 [49] 11
+Shortest Journey: 18 [49] 11
+
+Node 18 to node 12
+Foremost Journey: 18 [49] 12
+Shortest Journey: 18 [49] 12
+
+Node 18 to node 13
+Foremost Journey: 18 [49] 13
+Shortest Journey: 18 [49] 13
+
+Node 18 to node 14
+Foremost Journey: 18 [49] 14
+Shortest Journey: 18 [49] 14
+
+Node 18 to node 15
+Foremost Journey: 18 [49] 15
+Shortest Journey: 18 [49] 15
+
+Node 18 to node 16
+Foremost Journey: 18 [49] 16
+Shortest Journey: 18 [49] 16
+
+Node 18 to node 17
+Foremost Journey: 18 [49] 17
+Shortest Journey: 18 [49] 17
+
+Node 18 to node 19
+Foremost Journey: 18 [49] 19
+Shortest Journey: 18 [49] 19
+
+Node 18 to node 20
+Foremost Journey: 18 [49] 20
+Shortest Journey: 18 [49] 20
+
+Node 18 to node 21
+Foremost Journey: 18 [49] 21
+Shortest Journey: 18 [49] 21
+
+Node 18 to node 22
+Foremost Journey: 18 [49] 22
+Shortest Journey: 18 [49] 22
+
+Node 18 to node 23
+Foremost Journey: 18 [49] 23
+Shortest Journey: 18 [49] 23
+
+Node 18 to node 24
+Foremost Journey: 18 [49] 24
+Shortest Journey: 18 [49] 24
+
+Node 18 to node 25
+Foremost Journey: 18 [49] 25
+Shortest Journey: 18 [49] 25
+
+Node 18 to node 26
+Foremost Journey: 18 [49] 26
+Shortest Journey: 18 [49] 26
+
+Node 18 to node 27
+Foremost Journey: 18 [49] 27
+Shortest Journey: 18 [49] 27
+
+Node 18 to node 28
+Foremost Journey: 18 [49] 28
+Shortest Journey: 18 [49] 28
+
+Node 18 to node 29
+Foremost Journey: 18 [49] 29
+Shortest Journey: 18 [49] 29
+
+Node 18 to node 30
+Foremost Journey: 18 [49] 30
+Shortest Journey: 18 [49] 30
+
+Node 18 to node 31
+Foremost Journey: 18 [49] 31
+Shortest Journey: 18 [49] 31
+
+Node 18 to node 32
+Foremost Journey: 18 [49] 32
+Shortest Journey: 18 [49] 32
+
+Node 18 to node 33
+Foremost Journey: 18 [49] 33
+Shortest Journey: 18 [49] 33
+
+Node 18 to node 34
+Foremost Journey: 18 [49] 34
+Shortest Journey: 18 [49] 34
+
+Node 18 to node 35
+Foremost Journey: 18 [49] 35
+Shortest Journey: 18 [49] 35
+
+Node 18 to node 36
+Foremost Journey: 18 [49] 36
+Shortest Journey: 18 [49] 36
+
+Node 18 to node 37
+Foremost Journey: 18 [49] 37
+Shortest Journey: 18 [49] 37
+
+Node 18 to node 38
+Foremost Journey: 18 [49] 38
+Shortest Journey: 18 [49] 38
+
+Node 18 to node 39
+Foremost Journey: 18 [49] 39
+Shortest Journey: 18 [49] 39
+
+Node 18 to node 40
+Foremost Journey: 18 [49] 40
+Shortest Journey: 18 [49] 40
+
+Node 18 to node 41
+Foremost Journey: 18 [49] 41
+Shortest Journey: 18 [49] 41
+
+Node 18 to node 42
+Foremost Journey: 18 [49] 42
+Shortest Journey: 18 [49] 42
+
+Node 18 to node 43
+Foremost Journey: 18 [49] 43
+Shortest Journey: 18 [49] 43
+
+Node 18 to node 44
+Foremost Journey: 18 [49] 44
+Shortest Journey: 18 [49] 44
+
+Node 18 to node 45
+Foremost Journey: 18 [49] 45
+Shortest Journey: 18 [49] 45
+
+Node 18 to node 46
+Foremost Journey: 18 [49] 46
+Shortest Journey: 18 [49] 46
+
+Node 18 to node 47
+Foremost Journey: 18 [49] 47
+Shortest Journey: 18 [49] 47
+
+Node 18 to node 48
+Foremost Journey: 18 [49] 48
+Shortest Journey: 18 [49] 48
+
+Node 18 to node 49
+Foremost Journey: 18 [49] 49
+Shortest Journey: 18 [49] 49
+
+Node 19 to node 0
+Foremost Journey: 19 [49] 0
+Shortest Journey: 19 [49] 0
+
+Node 19 to node 1
+Foremost Journey: 19 [49] 1
+Shortest Journey: 19 [49] 1
+
+Node 19 to node 2
+Foremost Journey: 19 [49] 2
+Shortest Journey: 19 [49] 2
+
+Node 19 to node 3
+Foremost Journey: 19 [49] 3
+Shortest Journey: 19 [49] 3
+
+Node 19 to node 4
+Foremost Journey: 19 [49] 4
+Shortest Journey: 19 [49] 4
+
+Node 19 to node 5
+Foremost Journey: 19 [49] 5
+Shortest Journey: 19 [49] 5
+
+Node 19 to node 6
+Foremost Journey: 19 [49] 6
+Shortest Journey: 19 [49] 6
+
+Node 19 to node 7
+Foremost Journey: 19 [49] 7
+Shortest Journey: 19 [49] 7
+
+Node 19 to node 8
+Foremost Journey: 19 [49] 8
+Shortest Journey: 19 [49] 8
+
+Node 19 to node 9
+Foremost Journey: 19 [49] 9
+Shortest Journey: 19 [49] 9
+
+Node 19 to node 10
+Foremost Journey: 19 [49] 10
+Shortest Journey: 19 [49] 10
+
+Node 19 to node 11
+Foremost Journey: 19 [49] 11
+Shortest Journey: 19 [49] 11
+
+Node 19 to node 12
+Foremost Journey: 19 [49] 12
+Shortest Journey: 19 [49] 12
+
+Node 19 to node 13
+Foremost Journey: 19 [49] 13
+Shortest Journey: 19 [49] 13
+
+Node 19 to node 14
+Foremost Journey: 19 [49] 14
+Shortest Journey: 19 [49] 14
+
+Node 19 to node 15
+Foremost Journey: 19 [49] 15
+Shortest Journey: 19 [49] 15
+
+Node 19 to node 16
+Foremost Journey: 19 [49] 16
+Shortest Journey: 19 [49] 16
+
+Node 19 to node 17
+Foremost Journey: 19 [49] 17
+Shortest Journey: 19 [49] 17
+
+Node 19 to node 18
+Foremost Journey: 19 [49] 18
+Shortest Journey: 19 [49] 18
+
+Node 19 to node 20
+Foremost Journey: 19 [49] 20
+Shortest Journey: 19 [49] 20
+
+Node 19 to node 21
+Foremost Journey: 19 [49] 21
+Shortest Journey: 19 [49] 21
+
+Node 19 to node 22
+Foremost Journey: 19 [49] 22
+Shortest Journey: 19 [49] 22
+
+Node 19 to node 23
+Foremost Journey: 19 [49] 23
+Shortest Journey: 19 [49] 23
+
+Node 19 to node 24
+Foremost Journey: 19 [49] 24
+Shortest Journey: 19 [49] 24
+
+Node 19 to node 25
+Foremost Journey: 19 [49] 25
+Shortest Journey: 19 [49] 25
+
+Node 19 to node 26
+Foremost Journey: 19 [49] 26
+Shortest Journey: 19 [49] 26
+
+Node 19 to node 27
+Foremost Journey: 19 [49] 27
+Shortest Journey: 19 [49] 27
+
+Node 19 to node 28
+Foremost Journey: 19 [49] 28
+Shortest Journey: 19 [49] 28
+
+Node 19 to node 29
+Foremost Journey: 19 [49] 29
+Shortest Journey: 19 [49] 29
+
+Node 19 to node 30
+Foremost Journey: 19 [49] 30
+Shortest Journey: 19 [49] 30
+
+Node 19 to node 31
+Foremost Journey: 19 [49] 31
+Shortest Journey: 19 [49] 31
+
+Node 19 to node 32
+Foremost Journey: 19 [49] 32
+Shortest Journey: 19 [49] 32
+
+Node 19 to node 33
+Foremost Journey: 19 [49] 33
+Shortest Journey: 19 [49] 33
+
+Node 19 to node 34
+Foremost Journey: 19 [49] 34
+Shortest Journey: 19 [49] 34
+
+Node 19 to node 35
+Foremost Journey: 19 [49] 35
+Shortest Journey: 19 [49] 35
+
+Node 19 to node 36
+Foremost Journey: 19 [49] 36
+Shortest Journey: 19 [49] 36
+
+Node 19 to node 37
+Foremost Journey: 19 [49] 37
+Shortest Journey: 19 [49] 37
+
+Node 19 to node 38
+Foremost Journey: 19 [49] 38
+Shortest Journey: 19 [49] 38
+
+Node 19 to node 39
+Foremost Journey: 19 [49] 39
+Shortest Journey: 19 [49] 39
+
+Node 19 to node 40
+Foremost Journey: 19 [49] 40
+Shortest Journey: 19 [49] 40
+
+Node 19 to node 41
+Foremost Journey: 19 [49] 41
+Shortest Journey: 19 [49] 41
+
+Node 19 to node 42
+Foremost Journey: 19 [49] 42
+Shortest Journey: 19 [49] 42
+
+Node 19 to node 43
+Foremost Journey: 19 [49] 43
+Shortest Journey: 19 [49] 43
+
+Node 19 to node 44
+Foremost Journey: 19 [49] 44
+Shortest Journey: 19 [49] 44
+
+Node 19 to node 45
+Foremost Journey: 19 [49] 45
+Shortest Journey: 19 [49] 45
+
+Node 19 to node 46
+Foremost Journey: 19 [49] 46
+Shortest Journey: 19 [49] 46
+
+Node 19 to node 47
+Foremost Journey: 19 [49] 47
+Shortest Journey: 19 [49] 47
+
+Node 19 to node 48
+Foremost Journey: 19 [49] 48
+Shortest Journey: 19 [49] 48
+
+Node 19 to node 49
+Foremost Journey: 19 [49] 49
+Shortest Journey: 19 [49] 49
+
+Node 20 to node 0
+Foremost Journey: 20 [49] 0
+Shortest Journey: 20 [49] 0
+
+Node 20 to node 1
+Foremost Journey: 20 [49] 1
+Shortest Journey: 20 [49] 1
+
+Node 20 to node 2
+Foremost Journey: 20 [49] 2
+Shortest Journey: 20 [49] 2
+
+Node 20 to node 3
+Foremost Journey: 20 [49] 3
+Shortest Journey: 20 [49] 3
+
+Node 20 to node 4
+Foremost Journey: 20 [49] 4
+Shortest Journey: 20 [49] 4
+
+Node 20 to node 5
+Foremost Journey: 20 [49] 5
+Shortest Journey: 20 [49] 5
+
+Node 20 to node 6
+Foremost Journey: 20 [49] 6
+Shortest Journey: 20 [49] 6
+
+Node 20 to node 7
+Foremost Journey: 20 [49] 7
+Shortest Journey: 20 [49] 7
+
+Node 20 to node 8
+Foremost Journey: 20 [49] 8
+Shortest Journey: 20 [49] 8
+
+Node 20 to node 9
+Foremost Journey: 20 [49] 9
+Shortest Journey: 20 [49] 9
+
+Node 20 to node 10
+Foremost Journey: 20 [49] 10
+Shortest Journey: 20 [49] 10
+
+Node 20 to node 11
+Foremost Journey: 20 [49] 11
+Shortest Journey: 20 [49] 11
+
+Node 20 to node 12
+Foremost Journey: 20 [49] 12
+Shortest Journey: 20 [49] 12
+
+Node 20 to node 13
+Foremost Journey: 20 [49] 13
+Shortest Journey: 20 [49] 13
+
+Node 20 to node 14
+Foremost Journey: 20 [49] 14
+Shortest Journey: 20 [49] 14
+
+Node 20 to node 15
+Foremost Journey: 20 [49] 15
+Shortest Journey: 20 [49] 15
+
+Node 20 to node 16
+Foremost Journey: 20 [49] 16
+Shortest Journey: 20 [49] 16
+
+Node 20 to node 17
+Foremost Journey: 20 [49] 17
+Shortest Journey: 20 [49] 17
+
+Node 20 to node 18
+Foremost Journey: 20 [49] 18
+Shortest Journey: 20 [49] 18
+
+Node 20 to node 19
+Foremost Journey: 20 [49] 19
+Shortest Journey: 20 [49] 19
+
+Node 20 to node 21
+Foremost Journey: 20 [49] 21
+Shortest Journey: 20 [49] 21
+
+Node 20 to node 22
+Foremost Journey: 20 [49] 22
+Shortest Journey: 20 [49] 22
+
+Node 20 to node 23
+Foremost Journey: 20 [49] 23
+Shortest Journey: 20 [49] 23
+
+Node 20 to node 24
+Foremost Journey: 20 [49] 24
+Shortest Journey: 20 [49] 24
+
+Node 20 to node 25
+Foremost Journey: 20 [49] 25
+Shortest Journey: 20 [49] 25
+
+Node 20 to node 26
+Foremost Journey: 20 [49] 26
+Shortest Journey: 20 [49] 26
+
+Node 20 to node 27
+Foremost Journey: 20 [49] 27
+Shortest Journey: 20 [49] 27
+
+Node 20 to node 28
+Foremost Journey: 20 [49] 28
+Shortest Journey: 20 [49] 28
+
+Node 20 to node 29
+Foremost Journey: 20 [49] 29
+Shortest Journey: 20 [49] 29
+
+Node 20 to node 30
+Foremost Journey: 20 [49] 30
+Shortest Journey: 20 [49] 30
+
+Node 20 to node 31
+Foremost Journey: 20 [49] 31
+Shortest Journey: 20 [49] 31
+
+Node 20 to node 32
+Foremost Journey: 20 [49] 32
+Shortest Journey: 20 [49] 32
+
+Node 20 to node 33
+Foremost Journey: 20 [49] 33
+Shortest Journey: 20 [49] 33
+
+Node 20 to node 34
+Foremost Journey: 20 [49] 34
+Shortest Journey: 20 [49] 34
+
+Node 20 to node 35
+Foremost Journey: 20 [49] 35
+Shortest Journey: 20 [49] 35
+
+Node 20 to node 36
+Foremost Journey: 20 [49] 36
+Shortest Journey: 20 [49] 36
+
+Node 20 to node 37
+Foremost Journey: 20 [49] 37
+Shortest Journey: 20 [49] 37
+
+Node 20 to node 38
+Foremost Journey: 20 [49] 38
+Shortest Journey: 20 [49] 38
+
+Node 20 to node 39
+Foremost Journey: 20 [49] 39
+Shortest Journey: 20 [49] 39
+
+Node 20 to node 40
+Foremost Journey: 20 [49] 40
+Shortest Journey: 20 [49] 40
+
+Node 20 to node 41
+Foremost Journey: 20 [49] 41
+Shortest Journey: 20 [49] 41
+
+Node 20 to node 42
+Foremost Journey: 20 [49] 42
+Shortest Journey: 20 [49] 42
+
+Node 20 to node 43
+Foremost Journey: 20 [49] 43
+Shortest Journey: 20 [49] 43
+
+Node 20 to node 44
+Foremost Journey: 20 [49] 44
+Shortest Journey: 20 [49] 44
+
+Node 20 to node 45
+Foremost Journey: 20 [49] 45
+Shortest Journey: 20 [49] 45
+
+Node 20 to node 46
+Foremost Journey: 20 [49] 46
+Shortest Journey: 20 [49] 46
+
+Node 20 to node 47
+Foremost Journey: 20 [49] 47
+Shortest Journey: 20 [49] 47
+
+Node 20 to node 48
+Foremost Journey: 20 [49] 48
+Shortest Journey: 20 [49] 48
+
+Node 20 to node 49
+Foremost Journey: 20 [49] 49
+Shortest Journey: 20 [49] 49
+
+Node 21 to node 0
+Foremost Journey: 21 [49] 0
+Shortest Journey: 21 [49] 0
+
+Node 21 to node 1
+Foremost Journey: 21 [49] 1
+Shortest Journey: 21 [49] 1
+
+Node 21 to node 2
+Foremost Journey: 21 [49] 2
+Shortest Journey: 21 [49] 2
+
+Node 21 to node 3
+Foremost Journey: 21 [49] 3
+Shortest Journey: 21 [49] 3
+
+Node 21 to node 4
+Foremost Journey: 21 [49] 4
+Shortest Journey: 21 [49] 4
+
+Node 21 to node 5
+Foremost Journey: 21 [49] 5
+Shortest Journey: 21 [49] 5
+
+Node 21 to node 6
+Foremost Journey: 21 [49] 6
+Shortest Journey: 21 [49] 6
+
+Node 21 to node 7
+Foremost Journey: 21 [49] 7
+Shortest Journey: 21 [49] 7
+
+Node 21 to node 8
+Foremost Journey: 21 [49] 8
+Shortest Journey: 21 [49] 8
+
+Node 21 to node 9
+Foremost Journey: 21 [49] 9
+Shortest Journey: 21 [49] 9
+
+Node 21 to node 10
+Foremost Journey: 21 [49] 10
+Shortest Journey: 21 [49] 10
+
+Node 21 to node 11
+Foremost Journey: 21 [49] 11
+Shortest Journey: 21 [49] 11
+
+Node 21 to node 12
+Foremost Journey: 21 [49] 12
+Shortest Journey: 21 [49] 12
+
+Node 21 to node 13
+Foremost Journey: 21 [49] 13
+Shortest Journey: 21 [49] 13
+
+Node 21 to node 14
+Foremost Journey: 21 [49] 14
+Shortest Journey: 21 [49] 14
+
+Node 21 to node 15
+Foremost Journey: 21 [49] 15
+Shortest Journey: 21 [49] 15
+
+Node 21 to node 16
+Foremost Journey: 21 [49] 16
+Shortest Journey: 21 [49] 16
+
+Node 21 to node 17
+Foremost Journey: 21 [49] 17
+Shortest Journey: 21 [49] 17
+
+Node 21 to node 18
+Foremost Journey: 21 [49] 18
+Shortest Journey: 21 [49] 18
+
+Node 21 to node 19
+Foremost Journey: 21 [49] 19
+Shortest Journey: 21 [49] 19
+
+Node 21 to node 20
+Foremost Journey: 21 [49] 20
+Shortest Journey: 21 [49] 20
+
+Node 21 to node 22
+Foremost Journey: 21 [49] 22
+Shortest Journey: 21 [49] 22
+
+Node 21 to node 23
+Foremost Journey: 21 [49] 23
+Shortest Journey: 21 [49] 23
+
+Node 21 to node 24
+Foremost Journey: 21 [49] 24
+Shortest Journey: 21 [49] 24
+
+Node 21 to node 25
+Foremost Journey: 21 [49] 25
+Shortest Journey: 21 [49] 25
+
+Node 21 to node 26
+Foremost Journey: 21 [49] 26
+Shortest Journey: 21 [49] 26
+
+Node 21 to node 27
+Foremost Journey: 21 [49] 27
+Shortest Journey: 21 [49] 27
+
+Node 21 to node 28
+Foremost Journey: 21 [49] 28
+Shortest Journey: 21 [49] 28
+
+Node 21 to node 29
+Foremost Journey: 21 [49] 29
+Shortest Journey: 21 [49] 29
+
+Node 21 to node 30
+Foremost Journey: 21 [49] 30
+Shortest Journey: 21 [49] 30
+
+Node 21 to node 31
+Foremost Journey: 21 [49] 31
+Shortest Journey: 21 [49] 31
+
+Node 21 to node 32
+Foremost Journey: 21 [49] 32
+Shortest Journey: 21 [49] 32
+
+Node 21 to node 33
+Foremost Journey: 21 [49] 33
+Shortest Journey: 21 [49] 33
+
+Node 21 to node 34
+Foremost Journey: 21 [49] 34
+Shortest Journey: 21 [49] 34
+
+Node 21 to node 35
+Foremost Journey: 21 [49] 35
+Shortest Journey: 21 [49] 35
+
+Node 21 to node 36
+Foremost Journey: 21 [49] 36
+Shortest Journey: 21 [49] 36
+
+Node 21 to node 37
+Foremost Journey: 21 [49] 37
+Shortest Journey: 21 [49] 37
+
+Node 21 to node 38
+Foremost Journey: 21 [49] 38
+Shortest Journey: 21 [49] 38
+
+Node 21 to node 39
+Foremost Journey: 21 [49] 39
+Shortest Journey: 21 [49] 39
+
+Node 21 to node 40
+Foremost Journey: 21 [49] 40
+Shortest Journey: 21 [49] 40
+
+Node 21 to node 41
+Foremost Journey: 21 [49] 41
+Shortest Journey: 21 [49] 41
+
+Node 21 to node 42
+Foremost Journey: 21 [49] 42
+Shortest Journey: 21 [49] 42
+
+Node 21 to node 43
+Foremost Journey: 21 [49] 43
+Shortest Journey: 21 [49] 43
+
+Node 21 to node 44
+Foremost Journey: 21 [49] 44
+Shortest Journey: 21 [49] 44
+
+Node 21 to node 45
+Foremost Journey: 21 [49] 45
+Shortest Journey: 21 [49] 45
+
+Node 21 to node 46
+Foremost Journey: 21 [49] 46
+Shortest Journey: 21 [49] 46
+
+Node 21 to node 47
+Foremost Journey: 21 [49] 47
+Shortest Journey: 21 [49] 47
+
+Node 21 to node 48
+Foremost Journey: 21 [49] 48
+Shortest Journey: 21 [49] 48
+
+Node 21 to node 49
+Foremost Journey: 21 [49] 49
+Shortest Journey: 21 [49] 49
+
+Node 22 to node 0
+Foremost Journey: 22 [49] 0
+Shortest Journey: 22 [49] 0
+
+Node 22 to node 1
+Foremost Journey: 22 [49] 1
+Shortest Journey: 22 [49] 1
+
+Node 22 to node 2
+Foremost Journey: 22 [49] 2
+Shortest Journey: 22 [49] 2
+
+Node 22 to node 3
+Foremost Journey: 22 [49] 3
+Shortest Journey: 22 [49] 3
+
+Node 22 to node 4
+Foremost Journey: 22 [49] 4
+Shortest Journey: 22 [49] 4
+
+Node 22 to node 5
+Foremost Journey: 22 [49] 5
+Shortest Journey: 22 [49] 5
+
+Node 22 to node 6
+Foremost Journey: 22 [49] 6
+Shortest Journey: 22 [49] 6
+
+Node 22 to node 7
+Foremost Journey: 22 [49] 7
+Shortest Journey: 22 [49] 7
+
+Node 22 to node 8
+Foremost Journey: 22 [49] 8
+Shortest Journey: 22 [49] 8
+
+Node 22 to node 9
+Foremost Journey: 22 [49] 9
+Shortest Journey: 22 [49] 9
+
+Node 22 to node 10
+Foremost Journey: 22 [49] 10
+Shortest Journey: 22 [49] 10
+
+Node 22 to node 11
+Foremost Journey: 22 [49] 11
+Shortest Journey: 22 [49] 11
+
+Node 22 to node 12
+Foremost Journey: 22 [49] 12
+Shortest Journey: 22 [49] 12
+
+Node 22 to node 13
+Foremost Journey: 22 [49] 13
+Shortest Journey: 22 [49] 13
+
+Node 22 to node 14
+Foremost Journey: 22 [49] 14
+Shortest Journey: 22 [49] 14
+
+Node 22 to node 15
+Foremost Journey: 22 [49] 15
+Shortest Journey: 22 [49] 15
+
+Node 22 to node 16
+Foremost Journey: 22 [49] 16
+Shortest Journey: 22 [49] 16
+
+Node 22 to node 17
+Foremost Journey: 22 [49] 17
+Shortest Journey: 22 [49] 17
+
+Node 22 to node 18
+Foremost Journey: 22 [49] 18
+Shortest Journey: 22 [49] 18
+
+Node 22 to node 19
+Foremost Journey: 22 [49] 19
+Shortest Journey: 22 [49] 19
+
+Node 22 to node 20
+Foremost Journey: 22 [49] 20
+Shortest Journey: 22 [49] 20
+
+Node 22 to node 21
+Foremost Journey: 22 [49] 21
+Shortest Journey: 22 [49] 21
+
+Node 22 to node 23
+Foremost Journey: 22 [49] 23
+Shortest Journey: 22 [49] 23
+
+Node 22 to node 24
+Foremost Journey: 22 [49] 24
+Shortest Journey: 22 [49] 24
+
+Node 22 to node 25
+Foremost Journey: 22 [49] 25
+Shortest Journey: 22 [49] 25
+
+Node 22 to node 26
+Foremost Journey: 22 [49] 26
+Shortest Journey: 22 [49] 26
+
+Node 22 to node 27
+Foremost Journey: 22 [49] 27
+Shortest Journey: 22 [49] 27
+
+Node 22 to node 28
+Foremost Journey: 22 [49] 28
+Shortest Journey: 22 [49] 28
+
+Node 22 to node 29
+Foremost Journey: 22 [49] 29
+Shortest Journey: 22 [49] 29
+
+Node 22 to node 30
+Foremost Journey: 22 [49] 30
+Shortest Journey: 22 [49] 30
+
+Node 22 to node 31
+Foremost Journey: 22 [49] 31
+Shortest Journey: 22 [49] 31
+
+Node 22 to node 32
+Foremost Journey: 22 [49] 32
+Shortest Journey: 22 [49] 32
+
+Node 22 to node 33
+Foremost Journey: 22 [49] 33
+Shortest Journey: 22 [49] 33
+
+Node 22 to node 34
+Foremost Journey: 22 [49] 34
+Shortest Journey: 22 [49] 34
+
+Node 22 to node 35
+Foremost Journey: 22 [49] 35
+Shortest Journey: 22 [49] 35
+
+Node 22 to node 36
+Foremost Journey: 22 [49] 36
+Shortest Journey: 22 [49] 36
+
+Node 22 to node 37
+Foremost Journey: 22 [49] 37
+Shortest Journey: 22 [49] 37
+
+Node 22 to node 38
+Foremost Journey: 22 [49] 38
+Shortest Journey: 22 [49] 38
+
+Node 22 to node 39
+Foremost Journey: 22 [49] 39
+Shortest Journey: 22 [49] 39
+
+Node 22 to node 40
+Foremost Journey: 22 [49] 40
+Shortest Journey: 22 [49] 40
+
+Node 22 to node 41
+Foremost Journey: 22 [49] 41
+Shortest Journey: 22 [49] 41
+
+Node 22 to node 42
+Foremost Journey: 22 [49] 42
+Shortest Journey: 22 [49] 42
+
+Node 22 to node 43
+Foremost Journey: 22 [49] 43
+Shortest Journey: 22 [49] 43
+
+Node 22 to node 44
+Foremost Journey: 22 [49] 44
+Shortest Journey: 22 [49] 44
+
+Node 22 to node 45
+Foremost Journey: 22 [49] 45
+Shortest Journey: 22 [49] 45
+
+Node 22 to node 46
+Foremost Journey: 22 [49] 46
+Shortest Journey: 22 [49] 46
+
+Node 22 to node 47
+Foremost Journey: 22 [49] 47
+Shortest Journey: 22 [49] 47
+
+Node 22 to node 48
+Foremost Journey: 22 [49] 48
+Shortest Journey: 22 [49] 48
+
+Node 22 to node 49
+Foremost Journey: 22 [49] 49
+Shortest Journey: 22 [49] 49
+
+Node 23 to node 0
+Foremost Journey: 23 [49] 0
+Shortest Journey: 23 [49] 0
+
+Node 23 to node 1
+Foremost Journey: 23 [49] 1
+Shortest Journey: 23 [49] 1
+
+Node 23 to node 2
+Foremost Journey: 23 [49] 2
+Shortest Journey: 23 [49] 2
+
+Node 23 to node 3
+Foremost Journey: 23 [49] 3
+Shortest Journey: 23 [49] 3
+
+Node 23 to node 4
+Foremost Journey: 23 [49] 4
+Shortest Journey: 23 [49] 4
+
+Node 23 to node 5
+Foremost Journey: 23 [49] 5
+Shortest Journey: 23 [49] 5
+
+Node 23 to node 6
+Foremost Journey: 23 [49] 6
+Shortest Journey: 23 [49] 6
+
+Node 23 to node 7
+Foremost Journey: 23 [49] 7
+Shortest Journey: 23 [49] 7
+
+Node 23 to node 8
+Foremost Journey: 23 [49] 8
+Shortest Journey: 23 [49] 8
+
+Node 23 to node 9
+Foremost Journey: 23 [49] 9
+Shortest Journey: 23 [49] 9
+
+Node 23 to node 10
+Foremost Journey: 23 [49] 10
+Shortest Journey: 23 [49] 10
+
+Node 23 to node 11
+Foremost Journey: 23 [49] 11
+Shortest Journey: 23 [49] 11
+
+Node 23 to node 12
+Foremost Journey: 23 [49] 12
+Shortest Journey: 23 [49] 12
+
+Node 23 to node 13
+Foremost Journey: 23 [49] 13
+Shortest Journey: 23 [49] 13
+
+Node 23 to node 14
+Foremost Journey: 23 [49] 14
+Shortest Journey: 23 [49] 14
+
+Node 23 to node 15
+Foremost Journey: 23 [49] 15
+Shortest Journey: 23 [49] 15
+
+Node 23 to node 16
+Foremost Journey: 23 [49] 16
+Shortest Journey: 23 [49] 16
+
+Node 23 to node 17
+Foremost Journey: 23 [49] 17
+Shortest Journey: 23 [49] 17
+
+Node 23 to node 18
+Foremost Journey: 23 [49] 18
+Shortest Journey: 23 [49] 18
+
+Node 23 to node 19
+Foremost Journey: 23 [49] 19
+Shortest Journey: 23 [49] 19
+
+Node 23 to node 20
+Foremost Journey: 23 [49] 20
+Shortest Journey: 23 [49] 20
+
+Node 23 to node 21
+Foremost Journey: 23 [49] 21
+Shortest Journey: 23 [49] 21
+
+Node 23 to node 22
+Foremost Journey: 23 [49] 22
+Shortest Journey: 23 [49] 22
+
+Node 23 to node 24
+Foremost Journey: 23 [49] 24
+Shortest Journey: 23 [49] 24
+
+Node 23 to node 25
+Foremost Journey: 23 [49] 25
+Shortest Journey: 23 [49] 25
+
+Node 23 to node 26
+Foremost Journey: 23 [49] 26
+Shortest Journey: 23 [49] 26
+
+Node 23 to node 27
+Foremost Journey: 23 [49] 27
+Shortest Journey: 23 [49] 27
+
+Node 23 to node 28
+Foremost Journey: 23 [49] 28
+Shortest Journey: 23 [49] 28
+
+Node 23 to node 29
+Foremost Journey: 23 [49] 29
+Shortest Journey: 23 [49] 29
+
+Node 23 to node 30
+Foremost Journey: 23 [49] 30
+Shortest Journey: 23 [49] 30
+
+Node 23 to node 31
+Foremost Journey: 23 [49] 31
+Shortest Journey: 23 [49] 31
+
+Node 23 to node 32
+Foremost Journey: 23 [49] 32
+Shortest Journey: 23 [49] 32
+
+Node 23 to node 33
+Foremost Journey: 23 [49] 33
+Shortest Journey: 23 [49] 33
+
+Node 23 to node 34
+Foremost Journey: 23 [49] 34
+Shortest Journey: 23 [49] 34
+
+Node 23 to node 35
+Foremost Journey: 23 [49] 35
+Shortest Journey: 23 [49] 35
+
+Node 23 to node 36
+Foremost Journey: 23 [49] 36
+Shortest Journey: 23 [49] 36
+
+Node 23 to node 37
+Foremost Journey: 23 [49] 37
+Shortest Journey: 23 [49] 37
+
+Node 23 to node 38
+Foremost Journey: 23 [49] 38
+Shortest Journey: 23 [49] 38
+
+Node 23 to node 39
+Foremost Journey: 23 [49] 39
+Shortest Journey: 23 [49] 39
+
+Node 23 to node 40
+Foremost Journey: 23 [49] 40
+Shortest Journey: 23 [49] 40
+
+Node 23 to node 41
+Foremost Journey: 23 [49] 41
+Shortest Journey: 23 [49] 41
+
+Node 23 to node 42
+Foremost Journey: 23 [49] 42
+Shortest Journey: 23 [49] 42
+
+Node 23 to node 43
+Foremost Journey: 23 [49] 43
+Shortest Journey: 23 [49] 43
+
+Node 23 to node 44
+Foremost Journey: 23 [49] 44
+Shortest Journey: 23 [49] 44
+
+Node 23 to node 45
+Foremost Journey: 23 [49] 45
+Shortest Journey: 23 [49] 45
+
+Node 23 to node 46
+Foremost Journey: 23 [49] 46
+Shortest Journey: 23 [49] 46
+
+Node 23 to node 47
+Foremost Journey: 23 [49] 47
+Shortest Journey: 23 [49] 47
+
+Node 23 to node 48
+Foremost Journey: 23 [49] 48
+Shortest Journey: 23 [49] 48
+
+Node 23 to node 49
+Foremost Journey: 23 [49] 49
+Shortest Journey: 23 [49] 49
+
+Node 24 to node 0
+Foremost Journey: 24 [49] 0
+Shortest Journey: 24 [49] 0
+
+Node 24 to node 1
+Foremost Journey: 24 [49] 1
+Shortest Journey: 24 [49] 1
+
+Node 24 to node 2
+Foremost Journey: 24 [49] 2
+Shortest Journey: 24 [49] 2
+
+Node 24 to node 3
+Foremost Journey: 24 [49] 3
+Shortest Journey: 24 [49] 3
+
+Node 24 to node 4
+Foremost Journey: 24 [49] 4
+Shortest Journey: 24 [49] 4
+
+Node 24 to node 5
+Foremost Journey: 24 [49] 5
+Shortest Journey: 24 [49] 5
+
+Node 24 to node 6
+Foremost Journey: 24 [49] 6
+Shortest Journey: 24 [49] 6
+
+Node 24 to node 7
+Foremost Journey: 24 [49] 7
+Shortest Journey: 24 [49] 7
+
+Node 24 to node 8
+Foremost Journey: 24 [49] 8
+Shortest Journey: 24 [49] 8
+
+Node 24 to node 9
+Foremost Journey: 24 [49] 9
+Shortest Journey: 24 [49] 9
+
+Node 24 to node 10
+Foremost Journey: 24 [49] 10
+Shortest Journey: 24 [49] 10
+
+Node 24 to node 11
+Foremost Journey: 24 [49] 11
+Shortest Journey: 24 [49] 11
+
+Node 24 to node 12
+Foremost Journey: 24 [49] 12
+Shortest Journey: 24 [49] 12
+
+Node 24 to node 13
+Foremost Journey: 24 [49] 13
+Shortest Journey: 24 [49] 13
+
+Node 24 to node 14
+Foremost Journey: 24 [49] 14
+Shortest Journey: 24 [49] 14
+
+Node 24 to node 15
+Foremost Journey: 24 [49] 15
+Shortest Journey: 24 [49] 15
+
+Node 24 to node 16
+Foremost Journey: 24 [49] 16
+Shortest Journey: 24 [49] 16
+
+Node 24 to node 17
+Foremost Journey: 24 [49] 17
+Shortest Journey: 24 [49] 17
+
+Node 24 to node 18
+Foremost Journey: 24 [49] 18
+Shortest Journey: 24 [49] 18
+
+Node 24 to node 19
+Foremost Journey: 24 [49] 19
+Shortest Journey: 24 [49] 19
+
+Node 24 to node 20
+Foremost Journey: 24 [49] 20
+Shortest Journey: 24 [49] 20
+
+Node 24 to node 21
+Foremost Journey: 24 [49] 21
+Shortest Journey: 24 [49] 21
+
+Node 24 to node 22
+Foremost Journey: 24 [49] 22
+Shortest Journey: 24 [49] 22
+
+Node 24 to node 23
+Foremost Journey: 24 [49] 23
+Shortest Journey: 24 [49] 23
+
+Node 24 to node 25
+Foremost Journey: 24 [49] 25
+Shortest Journey: 24 [49] 25
+
+Node 24 to node 26
+Foremost Journey: 24 [49] 26
+Shortest Journey: 24 [49] 26
+
+Node 24 to node 27
+Foremost Journey: 24 [49] 27
+Shortest Journey: 24 [49] 27
+
+Node 24 to node 28
+Foremost Journey: 24 [49] 28
+Shortest Journey: 24 [49] 28
+
+Node 24 to node 29
+Foremost Journey: 24 [49] 29
+Shortest Journey: 24 [49] 29
+
+Node 24 to node 30
+Foremost Journey: 24 [49] 30
+Shortest Journey: 24 [49] 30
+
+Node 24 to node 31
+Foremost Journey: 24 [49] 31
+Shortest Journey: 24 [49] 31
+
+Node 24 to node 32
+Foremost Journey: 24 [49] 32
+Shortest Journey: 24 [49] 32
+
+Node 24 to node 33
+Foremost Journey: 24 [49] 33
+Shortest Journey: 24 [49] 33
+
+Node 24 to node 34
+Foremost Journey: 24 [49] 34
+Shortest Journey: 24 [49] 34
+
+Node 24 to node 35
+Foremost Journey: 24 [49] 35
+Shortest Journey: 24 [49] 35
+
+Node 24 to node 36
+Foremost Journey: 24 [49] 36
+Shortest Journey: 24 [49] 36
+
+Node 24 to node 37
+Foremost Journey: 24 [49] 37
+Shortest Journey: 24 [49] 37
+
+Node 24 to node 38
+Foremost Journey: 24 [49] 38
+Shortest Journey: 24 [49] 38
+
+Node 24 to node 39
+Foremost Journey: 24 [49] 39
+Shortest Journey: 24 [49] 39
+
+Node 24 to node 40
+Foremost Journey: 24 [49] 40
+Shortest Journey: 24 [49] 40
+
+Node 24 to node 41
+Foremost Journey: 24 [49] 41
+Shortest Journey: 24 [49] 41
+
+Node 24 to node 42
+Foremost Journey: 24 [49] 42
+Shortest Journey: 24 [49] 42
+
+Node 24 to node 43
+Foremost Journey: 24 [49] 43
+Shortest Journey: 24 [49] 43
+
+Node 24 to node 44
+Foremost Journey: 24 [49] 44
+Shortest Journey: 24 [49] 44
+
+Node 24 to node 45
+Foremost Journey: 24 [49] 45
+Shortest Journey: 24 [49] 45
+
+Node 24 to node 46
+Foremost Journey: 24 [49] 46
+Shortest Journey: 24 [49] 46
+
+Node 24 to node 47
+Foremost Journey: 24 [49] 47
+Shortest Journey: 24 [49] 47
+
+Node 24 to node 48
+Foremost Journey: 24 [49] 48
+Shortest Journey: 24 [49] 48
+
+Node 24 to node 49
+Foremost Journey: 24 [49] 49
+Shortest Journey: 24 [49] 49
+
+Node 25 to node 0
+Foremost Journey: 25 [49] 0
+Shortest Journey: 25 [49] 0
+
+Node 25 to node 1
+Foremost Journey: 25 [49] 1
+Shortest Journey: 25 [49] 1
+
+Node 25 to node 2
+Foremost Journey: 25 [49] 2
+Shortest Journey: 25 [49] 2
+
+Node 25 to node 3
+Foremost Journey: 25 [49] 3
+Shortest Journey: 25 [49] 3
+
+Node 25 to node 4
+Foremost Journey: 25 [49] 4
+Shortest Journey: 25 [49] 4
+
+Node 25 to node 5
+Foremost Journey: 25 [49] 5
+Shortest Journey: 25 [49] 5
+
+Node 25 to node 6
+Foremost Journey: 25 [49] 6
+Shortest Journey: 25 [49] 6
+
+Node 25 to node 7
+Foremost Journey: 25 [49] 7
+Shortest Journey: 25 [49] 7
+
+Node 25 to node 8
+Foremost Journey: 25 [49] 8
+Shortest Journey: 25 [49] 8
+
+Node 25 to node 9
+Foremost Journey: 25 [49] 9
+Shortest Journey: 25 [49] 9
+
+Node 25 to node 10
+Foremost Journey: 25 [49] 10
+Shortest Journey: 25 [49] 10
+
+Node 25 to node 11
+Foremost Journey: 25 [49] 11
+Shortest Journey: 25 [49] 11
+
+Node 25 to node 12
+Foremost Journey: 25 [49] 12
+Shortest Journey: 25 [49] 12
+
+Node 25 to node 13
+Foremost Journey: 25 [49] 13
+Shortest Journey: 25 [49] 13
+
+Node 25 to node 14
+Foremost Journey: 25 [49] 14
+Shortest Journey: 25 [49] 14
+
+Node 25 to node 15
+Foremost Journey: 25 [49] 15
+Shortest Journey: 25 [49] 15
+
+Node 25 to node 16
+Foremost Journey: 25 [49] 16
+Shortest Journey: 25 [49] 16
+
+Node 25 to node 17
+Foremost Journey: 25 [49] 17
+Shortest Journey: 25 [49] 17
+
+Node 25 to node 18
+Foremost Journey: 25 [49] 18
+Shortest Journey: 25 [49] 18
+
+Node 25 to node 19
+Foremost Journey: 25 [49] 19
+Shortest Journey: 25 [49] 19
+
+Node 25 to node 20
+Foremost Journey: 25 [49] 20
+Shortest Journey: 25 [49] 20
+
+Node 25 to node 21
+Foremost Journey: 25 [49] 21
+Shortest Journey: 25 [49] 21
+
+Node 25 to node 22
+Foremost Journey: 25 [49] 22
+Shortest Journey: 25 [49] 22
+
+Node 25 to node 23
+Foremost Journey: 25 [49] 23
+Shortest Journey: 25 [49] 23
+
+Node 25 to node 24
+Foremost Journey: 25 [49] 24
+Shortest Journey: 25 [49] 24
+
+Node 25 to node 26
+Foremost Journey: 25 [49] 26
+Shortest Journey: 25 [49] 26
+
+Node 25 to node 27
+Foremost Journey: 25 [49] 27
+Shortest Journey: 25 [49] 27
+
+Node 25 to node 28
+Foremost Journey: 25 [49] 28
+Shortest Journey: 25 [49] 28
+
+Node 25 to node 29
+Foremost Journey: 25 [49] 29
+Shortest Journey: 25 [49] 29
+
+Node 25 to node 30
+Foremost Journey: 25 [49] 30
+Shortest Journey: 25 [49] 30
+
+Node 25 to node 31
+Foremost Journey: 25 [49] 31
+Shortest Journey: 25 [49] 31
+
+Node 25 to node 32
+Foremost Journey: 25 [49] 32
+Shortest Journey: 25 [49] 32
+
+Node 25 to node 33
+Foremost Journey: 25 [49] 33
+Shortest Journey: 25 [49] 33
+
+Node 25 to node 34
+Foremost Journey: 25 [49] 34
+Shortest Journey: 25 [49] 34
+
+Node 25 to node 35
+Foremost Journey: 25 [49] 35
+Shortest Journey: 25 [49] 35
+
+Node 25 to node 36
+Foremost Journey: 25 [49] 36
+Shortest Journey: 25 [49] 36
+
+Node 25 to node 37
+Foremost Journey: 25 [49] 37
+Shortest Journey: 25 [49] 37
+
+Node 25 to node 38
+Foremost Journey: 25 [49] 38
+Shortest Journey: 25 [49] 38
+
+Node 25 to node 39
+Foremost Journey: 25 [49] 39
+Shortest Journey: 25 [49] 39
+
+Node 25 to node 40
+Foremost Journey: 25 [49] 40
+Shortest Journey: 25 [49] 40
+
+Node 25 to node 41
+Foremost Journey: 25 [49] 41
+Shortest Journey: 25 [49] 41
+
+Node 25 to node 42
+Foremost Journey: 25 [49] 42
+Shortest Journey: 25 [49] 42
+
+Node 25 to node 43
+Foremost Journey: 25 [49] 43
+Shortest Journey: 25 [49] 43
+
+Node 25 to node 44
+Foremost Journey: 25 [49] 44
+Shortest Journey: 25 [49] 44
+
+Node 25 to node 45
+Foremost Journey: 25 [49] 45
+Shortest Journey: 25 [49] 45
+
+Node 25 to node 46
+Foremost Journey: 25 [49] 46
+Shortest Journey: 25 [49] 46
+
+Node 25 to node 47
+Foremost Journey: 25 [49] 47
+Shortest Journey: 25 [49] 47
+
+Node 25 to node 48
+Foremost Journey: 25 [49] 48
+Shortest Journey: 25 [49] 48
+
+Node 25 to node 49
+Foremost Journey: 25 [49] 49
+Shortest Journey: 25 [49] 49
+
+Node 26 to node 0
+Foremost Journey: 26 [49] 0
+Shortest Journey: 26 [49] 0
+
+Node 26 to node 1
+Foremost Journey: 26 [49] 1
+Shortest Journey: 26 [49] 1
+
+Node 26 to node 2
+Foremost Journey: 26 [49] 2
+Shortest Journey: 26 [49] 2
+
+Node 26 to node 3
+Foremost Journey: 26 [49] 3
+Shortest Journey: 26 [49] 3
+
+Node 26 to node 4
+Foremost Journey: 26 [49] 4
+Shortest Journey: 26 [49] 4
+
+Node 26 to node 5
+Foremost Journey: 26 [49] 5
+Shortest Journey: 26 [49] 5
+
+Node 26 to node 6
+Foremost Journey: 26 [49] 6
+Shortest Journey: 26 [49] 6
+
+Node 26 to node 7
+Foremost Journey: 26 [49] 7
+Shortest Journey: 26 [49] 7
+
+Node 26 to node 8
+Foremost Journey: 26 [49] 8
+Shortest Journey: 26 [49] 8
+
+Node 26 to node 9
+Foremost Journey: 26 [49] 9
+Shortest Journey: 26 [49] 9
+
+Node 26 to node 10
+Foremost Journey: 26 [49] 10
+Shortest Journey: 26 [49] 10
+
+Node 26 to node 11
+Foremost Journey: 26 [49] 11
+Shortest Journey: 26 [49] 11
+
+Node 26 to node 12
+Foremost Journey: 26 [49] 12
+Shortest Journey: 26 [49] 12
+
+Node 26 to node 13
+Foremost Journey: 26 [49] 13
+Shortest Journey: 26 [49] 13
+
+Node 26 to node 14
+Foremost Journey: 26 [49] 14
+Shortest Journey: 26 [49] 14
+
+Node 26 to node 15
+Foremost Journey: 26 [49] 15
+Shortest Journey: 26 [49] 15
+
+Node 26 to node 16
+Foremost Journey: 26 [49] 16
+Shortest Journey: 26 [49] 16
+
+Node 26 to node 17
+Foremost Journey: 26 [49] 17
+Shortest Journey: 26 [49] 17
+
+Node 26 to node 18
+Foremost Journey: 26 [49] 18
+Shortest Journey: 26 [49] 18
+
+Node 26 to node 19
+Foremost Journey: 26 [49] 19
+Shortest Journey: 26 [49] 19
+
+Node 26 to node 20
+Foremost Journey: 26 [49] 20
+Shortest Journey: 26 [49] 20
+
+Node 26 to node 21
+Foremost Journey: 26 [49] 21
+Shortest Journey: 26 [49] 21
+
+Node 26 to node 22
+Foremost Journey: 26 [49] 22
+Shortest Journey: 26 [49] 22
+
+Node 26 to node 23
+Foremost Journey: 26 [49] 23
+Shortest Journey: 26 [49] 23
+
+Node 26 to node 24
+Foremost Journey: 26 [49] 24
+Shortest Journey: 26 [49] 24
+
+Node 26 to node 25
+Foremost Journey: 26 [49] 25
+Shortest Journey: 26 [49] 25
+
+Node 26 to node 27
+Foremost Journey: 26 [49] 27
+Shortest Journey: 26 [49] 27
+
+Node 26 to node 28
+Foremost Journey: 26 [49] 28
+Shortest Journey: 26 [49] 28
+
+Node 26 to node 29
+Foremost Journey: 26 [49] 29
+Shortest Journey: 26 [49] 29
+
+Node 26 to node 30
+Foremost Journey: 26 [49] 30
+Shortest Journey: 26 [49] 30
+
+Node 26 to node 31
+Foremost Journey: 26 [49] 31
+Shortest Journey: 26 [49] 31
+
+Node 26 to node 32
+Foremost Journey: 26 [49] 32
+Shortest Journey: 26 [49] 32
+
+Node 26 to node 33
+Foremost Journey: 26 [49] 33
+Shortest Journey: 26 [49] 33
+
+Node 26 to node 34
+Foremost Journey: 26 [49] 34
+Shortest Journey: 26 [49] 34
+
+Node 26 to node 35
+Foremost Journey: 26 [49] 35
+Shortest Journey: 26 [49] 35
+
+Node 26 to node 36
+Foremost Journey: 26 [49] 36
+Shortest Journey: 26 [49] 36
+
+Node 26 to node 37
+Foremost Journey: 26 [49] 37
+Shortest Journey: 26 [49] 37
+
+Node 26 to node 38
+Foremost Journey: 26 [49] 38
+Shortest Journey: 26 [49] 38
+
+Node 26 to node 39
+Foremost Journey: 26 [49] 39
+Shortest Journey: 26 [49] 39
+
+Node 26 to node 40
+Foremost Journey: 26 [49] 40
+Shortest Journey: 26 [49] 40
+
+Node 26 to node 41
+Foremost Journey: 26 [49] 41
+Shortest Journey: 26 [49] 41
+
+Node 26 to node 42
+Foremost Journey: 26 [49] 42
+Shortest Journey: 26 [49] 42
+
+Node 26 to node 43
+Foremost Journey: 26 [49] 43
+Shortest Journey: 26 [49] 43
+
+Node 26 to node 44
+Foremost Journey: 26 [49] 44
+Shortest Journey: 26 [49] 44
+
+Node 26 to node 45
+Foremost Journey: 26 [49] 45
+Shortest Journey: 26 [49] 45
+
+Node 26 to node 46
+Foremost Journey: 26 [49] 46
+Shortest Journey: 26 [49] 46
+
+Node 26 to node 47
+Foremost Journey: 26 [49] 47
+Shortest Journey: 26 [49] 47
+
+Node 26 to node 48
+Foremost Journey: 26 [49] 48
+Shortest Journey: 26 [49] 48
+
+Node 26 to node 49
+Foremost Journey: 26 [49] 49
+Shortest Journey: 26 [49] 49
+
+Node 27 to node 0
+Foremost Journey: 27 [49] 0
+Shortest Journey: 27 [49] 0
+
+Node 27 to node 1
+Foremost Journey: 27 [49] 1
+Shortest Journey: 27 [49] 1
+
+Node 27 to node 2
+Foremost Journey: 27 [49] 2
+Shortest Journey: 27 [49] 2
+
+Node 27 to node 3
+Foremost Journey: 27 [49] 3
+Shortest Journey: 27 [49] 3
+
+Node 27 to node 4
+Foremost Journey: 27 [49] 4
+Shortest Journey: 27 [49] 4
+
+Node 27 to node 5
+Foremost Journey: 27 [49] 5
+Shortest Journey: 27 [49] 5
+
+Node 27 to node 6
+Foremost Journey: 27 [49] 6
+Shortest Journey: 27 [49] 6
+
+Node 27 to node 7
+Foremost Journey: 27 [49] 7
+Shortest Journey: 27 [49] 7
+
+Node 27 to node 8
+Foremost Journey: 27 [49] 8
+Shortest Journey: 27 [49] 8
+
+Node 27 to node 9
+Foremost Journey: 27 [49] 9
+Shortest Journey: 27 [49] 9
+
+Node 27 to node 10
+Foremost Journey: 27 [49] 10
+Shortest Journey: 27 [49] 10
+
+Node 27 to node 11
+Foremost Journey: 27 [49] 11
+Shortest Journey: 27 [49] 11
+
+Node 27 to node 12
+Foremost Journey: 27 [49] 12
+Shortest Journey: 27 [49] 12
+
+Node 27 to node 13
+Foremost Journey: 27 [49] 13
+Shortest Journey: 27 [49] 13
+
+Node 27 to node 14
+Foremost Journey: 27 [49] 14
+Shortest Journey: 27 [49] 14
+
+Node 27 to node 15
+Foremost Journey: 27 [49] 15
+Shortest Journey: 27 [49] 15
+
+Node 27 to node 16
+Foremost Journey: 27 [49] 16
+Shortest Journey: 27 [49] 16
+
+Node 27 to node 17
+Foremost Journey: 27 [49] 17
+Shortest Journey: 27 [49] 17
+
+Node 27 to node 18
+Foremost Journey: 27 [49] 18
+Shortest Journey: 27 [49] 18
+
+Node 27 to node 19
+Foremost Journey: 27 [49] 19
+Shortest Journey: 27 [49] 19
+
+Node 27 to node 20
+Foremost Journey: 27 [49] 20
+Shortest Journey: 27 [49] 20
+
+Node 27 to node 21
+Foremost Journey: 27 [49] 21
+Shortest Journey: 27 [49] 21
+
+Node 27 to node 22
+Foremost Journey: 27 [49] 22
+Shortest Journey: 27 [49] 22
+
+Node 27 to node 23
+Foremost Journey: 27 [49] 23
+Shortest Journey: 27 [49] 23
+
+Node 27 to node 24
+Foremost Journey: 27 [49] 24
+Shortest Journey: 27 [49] 24
+
+Node 27 to node 25
+Foremost Journey: 27 [49] 25
+Shortest Journey: 27 [49] 25
+
+Node 27 to node 26
+Foremost Journey: 27 [49] 26
+Shortest Journey: 27 [49] 26
+
+Node 27 to node 28
+Foremost Journey: 27 [49] 28
+Shortest Journey: 27 [49] 28
+
+Node 27 to node 29
+Foremost Journey: 27 [49] 29
+Shortest Journey: 27 [49] 29
+
+Node 27 to node 30
+Foremost Journey: 27 [49] 30
+Shortest Journey: 27 [49] 30
+
+Node 27 to node 31
+Foremost Journey: 27 [49] 31
+Shortest Journey: 27 [49] 31
+
+Node 27 to node 32
+Foremost Journey: 27 [49] 32
+Shortest Journey: 27 [49] 32
+
+Node 27 to node 33
+Foremost Journey: 27 [49] 33
+Shortest Journey: 27 [49] 33
+
+Node 27 to node 34
+Foremost Journey: 27 [49] 34
+Shortest Journey: 27 [49] 34
+
+Node 27 to node 35
+Foremost Journey: 27 [49] 35
+Shortest Journey: 27 [49] 35
+
+Node 27 to node 36
+Foremost Journey: 27 [49] 36
+Shortest Journey: 27 [49] 36
+
+Node 27 to node 37
+Foremost Journey: 27 [49] 37
+Shortest Journey: 27 [49] 37
+
+Node 27 to node 38
+Foremost Journey: 27 [49] 38
+Shortest Journey: 27 [49] 38
+
+Node 27 to node 39
+Foremost Journey: 27 [49] 39
+Shortest Journey: 27 [49] 39
+
+Node 27 to node 40
+Foremost Journey: 27 [49] 40
+Shortest Journey: 27 [49] 40
+
+Node 27 to node 41
+Foremost Journey: 27 [49] 41
+Shortest Journey: 27 [49] 41
+
+Node 27 to node 42
+Foremost Journey: 27 [49] 42
+Shortest Journey: 27 [49] 42
+
+Node 27 to node 43
+Foremost Journey: 27 [49] 43
+Shortest Journey: 27 [49] 43
+
+Node 27 to node 44
+Foremost Journey: 27 [49] 44
+Shortest Journey: 27 [49] 44
+
+Node 27 to node 45
+Foremost Journey: 27 [49] 45
+Shortest Journey: 27 [49] 45
+
+Node 27 to node 46
+Foremost Journey: 27 [49] 46
+Shortest Journey: 27 [49] 46
+
+Node 27 to node 47
+Foremost Journey: 27 [49] 47
+Shortest Journey: 27 [49] 47
+
+Node 27 to node 48
+Foremost Journey: 27 [49] 48
+Shortest Journey: 27 [49] 48
+
+Node 27 to node 49
+Foremost Journey: 27 [49] 49
+Shortest Journey: 27 [49] 49
+
+Node 28 to node 0
+Foremost Journey: 28 [49] 0
+Shortest Journey: 28 [49] 0
+
+Node 28 to node 1
+Foremost Journey: 28 [49] 1
+Shortest Journey: 28 [49] 1
+
+Node 28 to node 2
+Foremost Journey: 28 [49] 2
+Shortest Journey: 28 [49] 2
+
+Node 28 to node 3
+Foremost Journey: 28 [49] 3
+Shortest Journey: 28 [49] 3
+
+Node 28 to node 4
+Foremost Journey: 28 [49] 4
+Shortest Journey: 28 [49] 4
+
+Node 28 to node 5
+Foremost Journey: 28 [49] 5
+Shortest Journey: 28 [49] 5
+
+Node 28 to node 6
+Foremost Journey: 28 [49] 6
+Shortest Journey: 28 [49] 6
+
+Node 28 to node 7
+Foremost Journey: 28 [49] 7
+Shortest Journey: 28 [49] 7
+
+Node 28 to node 8
+Foremost Journey: 28 [49] 8
+Shortest Journey: 28 [49] 8
+
+Node 28 to node 9
+Foremost Journey: 28 [49] 9
+Shortest Journey: 28 [49] 9
+
+Node 28 to node 10
+Foremost Journey: 28 [49] 10
+Shortest Journey: 28 [49] 10
+
+Node 28 to node 11
+Foremost Journey: 28 [49] 11
+Shortest Journey: 28 [49] 11
+
+Node 28 to node 12
+Foremost Journey: 28 [49] 12
+Shortest Journey: 28 [49] 12
+
+Node 28 to node 13
+Foremost Journey: 28 [49] 13
+Shortest Journey: 28 [49] 13
+
+Node 28 to node 14
+Foremost Journey: 28 [49] 14
+Shortest Journey: 28 [49] 14
+
+Node 28 to node 15
+Foremost Journey: 28 [49] 15
+Shortest Journey: 28 [49] 15
+
+Node 28 to node 16
+Foremost Journey: 28 [49] 16
+Shortest Journey: 28 [49] 16
+
+Node 28 to node 17
+Foremost Journey: 28 [49] 17
+Shortest Journey: 28 [49] 17
+
+Node 28 to node 18
+Foremost Journey: 28 [49] 18
+Shortest Journey: 28 [49] 18
+
+Node 28 to node 19
+Foremost Journey: 28 [49] 19
+Shortest Journey: 28 [49] 19
+
+Node 28 to node 20
+Foremost Journey: 28 [49] 20
+Shortest Journey: 28 [49] 20
+
+Node 28 to node 21
+Foremost Journey: 28 [49] 21
+Shortest Journey: 28 [49] 21
+
+Node 28 to node 22
+Foremost Journey: 28 [49] 22
+Shortest Journey: 28 [49] 22
+
+Node 28 to node 23
+Foremost Journey: 28 [49] 23
+Shortest Journey: 28 [49] 23
+
+Node 28 to node 24
+Foremost Journey: 28 [49] 24
+Shortest Journey: 28 [49] 24
+
+Node 28 to node 25
+Foremost Journey: 28 [49] 25
+Shortest Journey: 28 [49] 25
+
+Node 28 to node 26
+Foremost Journey: 28 [49] 26
+Shortest Journey: 28 [49] 26
+
+Node 28 to node 27
+Foremost Journey: 28 [49] 27
+Shortest Journey: 28 [49] 27
+
+Node 28 to node 29
+Foremost Journey: 28 [49] 29
+Shortest Journey: 28 [49] 29
+
+Node 28 to node 30
+Foremost Journey: 28 [49] 30
+Shortest Journey: 28 [49] 30
+
+Node 28 to node 31
+Foremost Journey: 28 [49] 31
+Shortest Journey: 28 [49] 31
+
+Node 28 to node 32
+Foremost Journey: 28 [49] 32
+Shortest Journey: 28 [49] 32
+
+Node 28 to node 33
+Foremost Journey: 28 [49] 33
+Shortest Journey: 28 [49] 33
+
+Node 28 to node 34
+Foremost Journey: 28 [49] 34
+Shortest Journey: 28 [49] 34
+
+Node 28 to node 35
+Foremost Journey: 28 [49] 35
+Shortest Journey: 28 [49] 35
+
+Node 28 to node 36
+Foremost Journey: 28 [49] 36
+Shortest Journey: 28 [49] 36
+
+Node 28 to node 37
+Foremost Journey: 28 [49] 37
+Shortest Journey: 28 [49] 37
+
+Node 28 to node 38
+Foremost Journey: 28 [49] 38
+Shortest Journey: 28 [49] 38
+
+Node 28 to node 39
+Foremost Journey: 28 [49] 39
+Shortest Journey: 28 [49] 39
+
+Node 28 to node 40
+Foremost Journey: 28 [49] 40
+Shortest Journey: 28 [49] 40
+
+Node 28 to node 41
+Foremost Journey: 28 [49] 41
+Shortest Journey: 28 [49] 41
+
+Node 28 to node 42
+Foremost Journey: 28 [49] 42
+Shortest Journey: 28 [49] 42
+
+Node 28 to node 43
+Foremost Journey: 28 [49] 43
+Shortest Journey: 28 [49] 43
+
+Node 28 to node 44
+Foremost Journey: 28 [49] 44
+Shortest Journey: 28 [49] 44
+
+Node 28 to node 45
+Foremost Journey: 28 [49] 45
+Shortest Journey: 28 [49] 45
+
+Node 28 to node 46
+Foremost Journey: 28 [49] 46
+Shortest Journey: 28 [49] 46
+
+Node 28 to node 47
+Foremost Journey: 28 [49] 47
+Shortest Journey: 28 [49] 47
+
+Node 28 to node 48
+Foremost Journey: 28 [49] 48
+Shortest Journey: 28 [49] 48
+
+Node 28 to node 49
+Foremost Journey: 28 [49] 49
+Shortest Journey: 28 [49] 49
+
+Node 29 to node 0
+Foremost Journey: 29 [49] 0
+Shortest Journey: 29 [49] 0
+
+Node 29 to node 1
+Foremost Journey: 29 [49] 1
+Shortest Journey: 29 [49] 1
+
+Node 29 to node 2
+Foremost Journey: 29 [49] 2
+Shortest Journey: 29 [49] 2
+
+Node 29 to node 3
+Foremost Journey: 29 [49] 3
+Shortest Journey: 29 [49] 3
+
+Node 29 to node 4
+Foremost Journey: 29 [49] 4
+Shortest Journey: 29 [49] 4
+
+Node 29 to node 5
+Foremost Journey: 29 [49] 5
+Shortest Journey: 29 [49] 5
+
+Node 29 to node 6
+Foremost Journey: 29 [49] 6
+Shortest Journey: 29 [49] 6
+
+Node 29 to node 7
+Foremost Journey: 29 [49] 7
+Shortest Journey: 29 [49] 7
+
+Node 29 to node 8
+Foremost Journey: 29 [49] 8
+Shortest Journey: 29 [49] 8
+
+Node 29 to node 9
+Foremost Journey: 29 [49] 9
+Shortest Journey: 29 [49] 9
+
+Node 29 to node 10
+Foremost Journey: 29 [49] 10
+Shortest Journey: 29 [49] 10
+
+Node 29 to node 11
+Foremost Journey: 29 [49] 11
+Shortest Journey: 29 [49] 11
+
+Node 29 to node 12
+Foremost Journey: 29 [49] 12
+Shortest Journey: 29 [49] 12
+
+Node 29 to node 13
+Foremost Journey: 29 [49] 13
+Shortest Journey: 29 [49] 13
+
+Node 29 to node 14
+Foremost Journey: 29 [49] 14
+Shortest Journey: 29 [49] 14
+
+Node 29 to node 15
+Foremost Journey: 29 [49] 15
+Shortest Journey: 29 [49] 15
+
+Node 29 to node 16
+Foremost Journey: 29 [49] 16
+Shortest Journey: 29 [49] 16
+
+Node 29 to node 17
+Foremost Journey: 29 [49] 17
+Shortest Journey: 29 [49] 17
+
+Node 29 to node 18
+Foremost Journey: 29 [49] 18
+Shortest Journey: 29 [49] 18
+
+Node 29 to node 19
+Foremost Journey: 29 [49] 19
+Shortest Journey: 29 [49] 19
+
+Node 29 to node 20
+Foremost Journey: 29 [49] 20
+Shortest Journey: 29 [49] 20
+
+Node 29 to node 21
+Foremost Journey: 29 [49] 21
+Shortest Journey: 29 [49] 21
+
+Node 29 to node 22
+Foremost Journey: 29 [49] 22
+Shortest Journey: 29 [49] 22
+
+Node 29 to node 23
+Foremost Journey: 29 [49] 23
+Shortest Journey: 29 [49] 23
+
+Node 29 to node 24
+Foremost Journey: 29 [49] 24
+Shortest Journey: 29 [49] 24
+
+Node 29 to node 25
+Foremost Journey: 29 [49] 25
+Shortest Journey: 29 [49] 25
+
+Node 29 to node 26
+Foremost Journey: 29 [49] 26
+Shortest Journey: 29 [49] 26
+
+Node 29 to node 27
+Foremost Journey: 29 [49] 27
+Shortest Journey: 29 [49] 27
+
+Node 29 to node 28
+Foremost Journey: 29 [49] 28
+Shortest Journey: 29 [49] 28
+
+Node 29 to node 30
+Foremost Journey: 29 [49] 30
+Shortest Journey: 29 [49] 30
+
+Node 29 to node 31
+Foremost Journey: 29 [49] 31
+Shortest Journey: 29 [49] 31
+
+Node 29 to node 32
+Foremost Journey: 29 [49] 32
+Shortest Journey: 29 [49] 32
+
+Node 29 to node 33
+Foremost Journey: 29 [49] 33
+Shortest Journey: 29 [49] 33
+
+Node 29 to node 34
+Foremost Journey: 29 [49] 34
+Shortest Journey: 29 [49] 34
+
+Node 29 to node 35
+Foremost Journey: 29 [49] 35
+Shortest Journey: 29 [49] 35
+
+Node 29 to node 36
+Foremost Journey: 29 [49] 36
+Shortest Journey: 29 [49] 36
+
+Node 29 to node 37
+Foremost Journey: 29 [49] 37
+Shortest Journey: 29 [49] 37
+
+Node 29 to node 38
+Foremost Journey: 29 [49] 38
+Shortest Journey: 29 [49] 38
+
+Node 29 to node 39
+Foremost Journey: 29 [49] 39
+Shortest Journey: 29 [49] 39
+
+Node 29 to node 40
+Foremost Journey: 29 [49] 40
+Shortest Journey: 29 [49] 40
+
+Node 29 to node 41
+Foremost Journey: 29 [49] 41
+Shortest Journey: 29 [49] 41
+
+Node 29 to node 42
+Foremost Journey: 29 [49] 42
+Shortest Journey: 29 [49] 42
+
+Node 29 to node 43
+Foremost Journey: 29 [49] 43
+Shortest Journey: 29 [49] 43
+
+Node 29 to node 44
+Foremost Journey: 29 [49] 44
+Shortest Journey: 29 [49] 44
+
+Node 29 to node 45
+Foremost Journey: 29 [49] 45
+Shortest Journey: 29 [49] 45
+
+Node 29 to node 46
+Foremost Journey: 29 [49] 46
+Shortest Journey: 29 [49] 46
+
+Node 29 to node 47
+Foremost Journey: 29 [49] 47
+Shortest Journey: 29 [49] 47
+
+Node 29 to node 48
+Foremost Journey: 29 [49] 48
+Shortest Journey: 29 [49] 48
+
+Node 29 to node 49
+Foremost Journey: 29 [49] 49
+Shortest Journey: 29 [49] 49
+
+Node 30 to node 0
+Foremost Journey: 30 [49] 0
+Shortest Journey: 30 [49] 0
+
+Node 30 to node 1
+Foremost Journey: 30 [49] 1
+Shortest Journey: 30 [49] 1
+
+Node 30 to node 2
+Foremost Journey: 30 [49] 2
+Shortest Journey: 30 [49] 2
+
+Node 30 to node 3
+Foremost Journey: 30 [49] 3
+Shortest Journey: 30 [49] 3
+
+Node 30 to node 4
+Foremost Journey: 30 [49] 4
+Shortest Journey: 30 [49] 4
+
+Node 30 to node 5
+Foremost Journey: 30 [49] 5
+Shortest Journey: 30 [49] 5
+
+Node 30 to node 6
+Foremost Journey: 30 [49] 6
+Shortest Journey: 30 [49] 6
+
+Node 30 to node 7
+Foremost Journey: 30 [49] 7
+Shortest Journey: 30 [49] 7
+
+Node 30 to node 8
+Foremost Journey: 30 [49] 8
+Shortest Journey: 30 [49] 8
+
+Node 30 to node 9
+Foremost Journey: 30 [49] 9
+Shortest Journey: 30 [49] 9
+
+Node 30 to node 10
+Foremost Journey: 30 [49] 10
+Shortest Journey: 30 [49] 10
+
+Node 30 to node 11
+Foremost Journey: 30 [49] 11
+Shortest Journey: 30 [49] 11
+
+Node 30 to node 12
+Foremost Journey: 30 [49] 12
+Shortest Journey: 30 [49] 12
+
+Node 30 to node 13
+Foremost Journey: 30 [49] 13
+Shortest Journey: 30 [49] 13
+
+Node 30 to node 14
+Foremost Journey: 30 [49] 14
+Shortest Journey: 30 [49] 14
+
+Node 30 to node 15
+Foremost Journey: 30 [49] 15
+Shortest Journey: 30 [49] 15
+
+Node 30 to node 16
+Foremost Journey: 30 [49] 16
+Shortest Journey: 30 [49] 16
+
+Node 30 to node 17
+Foremost Journey: 30 [49] 17
+Shortest Journey: 30 [49] 17
+
+Node 30 to node 18
+Foremost Journey: 30 [49] 18
+Shortest Journey: 30 [49] 18
+
+Node 30 to node 19
+Foremost Journey: 30 [49] 19
+Shortest Journey: 30 [49] 19
+
+Node 30 to node 20
+Foremost Journey: 30 [49] 20
+Shortest Journey: 30 [49] 20
+
+Node 30 to node 21
+Foremost Journey: 30 [49] 21
+Shortest Journey: 30 [49] 21
+
+Node 30 to node 22
+Foremost Journey: 30 [49] 22
+Shortest Journey: 30 [49] 22
+
+Node 30 to node 23
+Foremost Journey: 30 [49] 23
+Shortest Journey: 30 [49] 23
+
+Node 30 to node 24
+Foremost Journey: 30 [49] 24
+Shortest Journey: 30 [49] 24
+
+Node 30 to node 25
+Foremost Journey: 30 [49] 25
+Shortest Journey: 30 [49] 25
+
+Node 30 to node 26
+Foremost Journey: 30 [49] 26
+Shortest Journey: 30 [49] 26
+
+Node 30 to node 27
+Foremost Journey: 30 [49] 27
+Shortest Journey: 30 [49] 27
+
+Node 30 to node 28
+Foremost Journey: 30 [49] 28
+Shortest Journey: 30 [49] 28
+
+Node 30 to node 29
+Foremost Journey: 30 [49] 29
+Shortest Journey: 30 [49] 29
+
+Node 30 to node 31
+Foremost Journey: 30 [49] 31
+Shortest Journey: 30 [49] 31
+
+Node 30 to node 32
+Foremost Journey: 30 [49] 32
+Shortest Journey: 30 [49] 32
+
+Node 30 to node 33
+Foremost Journey: 30 [49] 33
+Shortest Journey: 30 [49] 33
+
+Node 30 to node 34
+Foremost Journey: 30 [49] 34
+Shortest Journey: 30 [49] 34
+
+Node 30 to node 35
+Foremost Journey: 30 [49] 35
+Shortest Journey: 30 [49] 35
+
+Node 30 to node 36
+Foremost Journey: 30 [49] 36
+Shortest Journey: 30 [49] 36
+
+Node 30 to node 37
+Foremost Journey: 30 [49] 37
+Shortest Journey: 30 [49] 37
+
+Node 30 to node 38
+Foremost Journey: 30 [49] 38
+Shortest Journey: 30 [49] 38
+
+Node 30 to node 39
+Foremost Journey: 30 [49] 39
+Shortest Journey: 30 [49] 39
+
+Node 30 to node 40
+Foremost Journey: 30 [49] 40
+Shortest Journey: 30 [49] 40
+
+Node 30 to node 41
+Foremost Journey: 30 [49] 41
+Shortest Journey: 30 [49] 41
+
+Node 30 to node 42
+Foremost Journey: 30 [49] 42
+Shortest Journey: 30 [49] 42
+
+Node 30 to node 43
+Foremost Journey: 30 [49] 43
+Shortest Journey: 30 [49] 43
+
+Node 30 to node 44
+Foremost Journey: 30 [49] 44
+Shortest Journey: 30 [49] 44
+
+Node 30 to node 45
+Foremost Journey: 30 [49] 45
+Shortest Journey: 30 [49] 45
+
+Node 30 to node 46
+Foremost Journey: 30 [49] 46
+Shortest Journey: 30 [49] 46
+
+Node 30 to node 47
+Foremost Journey: 30 [49] 47
+Shortest Journey: 30 [49] 47
+
+Node 30 to node 48
+Foremost Journey: 30 [49] 48
+Shortest Journey: 30 [49] 48
+
+Node 30 to node 49
+Foremost Journey: 30 [49] 49
+Shortest Journey: 30 [49] 49
+
+Node 31 to node 0
+Foremost Journey: 31 [49] 0
+Shortest Journey: 31 [49] 0
+
+Node 31 to node 1
+Foremost Journey: 31 [49] 1
+Shortest Journey: 31 [49] 1
+
+Node 31 to node 2
+Foremost Journey: 31 [49] 2
+Shortest Journey: 31 [49] 2
+
+Node 31 to node 3
+Foremost Journey: 31 [49] 3
+Shortest Journey: 31 [49] 3
+
+Node 31 to node 4
+Foremost Journey: 31 [49] 4
+Shortest Journey: 31 [49] 4
+
+Node 31 to node 5
+Foremost Journey: 31 [49] 5
+Shortest Journey: 31 [49] 5
+
+Node 31 to node 6
+Foremost Journey: 31 [49] 6
+Shortest Journey: 31 [49] 6
+
+Node 31 to node 7
+Foremost Journey: 31 [49] 7
+Shortest Journey: 31 [49] 7
+
+Node 31 to node 8
+Foremost Journey: 31 [49] 8
+Shortest Journey: 31 [49] 8
+
+Node 31 to node 9
+Foremost Journey: 31 [49] 9
+Shortest Journey: 31 [49] 9
+
+Node 31 to node 10
+Foremost Journey: 31 [49] 10
+Shortest Journey: 31 [49] 10
+
+Node 31 to node 11
+Foremost Journey: 31 [49] 11
+Shortest Journey: 31 [49] 11
+
+Node 31 to node 12
+Foremost Journey: 31 [49] 12
+Shortest Journey: 31 [49] 12
+
+Node 31 to node 13
+Foremost Journey: 31 [49] 13
+Shortest Journey: 31 [49] 13
+
+Node 31 to node 14
+Foremost Journey: 31 [49] 14
+Shortest Journey: 31 [49] 14
+
+Node 31 to node 15
+Foremost Journey: 31 [49] 15
+Shortest Journey: 31 [49] 15
+
+Node 31 to node 16
+Foremost Journey: 31 [49] 16
+Shortest Journey: 31 [49] 16
+
+Node 31 to node 17
+Foremost Journey: 31 [49] 17
+Shortest Journey: 31 [49] 17
+
+Node 31 to node 18
+Foremost Journey: 31 [49] 18
+Shortest Journey: 31 [49] 18
+
+Node 31 to node 19
+Foremost Journey: 31 [49] 19
+Shortest Journey: 31 [49] 19
+
+Node 31 to node 20
+Foremost Journey: 31 [49] 20
+Shortest Journey: 31 [49] 20
+
+Node 31 to node 21
+Foremost Journey: 31 [49] 21
+Shortest Journey: 31 [49] 21
+
+Node 31 to node 22
+Foremost Journey: 31 [49] 22
+Shortest Journey: 31 [49] 22
+
+Node 31 to node 23
+Foremost Journey: 31 [49] 23
+Shortest Journey: 31 [49] 23
+
+Node 31 to node 24
+Foremost Journey: 31 [49] 24
+Shortest Journey: 31 [49] 24
+
+Node 31 to node 25
+Foremost Journey: 31 [49] 25
+Shortest Journey: 31 [49] 25
+
+Node 31 to node 26
+Foremost Journey: 31 [49] 26
+Shortest Journey: 31 [49] 26
+
+Node 31 to node 27
+Foremost Journey: 31 [49] 27
+Shortest Journey: 31 [49] 27
+
+Node 31 to node 28
+Foremost Journey: 31 [49] 28
+Shortest Journey: 31 [49] 28
+
+Node 31 to node 29
+Foremost Journey: 31 [49] 29
+Shortest Journey: 31 [49] 29
+
+Node 31 to node 30
+Foremost Journey: 31 [49] 30
+Shortest Journey: 31 [49] 30
+
+Node 31 to node 32
+Foremost Journey: 31 [49] 32
+Shortest Journey: 31 [49] 32
+
+Node 31 to node 33
+Foremost Journey: 31 [49] 33
+Shortest Journey: 31 [49] 33
+
+Node 31 to node 34
+Foremost Journey: 31 [49] 34
+Shortest Journey: 31 [49] 34
+
+Node 31 to node 35
+Foremost Journey: 31 [49] 35
+Shortest Journey: 31 [49] 35
+
+Node 31 to node 36
+Foremost Journey: 31 [49] 36
+Shortest Journey: 31 [49] 36
+
+Node 31 to node 37
+Foremost Journey: 31 [49] 37
+Shortest Journey: 31 [49] 37
+
+Node 31 to node 38
+Foremost Journey: 31 [49] 38
+Shortest Journey: 31 [49] 38
+
+Node 31 to node 39
+Foremost Journey: 31 [49] 39
+Shortest Journey: 31 [49] 39
+
+Node 31 to node 40
+Foremost Journey: 31 [49] 40
+Shortest Journey: 31 [49] 40
+
+Node 31 to node 41
+Foremost Journey: 31 [49] 41
+Shortest Journey: 31 [49] 41
+
+Node 31 to node 42
+Foremost Journey: 31 [49] 42
+Shortest Journey: 31 [49] 42
+
+Node 31 to node 43
+Foremost Journey: 31 [49] 43
+Shortest Journey: 31 [49] 43
+
+Node 31 to node 44
+Foremost Journey: 31 [49] 44
+Shortest Journey: 31 [49] 44
+
+Node 31 to node 45
+Foremost Journey: 31 [49] 45
+Shortest Journey: 31 [49] 45
+
+Node 31 to node 46
+Foremost Journey: 31 [49] 46
+Shortest Journey: 31 [49] 46
+
+Node 31 to node 47
+Foremost Journey: 31 [49] 47
+Shortest Journey: 31 [49] 47
+
+Node 31 to node 48
+Foremost Journey: 31 [49] 48
+Shortest Journey: 31 [49] 48
+
+Node 31 to node 49
+Foremost Journey: 31 [49] 49
+Shortest Journey: 31 [49] 49
+
+Node 32 to node 0
+Foremost Journey: 32 [49] 0
+Shortest Journey: 32 [49] 0
+
+Node 32 to node 1
+Foremost Journey: 32 [49] 1
+Shortest Journey: 32 [49] 1
+
+Node 32 to node 2
+Foremost Journey: 32 [49] 2
+Shortest Journey: 32 [49] 2
+
+Node 32 to node 3
+Foremost Journey: 32 [49] 3
+Shortest Journey: 32 [49] 3
+
+Node 32 to node 4
+Foremost Journey: 32 [49] 4
+Shortest Journey: 32 [49] 4
+
+Node 32 to node 5
+Foremost Journey: 32 [49] 5
+Shortest Journey: 32 [49] 5
+
+Node 32 to node 6
+Foremost Journey: 32 [49] 6
+Shortest Journey: 32 [49] 6
+
+Node 32 to node 7
+Foremost Journey: 32 [49] 7
+Shortest Journey: 32 [49] 7
+
+Node 32 to node 8
+Foremost Journey: 32 [49] 8
+Shortest Journey: 32 [49] 8
+
+Node 32 to node 9
+Foremost Journey: 32 [49] 9
+Shortest Journey: 32 [49] 9
+
+Node 32 to node 10
+Foremost Journey: 32 [49] 10
+Shortest Journey: 32 [49] 10
+
+Node 32 to node 11
+Foremost Journey: 32 [49] 11
+Shortest Journey: 32 [49] 11
+
+Node 32 to node 12
+Foremost Journey: 32 [49] 12
+Shortest Journey: 32 [49] 12
+
+Node 32 to node 13
+Foremost Journey: 32 [49] 13
+Shortest Journey: 32 [49] 13
+
+Node 32 to node 14
+Foremost Journey: 32 [49] 14
+Shortest Journey: 32 [49] 14
+
+Node 32 to node 15
+Foremost Journey: 32 [49] 15
+Shortest Journey: 32 [49] 15
+
+Node 32 to node 16
+Foremost Journey: 32 [49] 16
+Shortest Journey: 32 [49] 16
+
+Node 32 to node 17
+Foremost Journey: 32 [49] 17
+Shortest Journey: 32 [49] 17
+
+Node 32 to node 18
+Foremost Journey: 32 [49] 18
+Shortest Journey: 32 [49] 18
+
+Node 32 to node 19
+Foremost Journey: 32 [49] 19
+Shortest Journey: 32 [49] 19
+
+Node 32 to node 20
+Foremost Journey: 32 [49] 20
+Shortest Journey: 32 [49] 20
+
+Node 32 to node 21
+Foremost Journey: 32 [49] 21
+Shortest Journey: 32 [49] 21
+
+Node 32 to node 22
+Foremost Journey: 32 [49] 22
+Shortest Journey: 32 [49] 22
+
+Node 32 to node 23
+Foremost Journey: 32 [49] 23
+Shortest Journey: 32 [49] 23
+
+Node 32 to node 24
+Foremost Journey: 32 [49] 24
+Shortest Journey: 32 [49] 24
+
+Node 32 to node 25
+Foremost Journey: 32 [49] 25
+Shortest Journey: 32 [49] 25
+
+Node 32 to node 26
+Foremost Journey: 32 [49] 26
+Shortest Journey: 32 [49] 26
+
+Node 32 to node 27
+Foremost Journey: 32 [49] 27
+Shortest Journey: 32 [49] 27
+
+Node 32 to node 28
+Foremost Journey: 32 [49] 28
+Shortest Journey: 32 [49] 28
+
+Node 32 to node 29
+Foremost Journey: 32 [49] 29
+Shortest Journey: 32 [49] 29
+
+Node 32 to node 30
+Foremost Journey: 32 [49] 30
+Shortest Journey: 32 [49] 30
+
+Node 32 to node 31
+Foremost Journey: 32 [49] 31
+Shortest Journey: 32 [49] 31
+
+Node 32 to node 33
+Foremost Journey: 32 [49] 33
+Shortest Journey: 32 [49] 33
+
+Node 32 to node 34
+Foremost Journey: 32 [49] 34
+Shortest Journey: 32 [49] 34
+
+Node 32 to node 35
+Foremost Journey: 32 [49] 35
+Shortest Journey: 32 [49] 35
+
+Node 32 to node 36
+Foremost Journey: 32 [49] 36
+Shortest Journey: 32 [49] 36
+
+Node 32 to node 37
+Foremost Journey: 32 [49] 37
+Shortest Journey: 32 [49] 37
+
+Node 32 to node 38
+Foremost Journey: 32 [49] 38
+Shortest Journey: 32 [49] 38
+
+Node 32 to node 39
+Foremost Journey: 32 [49] 39
+Shortest Journey: 32 [49] 39
+
+Node 32 to node 40
+Foremost Journey: 32 [49] 40
+Shortest Journey: 32 [49] 40
+
+Node 32 to node 41
+Foremost Journey: 32 [49] 41
+Shortest Journey: 32 [49] 41
+
+Node 32 to node 42
+Foremost Journey: 32 [49] 42
+Shortest Journey: 32 [49] 42
+
+Node 32 to node 43
+Foremost Journey: 32 [49] 43
+Shortest Journey: 32 [49] 43
+
+Node 32 to node 44
+Foremost Journey: 32 [49] 44
+Shortest Journey: 32 [49] 44
+
+Node 32 to node 45
+Foremost Journey: 32 [49] 45
+Shortest Journey: 32 [49] 45
+
+Node 32 to node 46
+Foremost Journey: 32 [49] 46
+Shortest Journey: 32 [49] 46
+
+Node 32 to node 47
+Foremost Journey: 32 [49] 47
+Shortest Journey: 32 [49] 47
+
+Node 32 to node 48
+Foremost Journey: 32 [49] 48
+Shortest Journey: 32 [49] 48
+
+Node 32 to node 49
+Foremost Journey: 32 [49] 49
+Shortest Journey: 32 [49] 49
+
+Node 33 to node 0
+Foremost Journey: 33 [49] 0
+Shortest Journey: 33 [49] 0
+
+Node 33 to node 1
+Foremost Journey: 33 [49] 1
+Shortest Journey: 33 [49] 1
+
+Node 33 to node 2
+Foremost Journey: 33 [49] 2
+Shortest Journey: 33 [49] 2
+
+Node 33 to node 3
+Foremost Journey: 33 [49] 3
+Shortest Journey: 33 [49] 3
+
+Node 33 to node 4
+Foremost Journey: 33 [49] 4
+Shortest Journey: 33 [49] 4
+
+Node 33 to node 5
+Foremost Journey: 33 [49] 5
+Shortest Journey: 33 [49] 5
+
+Node 33 to node 6
+Foremost Journey: 33 [49] 6
+Shortest Journey: 33 [49] 6
+
+Node 33 to node 7
+Foremost Journey: 33 [49] 7
+Shortest Journey: 33 [49] 7
+
+Node 33 to node 8
+Foremost Journey: 33 [49] 8
+Shortest Journey: 33 [49] 8
+
+Node 33 to node 9
+Foremost Journey: 33 [49] 9
+Shortest Journey: 33 [49] 9
+
+Node 33 to node 10
+Foremost Journey: 33 [49] 10
+Shortest Journey: 33 [49] 10
+
+Node 33 to node 11
+Foremost Journey: 33 [49] 11
+Shortest Journey: 33 [49] 11
+
+Node 33 to node 12
+Foremost Journey: 33 [49] 12
+Shortest Journey: 33 [49] 12
+
+Node 33 to node 13
+Foremost Journey: 33 [49] 13
+Shortest Journey: 33 [49] 13
+
+Node 33 to node 14
+Foremost Journey: 33 [49] 14
+Shortest Journey: 33 [49] 14
+
+Node 33 to node 15
+Foremost Journey: 33 [49] 15
+Shortest Journey: 33 [49] 15
+
+Node 33 to node 16
+Foremost Journey: 33 [49] 16
+Shortest Journey: 33 [49] 16
+
+Node 33 to node 17
+Foremost Journey: 33 [49] 17
+Shortest Journey: 33 [49] 17
+
+Node 33 to node 18
+Foremost Journey: 33 [49] 18
+Shortest Journey: 33 [49] 18
+
+Node 33 to node 19
+Foremost Journey: 33 [49] 19
+Shortest Journey: 33 [49] 19
+
+Node 33 to node 20
+Foremost Journey: 33 [49] 20
+Shortest Journey: 33 [49] 20
+
+Node 33 to node 21
+Foremost Journey: 33 [49] 21
+Shortest Journey: 33 [49] 21
+
+Node 33 to node 22
+Foremost Journey: 33 [49] 22
+Shortest Journey: 33 [49] 22
+
+Node 33 to node 23
+Foremost Journey: 33 [49] 23
+Shortest Journey: 33 [49] 23
+
+Node 33 to node 24
+Foremost Journey: 33 [49] 24
+Shortest Journey: 33 [49] 24
+
+Node 33 to node 25
+Foremost Journey: 33 [49] 25
+Shortest Journey: 33 [49] 25
+
+Node 33 to node 26
+Foremost Journey: 33 [49] 26
+Shortest Journey: 33 [49] 26
+
+Node 33 to node 27
+Foremost Journey: 33 [49] 27
+Shortest Journey: 33 [49] 27
+
+Node 33 to node 28
+Foremost Journey: 33 [49] 28
+Shortest Journey: 33 [49] 28
+
+Node 33 to node 29
+Foremost Journey: 33 [49] 29
+Shortest Journey: 33 [49] 29
+
+Node 33 to node 30
+Foremost Journey: 33 [49] 30
+Shortest Journey: 33 [49] 30
+
+Node 33 to node 31
+Foremost Journey: 33 [49] 31
+Shortest Journey: 33 [49] 31
+
+Node 33 to node 32
+Foremost Journey: 33 [49] 32
+Shortest Journey: 33 [49] 32
+
+Node 33 to node 34
+Foremost Journey: 33 [49] 34
+Shortest Journey: 33 [49] 34
+
+Node 33 to node 35
+Foremost Journey: 33 [49] 35
+Shortest Journey: 33 [49] 35
+
+Node 33 to node 36
+Foremost Journey: 33 [49] 36
+Shortest Journey: 33 [49] 36
+
+Node 33 to node 37
+Foremost Journey: 33 [49] 37
+Shortest Journey: 33 [49] 37
+
+Node 33 to node 38
+Foremost Journey: 33 [49] 38
+Shortest Journey: 33 [49] 38
+
+Node 33 to node 39
+Foremost Journey: 33 [49] 39
+Shortest Journey: 33 [49] 39
+
+Node 33 to node 40
+Foremost Journey: 33 [49] 40
+Shortest Journey: 33 [49] 40
+
+Node 33 to node 41
+Foremost Journey: 33 [49] 41
+Shortest Journey: 33 [49] 41
+
+Node 33 to node 42
+Foremost Journey: 33 [49] 42
+Shortest Journey: 33 [49] 42
+
+Node 33 to node 43
+Foremost Journey: 33 [49] 43
+Shortest Journey: 33 [49] 43
+
+Node 33 to node 44
+Foremost Journey: 33 [49] 44
+Shortest Journey: 33 [49] 44
+
+Node 33 to node 45
+Foremost Journey: 33 [49] 45
+Shortest Journey: 33 [49] 45
+
+Node 33 to node 46
+Foremost Journey: 33 [49] 46
+Shortest Journey: 33 [49] 46
+
+Node 33 to node 47
+Foremost Journey: 33 [49] 47
+Shortest Journey: 33 [49] 47
+
+Node 33 to node 48
+Foremost Journey: 33 [49] 48
+Shortest Journey: 33 [49] 48
+
+Node 33 to node 49
+Foremost Journey: 33 [49] 49
+Shortest Journey: 33 [49] 49
+
+Node 34 to node 0
+Foremost Journey: 34 [49] 0
+Shortest Journey: 34 [49] 0
+
+Node 34 to node 1
+Foremost Journey: 34 [49] 1
+Shortest Journey: 34 [49] 1
+
+Node 34 to node 2
+Foremost Journey: 34 [49] 2
+Shortest Journey: 34 [49] 2
+
+Node 34 to node 3
+Foremost Journey: 34 [49] 3
+Shortest Journey: 34 [49] 3
+
+Node 34 to node 4
+Foremost Journey: 34 [49] 4
+Shortest Journey: 34 [49] 4
+
+Node 34 to node 5
+Foremost Journey: 34 [49] 5
+Shortest Journey: 34 [49] 5
+
+Node 34 to node 6
+Foremost Journey: 34 [49] 6
+Shortest Journey: 34 [49] 6
+
+Node 34 to node 7
+Foremost Journey: 34 [49] 7
+Shortest Journey: 34 [49] 7
+
+Node 34 to node 8
+Foremost Journey: 34 [49] 8
+Shortest Journey: 34 [49] 8
+
+Node 34 to node 9
+Foremost Journey: 34 [49] 9
+Shortest Journey: 34 [49] 9
+
+Node 34 to node 10
+Foremost Journey: 34 [49] 10
+Shortest Journey: 34 [49] 10
+
+Node 34 to node 11
+Foremost Journey: 34 [49] 11
+Shortest Journey: 34 [49] 11
+
+Node 34 to node 12
+Foremost Journey: 34 [49] 12
+Shortest Journey: 34 [49] 12
+
+Node 34 to node 13
+Foremost Journey: 34 [49] 13
+Shortest Journey: 34 [49] 13
+
+Node 34 to node 14
+Foremost Journey: 34 [49] 14
+Shortest Journey: 34 [49] 14
+
+Node 34 to node 15
+Foremost Journey: 34 [49] 15
+Shortest Journey: 34 [49] 15
+
+Node 34 to node 16
+Foremost Journey: 34 [49] 16
+Shortest Journey: 34 [49] 16
+
+Node 34 to node 17
+Foremost Journey: 34 [49] 17
+Shortest Journey: 34 [49] 17
+
+Node 34 to node 18
+Foremost Journey: 34 [49] 18
+Shortest Journey: 34 [49] 18
+
+Node 34 to node 19
+Foremost Journey: 34 [49] 19
+Shortest Journey: 34 [49] 19
+
+Node 34 to node 20
+Foremost Journey: 34 [49] 20
+Shortest Journey: 34 [49] 20
+
+Node 34 to node 21
+Foremost Journey: 34 [49] 21
+Shortest Journey: 34 [49] 21
+
+Node 34 to node 22
+Foremost Journey: 34 [49] 22
+Shortest Journey: 34 [49] 22
+
+Node 34 to node 23
+Foremost Journey: 34 [49] 23
+Shortest Journey: 34 [49] 23
+
+Node 34 to node 24
+Foremost Journey: 34 [49] 24
+Shortest Journey: 34 [49] 24
+
+Node 34 to node 25
+Foremost Journey: 34 [49] 25
+Shortest Journey: 34 [49] 25
+
+Node 34 to node 26
+Foremost Journey: 34 [49] 26
+Shortest Journey: 34 [49] 26
+
+Node 34 to node 27
+Foremost Journey: 34 [49] 27
+Shortest Journey: 34 [49] 27
+
+Node 34 to node 28
+Foremost Journey: 34 [49] 28
+Shortest Journey: 34 [49] 28
+
+Node 34 to node 29
+Foremost Journey: 34 [49] 29
+Shortest Journey: 34 [49] 29
+
+Node 34 to node 30
+Foremost Journey: 34 [49] 30
+Shortest Journey: 34 [49] 30
+
+Node 34 to node 31
+Foremost Journey: 34 [49] 31
+Shortest Journey: 34 [49] 31
+
+Node 34 to node 32
+Foremost Journey: 34 [49] 32
+Shortest Journey: 34 [49] 32
+
+Node 34 to node 33
+Foremost Journey: 34 [49] 33
+Shortest Journey: 34 [49] 33
+
+Node 34 to node 35
+Foremost Journey: 34 [49] 35
+Shortest Journey: 34 [49] 35
+
+Node 34 to node 36
+Foremost Journey: 34 [49] 36
+Shortest Journey: 34 [49] 36
+
+Node 34 to node 37
+Foremost Journey: 34 [49] 37
+Shortest Journey: 34 [49] 37
+
+Node 34 to node 38
+Foremost Journey: 34 [49] 38
+Shortest Journey: 34 [49] 38
+
+Node 34 to node 39
+Foremost Journey: 34 [49] 39
+Shortest Journey: 34 [49] 39
+
+Node 34 to node 40
+Foremost Journey: 34 [49] 40
+Shortest Journey: 34 [49] 40
+
+Node 34 to node 41
+Foremost Journey: 34 [49] 41
+Shortest Journey: 34 [49] 41
+
+Node 34 to node 42
+Foremost Journey: 34 [49] 42
+Shortest Journey: 34 [49] 42
+
+Node 34 to node 43
+Foremost Journey: 34 [49] 43
+Shortest Journey: 34 [49] 43
+
+Node 34 to node 44
+Foremost Journey: 34 [49] 44
+Shortest Journey: 34 [49] 44
+
+Node 34 to node 45
+Foremost Journey: 34 [49] 45
+Shortest Journey: 34 [49] 45
+
+Node 34 to node 46
+Foremost Journey: 34 [49] 46
+Shortest Journey: 34 [49] 46
+
+Node 34 to node 47
+Foremost Journey: 34 [49] 47
+Shortest Journey: 34 [49] 47
+
+Node 34 to node 48
+Foremost Journey: 34 [49] 48
+Shortest Journey: 34 [49] 48
+
+Node 34 to node 49
+Foremost Journey: 34 [49] 49
+Shortest Journey: 34 [49] 49
+
+Node 35 to node 0
+Foremost Journey: 35 [49] 0
+Shortest Journey: 35 [49] 0
+
+Node 35 to node 1
+Foremost Journey: 35 [49] 1
+Shortest Journey: 35 [49] 1
+
+Node 35 to node 2
+Foremost Journey: 35 [49] 2
+Shortest Journey: 35 [49] 2
+
+Node 35 to node 3
+Foremost Journey: 35 [49] 3
+Shortest Journey: 35 [49] 3
+
+Node 35 to node 4
+Foremost Journey: 35 [49] 4
+Shortest Journey: 35 [49] 4
+
+Node 35 to node 5
+Foremost Journey: 35 [49] 5
+Shortest Journey: 35 [49] 5
+
+Node 35 to node 6
+Foremost Journey: 35 [49] 6
+Shortest Journey: 35 [49] 6
+
+Node 35 to node 7
+Foremost Journey: 35 [49] 7
+Shortest Journey: 35 [49] 7
+
+Node 35 to node 8
+Foremost Journey: 35 [49] 8
+Shortest Journey: 35 [49] 8
+
+Node 35 to node 9
+Foremost Journey: 35 [49] 9
+Shortest Journey: 35 [49] 9
+
+Node 35 to node 10
+Foremost Journey: 35 [49] 10
+Shortest Journey: 35 [49] 10
+
+Node 35 to node 11
+Foremost Journey: 35 [49] 11
+Shortest Journey: 35 [49] 11
+
+Node 35 to node 12
+Foremost Journey: 35 [49] 12
+Shortest Journey: 35 [49] 12
+
+Node 35 to node 13
+Foremost Journey: 35 [49] 13
+Shortest Journey: 35 [49] 13
+
+Node 35 to node 14
+Foremost Journey: 35 [49] 14
+Shortest Journey: 35 [49] 14
+
+Node 35 to node 15
+Foremost Journey: 35 [49] 15
+Shortest Journey: 35 [49] 15
+
+Node 35 to node 16
+Foremost Journey: 35 [49] 16
+Shortest Journey: 35 [49] 16
+
+Node 35 to node 17
+Foremost Journey: 35 [49] 17
+Shortest Journey: 35 [49] 17
+
+Node 35 to node 18
+Foremost Journey: 35 [49] 18
+Shortest Journey: 35 [49] 18
+
+Node 35 to node 19
+Foremost Journey: 35 [49] 19
+Shortest Journey: 35 [49] 19
+
+Node 35 to node 20
+Foremost Journey: 35 [49] 20
+Shortest Journey: 35 [49] 20
+
+Node 35 to node 21
+Foremost Journey: 35 [49] 21
+Shortest Journey: 35 [49] 21
+
+Node 35 to node 22
+Foremost Journey: 35 [49] 22
+Shortest Journey: 35 [49] 22
+
+Node 35 to node 23
+Foremost Journey: 35 [49] 23
+Shortest Journey: 35 [49] 23
+
+Node 35 to node 24
+Foremost Journey: 35 [49] 24
+Shortest Journey: 35 [49] 24
+
+Node 35 to node 25
+Foremost Journey: 35 [49] 25
+Shortest Journey: 35 [49] 25
+
+Node 35 to node 26
+Foremost Journey: 35 [49] 26
+Shortest Journey: 35 [49] 26
+
+Node 35 to node 27
+Foremost Journey: 35 [49] 27
+Shortest Journey: 35 [49] 27
+
+Node 35 to node 28
+Foremost Journey: 35 [49] 28
+Shortest Journey: 35 [49] 28
+
+Node 35 to node 29
+Foremost Journey: 35 [49] 29
+Shortest Journey: 35 [49] 29
+
+Node 35 to node 30
+Foremost Journey: 35 [49] 30
+Shortest Journey: 35 [49] 30
+
+Node 35 to node 31
+Foremost Journey: 35 [49] 31
+Shortest Journey: 35 [49] 31
+
+Node 35 to node 32
+Foremost Journey: 35 [49] 32
+Shortest Journey: 35 [49] 32
+
+Node 35 to node 33
+Foremost Journey: 35 [49] 33
+Shortest Journey: 35 [49] 33
+
+Node 35 to node 34
+Foremost Journey: 35 [49] 34
+Shortest Journey: 35 [49] 34
+
+Node 35 to node 36
+Foremost Journey: 35 [49] 36
+Shortest Journey: 35 [49] 36
+
+Node 35 to node 37
+Foremost Journey: 35 [49] 37
+Shortest Journey: 35 [49] 37
+
+Node 35 to node 38
+Foremost Journey: 35 [49] 38
+Shortest Journey: 35 [49] 38
+
+Node 35 to node 39
+Foremost Journey: 35 [49] 39
+Shortest Journey: 35 [49] 39
+
+Node 35 to node 40
+Foremost Journey: 35 [49] 40
+Shortest Journey: 35 [49] 40
+
+Node 35 to node 41
+Foremost Journey: 35 [49] 41
+Shortest Journey: 35 [49] 41
+
+Node 35 to node 42
+Foremost Journey: 35 [49] 42
+Shortest Journey: 35 [49] 42
+
+Node 35 to node 43
+Foremost Journey: 35 [49] 43
+Shortest Journey: 35 [49] 43
+
+Node 35 to node 44
+Foremost Journey: 35 [49] 44
+Shortest Journey: 35 [49] 44
+
+Node 35 to node 45
+Foremost Journey: 35 [49] 45
+Shortest Journey: 35 [49] 45
+
+Node 35 to node 46
+Foremost Journey: 35 [49] 46
+Shortest Journey: 35 [49] 46
+
+Node 35 to node 47
+Foremost Journey: 35 [49] 47
+Shortest Journey: 35 [49] 47
+
+Node 35 to node 48
+Foremost Journey: 35 [49] 48
+Shortest Journey: 35 [49] 48
+
+Node 35 to node 49
+Foremost Journey: 35 [49] 49
+Shortest Journey: 35 [49] 49
+
+Node 36 to node 0
+Foremost Journey: 36 [49] 0
+Shortest Journey: 36 [49] 0
+
+Node 36 to node 1
+Foremost Journey: 36 [49] 1
+Shortest Journey: 36 [49] 1
+
+Node 36 to node 2
+Foremost Journey: 36 [49] 2
+Shortest Journey: 36 [49] 2
+
+Node 36 to node 3
+Foremost Journey: 36 [49] 3
+Shortest Journey: 36 [49] 3
+
+Node 36 to node 4
+Foremost Journey: 36 [49] 4
+Shortest Journey: 36 [49] 4
+
+Node 36 to node 5
+Foremost Journey: 36 [49] 5
+Shortest Journey: 36 [49] 5
+
+Node 36 to node 6
+Foremost Journey: 36 [49] 6
+Shortest Journey: 36 [49] 6
+
+Node 36 to node 7
+Foremost Journey: 36 [49] 7
+Shortest Journey: 36 [49] 7
+
+Node 36 to node 8
+Foremost Journey: 36 [49] 8
+Shortest Journey: 36 [49] 8
+
+Node 36 to node 9
+Foremost Journey: 36 [49] 9
+Shortest Journey: 36 [49] 9
+
+Node 36 to node 10
+Foremost Journey: 36 [49] 10
+Shortest Journey: 36 [49] 10
+
+Node 36 to node 11
+Foremost Journey: 36 [49] 11
+Shortest Journey: 36 [49] 11
+
+Node 36 to node 12
+Foremost Journey: 36 [49] 12
+Shortest Journey: 36 [49] 12
+
+Node 36 to node 13
+Foremost Journey: 36 [49] 13
+Shortest Journey: 36 [49] 13
+
+Node 36 to node 14
+Foremost Journey: 36 [49] 14
+Shortest Journey: 36 [49] 14
+
+Node 36 to node 15
+Foremost Journey: 36 [49] 15
+Shortest Journey: 36 [49] 15
+
+Node 36 to node 16
+Foremost Journey: 36 [49] 16
+Shortest Journey: 36 [49] 16
+
+Node 36 to node 17
+Foremost Journey: 36 [49] 17
+Shortest Journey: 36 [49] 17
+
+Node 36 to node 18
+Foremost Journey: 36 [49] 18
+Shortest Journey: 36 [49] 18
+
+Node 36 to node 19
+Foremost Journey: 36 [49] 19
+Shortest Journey: 36 [49] 19
+
+Node 36 to node 20
+Foremost Journey: 36 [49] 20
+Shortest Journey: 36 [49] 20
+
+Node 36 to node 21
+Foremost Journey: 36 [49] 21
+Shortest Journey: 36 [49] 21
+
+Node 36 to node 22
+Foremost Journey: 36 [49] 22
+Shortest Journey: 36 [49] 22
+
+Node 36 to node 23
+Foremost Journey: 36 [49] 23
+Shortest Journey: 36 [49] 23
+
+Node 36 to node 24
+Foremost Journey: 36 [49] 24
+Shortest Journey: 36 [49] 24
+
+Node 36 to node 25
+Foremost Journey: 36 [49] 25
+Shortest Journey: 36 [49] 25
+
+Node 36 to node 26
+Foremost Journey: 36 [49] 26
+Shortest Journey: 36 [49] 26
+
+Node 36 to node 27
+Foremost Journey: 36 [49] 27
+Shortest Journey: 36 [49] 27
+
+Node 36 to node 28
+Foremost Journey: 36 [49] 28
+Shortest Journey: 36 [49] 28
+
+Node 36 to node 29
+Foremost Journey: 36 [49] 29
+Shortest Journey: 36 [49] 29
+
+Node 36 to node 30
+Foremost Journey: 36 [49] 30
+Shortest Journey: 36 [49] 30
+
+Node 36 to node 31
+Foremost Journey: 36 [49] 31
+Shortest Journey: 36 [49] 31
+
+Node 36 to node 32
+Foremost Journey: 36 [49] 32
+Shortest Journey: 36 [49] 32
+
+Node 36 to node 33
+Foremost Journey: 36 [49] 33
+Shortest Journey: 36 [49] 33
+
+Node 36 to node 34
+Foremost Journey: 36 [49] 34
+Shortest Journey: 36 [49] 34
+
+Node 36 to node 35
+Foremost Journey: 36 [49] 35
+Shortest Journey: 36 [49] 35
+
+Node 36 to node 37
+Foremost Journey: 36 [49] 37
+Shortest Journey: 36 [49] 37
+
+Node 36 to node 38
+Foremost Journey: 36 [49] 38
+Shortest Journey: 36 [49] 38
+
+Node 36 to node 39
+Foremost Journey: 36 [49] 39
+Shortest Journey: 36 [49] 39
+
+Node 36 to node 40
+Foremost Journey: 36 [49] 40
+Shortest Journey: 36 [49] 40
+
+Node 36 to node 41
+Foremost Journey: 36 [49] 41
+Shortest Journey: 36 [49] 41
+
+Node 36 to node 42
+Foremost Journey: 36 [49] 42
+Shortest Journey: 36 [49] 42
+
+Node 36 to node 43
+Foremost Journey: 36 [49] 43
+Shortest Journey: 36 [49] 43
+
+Node 36 to node 44
+Foremost Journey: 36 [49] 44
+Shortest Journey: 36 [49] 44
+
+Node 36 to node 45
+Foremost Journey: 36 [49] 45
+Shortest Journey: 36 [49] 45
+
+Node 36 to node 46
+Foremost Journey: 36 [49] 46
+Shortest Journey: 36 [49] 46
+
+Node 36 to node 47
+Foremost Journey: 36 [49] 47
+Shortest Journey: 36 [49] 47
+
+Node 36 to node 48
+Foremost Journey: 36 [49] 48
+Shortest Journey: 36 [49] 48
+
+Node 36 to node 49
+Foremost Journey: 36 [49] 49
+Shortest Journey: 36 [49] 49
+
+Node 37 to node 0
+Foremost Journey: 37 [49] 0
+Shortest Journey: 37 [49] 0
+
+Node 37 to node 1
+Foremost Journey: 37 [49] 1
+Shortest Journey: 37 [49] 1
+
+Node 37 to node 2
+Foremost Journey: 37 [49] 2
+Shortest Journey: 37 [49] 2
+
+Node 37 to node 3
+Foremost Journey: 37 [49] 3
+Shortest Journey: 37 [49] 3
+
+Node 37 to node 4
+Foremost Journey: 37 [49] 4
+Shortest Journey: 37 [49] 4
+
+Node 37 to node 5
+Foremost Journey: 37 [49] 5
+Shortest Journey: 37 [49] 5
+
+Node 37 to node 6
+Foremost Journey: 37 [49] 6
+Shortest Journey: 37 [49] 6
+
+Node 37 to node 7
+Foremost Journey: 37 [49] 7
+Shortest Journey: 37 [49] 7
+
+Node 37 to node 8
+Foremost Journey: 37 [49] 8
+Shortest Journey: 37 [49] 8
+
+Node 37 to node 9
+Foremost Journey: 37 [49] 9
+Shortest Journey: 37 [49] 9
+
+Node 37 to node 10
+Foremost Journey: 37 [49] 10
+Shortest Journey: 37 [49] 10
+
+Node 37 to node 11
+Foremost Journey: 37 [49] 11
+Shortest Journey: 37 [49] 11
+
+Node 37 to node 12
+Foremost Journey: 37 [49] 12
+Shortest Journey: 37 [49] 12
+
+Node 37 to node 13
+Foremost Journey: 37 [49] 13
+Shortest Journey: 37 [49] 13
+
+Node 37 to node 14
+Foremost Journey: 37 [49] 14
+Shortest Journey: 37 [49] 14
+
+Node 37 to node 15
+Foremost Journey: 37 [49] 15
+Shortest Journey: 37 [49] 15
+
+Node 37 to node 16
+Foremost Journey: 37 [49] 16
+Shortest Journey: 37 [49] 16
+
+Node 37 to node 17
+Foremost Journey: 37 [49] 17
+Shortest Journey: 37 [49] 17
+
+Node 37 to node 18
+Foremost Journey: 37 [49] 18
+Shortest Journey: 37 [49] 18
+
+Node 37 to node 19
+Foremost Journey: 37 [49] 19
+Shortest Journey: 37 [49] 19
+
+Node 37 to node 20
+Foremost Journey: 37 [49] 20
+Shortest Journey: 37 [49] 20
+
+Node 37 to node 21
+Foremost Journey: 37 [49] 21
+Shortest Journey: 37 [49] 21
+
+Node 37 to node 22
+Foremost Journey: 37 [49] 22
+Shortest Journey: 37 [49] 22
+
+Node 37 to node 23
+Foremost Journey: 37 [49] 23
+Shortest Journey: 37 [49] 23
+
+Node 37 to node 24
+Foremost Journey: 37 [49] 24
+Shortest Journey: 37 [49] 24
+
+Node 37 to node 25
+Foremost Journey: 37 [49] 25
+Shortest Journey: 37 [49] 25
+
+Node 37 to node 26
+Foremost Journey: 37 [49] 26
+Shortest Journey: 37 [49] 26
+
+Node 37 to node 27
+Foremost Journey: 37 [49] 27
+Shortest Journey: 37 [49] 27
+
+Node 37 to node 28
+Foremost Journey: 37 [49] 28
+Shortest Journey: 37 [49] 28
+
+Node 37 to node 29
+Foremost Journey: 37 [49] 29
+Shortest Journey: 37 [49] 29
+
+Node 37 to node 30
+Foremost Journey: 37 [49] 30
+Shortest Journey: 37 [49] 30
+
+Node 37 to node 31
+Foremost Journey: 37 [49] 31
+Shortest Journey: 37 [49] 31
+
+Node 37 to node 32
+Foremost Journey: 37 [49] 32
+Shortest Journey: 37 [49] 32
+
+Node 37 to node 33
+Foremost Journey: 37 [49] 33
+Shortest Journey: 37 [49] 33
+
+Node 37 to node 34
+Foremost Journey: 37 [49] 34
+Shortest Journey: 37 [49] 34
+
+Node 37 to node 35
+Foremost Journey: 37 [49] 35
+Shortest Journey: 37 [49] 35
+
+Node 37 to node 36
+Foremost Journey: 37 [49] 36
+Shortest Journey: 37 [49] 36
+
+Node 37 to node 38
+Foremost Journey: 37 [49] 38
+Shortest Journey: 37 [49] 38
+
+Node 37 to node 39
+Foremost Journey: 37 [49] 39
+Shortest Journey: 37 [49] 39
+
+Node 37 to node 40
+Foremost Journey: 37 [49] 40
+Shortest Journey: 37 [49] 40
+
+Node 37 to node 41
+Foremost Journey: 37 [49] 41
+Shortest Journey: 37 [49] 41
+
+Node 37 to node 42
+Foremost Journey: 37 [49] 42
+Shortest Journey: 37 [49] 42
+
+Node 37 to node 43
+Foremost Journey: 37 [49] 43
+Shortest Journey: 37 [49] 43
+
+Node 37 to node 44
+Foremost Journey: 37 [49] 44
+Shortest Journey: 37 [49] 44
+
+Node 37 to node 45
+Foremost Journey: 37 [49] 45
+Shortest Journey: 37 [49] 45
+
+Node 37 to node 46
+Foremost Journey: 37 [49] 46
+Shortest Journey: 37 [49] 46
+
+Node 37 to node 47
+Foremost Journey: 37 [49] 47
+Shortest Journey: 37 [49] 47
+
+Node 37 to node 48
+Foremost Journey: 37 [49] 48
+Shortest Journey: 37 [49] 48
+
+Node 37 to node 49
+Foremost Journey: 37 [49] 49
+Shortest Journey: 37 [49] 49
+
+Node 38 to node 0
+Foremost Journey: 38 [49] 0
+Shortest Journey: 38 [49] 0
+
+Node 38 to node 1
+Foremost Journey: 38 [49] 1
+Shortest Journey: 38 [49] 1
+
+Node 38 to node 2
+Foremost Journey: 38 [49] 2
+Shortest Journey: 38 [49] 2
+
+Node 38 to node 3
+Foremost Journey: 38 [49] 3
+Shortest Journey: 38 [49] 3
+
+Node 38 to node 4
+Foremost Journey: 38 [49] 4
+Shortest Journey: 38 [49] 4
+
+Node 38 to node 5
+Foremost Journey: 38 [49] 5
+Shortest Journey: 38 [49] 5
+
+Node 38 to node 6
+Foremost Journey: 38 [49] 6
+Shortest Journey: 38 [49] 6
+
+Node 38 to node 7
+Foremost Journey: 38 [49] 7
+Shortest Journey: 38 [49] 7
+
+Node 38 to node 8
+Foremost Journey: 38 [49] 8
+Shortest Journey: 38 [49] 8
+
+Node 38 to node 9
+Foremost Journey: 38 [49] 9
+Shortest Journey: 38 [49] 9
+
+Node 38 to node 10
+Foremost Journey: 38 [49] 10
+Shortest Journey: 38 [49] 10
+
+Node 38 to node 11
+Foremost Journey: 38 [49] 11
+Shortest Journey: 38 [49] 11
+
+Node 38 to node 12
+Foremost Journey: 38 [49] 12
+Shortest Journey: 38 [49] 12
+
+Node 38 to node 13
+Foremost Journey: 38 [49] 13
+Shortest Journey: 38 [49] 13
+
+Node 38 to node 14
+Foremost Journey: 38 [49] 14
+Shortest Journey: 38 [49] 14
+
+Node 38 to node 15
+Foremost Journey: 38 [49] 15
+Shortest Journey: 38 [49] 15
+
+Node 38 to node 16
+Foremost Journey: 38 [49] 16
+Shortest Journey: 38 [49] 16
+
+Node 38 to node 17
+Foremost Journey: 38 [49] 17
+Shortest Journey: 38 [49] 17
+
+Node 38 to node 18
+Foremost Journey: 38 [49] 18
+Shortest Journey: 38 [49] 18
+
+Node 38 to node 19
+Foremost Journey: 38 [49] 19
+Shortest Journey: 38 [49] 19
+
+Node 38 to node 20
+Foremost Journey: 38 [49] 20
+Shortest Journey: 38 [49] 20
+
+Node 38 to node 21
+Foremost Journey: 38 [49] 21
+Shortest Journey: 38 [49] 21
+
+Node 38 to node 22
+Foremost Journey: 38 [49] 22
+Shortest Journey: 38 [49] 22
+
+Node 38 to node 23
+Foremost Journey: 38 [49] 23
+Shortest Journey: 38 [49] 23
+
+Node 38 to node 24
+Foremost Journey: 38 [49] 24
+Shortest Journey: 38 [49] 24
+
+Node 38 to node 25
+Foremost Journey: 38 [49] 25
+Shortest Journey: 38 [49] 25
+
+Node 38 to node 26
+Foremost Journey: 38 [49] 26
+Shortest Journey: 38 [49] 26
+
+Node 38 to node 27
+Foremost Journey: 38 [49] 27
+Shortest Journey: 38 [49] 27
+
+Node 38 to node 28
+Foremost Journey: 38 [49] 28
+Shortest Journey: 38 [49] 28
+
+Node 38 to node 29
+Foremost Journey: 38 [49] 29
+Shortest Journey: 38 [49] 29
+
+Node 38 to node 30
+Foremost Journey: 38 [49] 30
+Shortest Journey: 38 [49] 30
+
+Node 38 to node 31
+Foremost Journey: 38 [49] 31
+Shortest Journey: 38 [49] 31
+
+Node 38 to node 32
+Foremost Journey: 38 [49] 32
+Shortest Journey: 38 [49] 32
+
+Node 38 to node 33
+Foremost Journey: 38 [49] 33
+Shortest Journey: 38 [49] 33
+
+Node 38 to node 34
+Foremost Journey: 38 [49] 34
+Shortest Journey: 38 [49] 34
+
+Node 38 to node 35
+Foremost Journey: 38 [49] 35
+Shortest Journey: 38 [49] 35
+
+Node 38 to node 36
+Foremost Journey: 38 [49] 36
+Shortest Journey: 38 [49] 36
+
+Node 38 to node 37
+Foremost Journey: 38 [49] 37
+Shortest Journey: 38 [49] 37
+
+Node 38 to node 39
+Foremost Journey: 38 [49] 39
+Shortest Journey: 38 [49] 39
+
+Node 38 to node 40
+Foremost Journey: 38 [49] 40
+Shortest Journey: 38 [49] 40
+
+Node 38 to node 41
+Foremost Journey: 38 [49] 41
+Shortest Journey: 38 [49] 41
+
+Node 38 to node 42
+Foremost Journey: 38 [49] 42
+Shortest Journey: 38 [49] 42
+
+Node 38 to node 43
+Foremost Journey: 38 [49] 43
+Shortest Journey: 38 [49] 43
+
+Node 38 to node 44
+Foremost Journey: 38 [49] 44
+Shortest Journey: 38 [49] 44
+
+Node 38 to node 45
+Foremost Journey: 38 [49] 45
+Shortest Journey: 38 [49] 45
+
+Node 38 to node 46
+Foremost Journey: 38 [49] 46
+Shortest Journey: 38 [49] 46
+
+Node 38 to node 47
+Foremost Journey: 38 [49] 47
+Shortest Journey: 38 [49] 47
+
+Node 38 to node 48
+Foremost Journey: 38 [49] 48
+Shortest Journey: 38 [49] 48
+
+Node 38 to node 49
+Foremost Journey: 38 [49] 49
+Shortest Journey: 38 [49] 49
+
+Node 39 to node 0
+Foremost Journey: 39 [49] 0
+Shortest Journey: 39 [49] 0
+
+Node 39 to node 1
+Foremost Journey: 39 [49] 1
+Shortest Journey: 39 [49] 1
+
+Node 39 to node 2
+Foremost Journey: 39 [49] 2
+Shortest Journey: 39 [49] 2
+
+Node 39 to node 3
+Foremost Journey: 39 [49] 3
+Shortest Journey: 39 [49] 3
+
+Node 39 to node 4
+Foremost Journey: 39 [49] 4
+Shortest Journey: 39 [49] 4
+
+Node 39 to node 5
+Foremost Journey: 39 [49] 5
+Shortest Journey: 39 [49] 5
+
+Node 39 to node 6
+Foremost Journey: 39 [49] 6
+Shortest Journey: 39 [49] 6
+
+Node 39 to node 7
+Foremost Journey: 39 [49] 7
+Shortest Journey: 39 [49] 7
+
+Node 39 to node 8
+Foremost Journey: 39 [49] 8
+Shortest Journey: 39 [49] 8
+
+Node 39 to node 9
+Foremost Journey: 39 [49] 9
+Shortest Journey: 39 [49] 9
+
+Node 39 to node 10
+Foremost Journey: 39 [49] 10
+Shortest Journey: 39 [49] 10
+
+Node 39 to node 11
+Foremost Journey: 39 [49] 11
+Shortest Journey: 39 [49] 11
+
+Node 39 to node 12
+Foremost Journey: 39 [49] 12
+Shortest Journey: 39 [49] 12
+
+Node 39 to node 13
+Foremost Journey: 39 [49] 13
+Shortest Journey: 39 [49] 13
+
+Node 39 to node 14
+Foremost Journey: 39 [49] 14
+Shortest Journey: 39 [49] 14
+
+Node 39 to node 15
+Foremost Journey: 39 [49] 15
+Shortest Journey: 39 [49] 15
+
+Node 39 to node 16
+Foremost Journey: 39 [49] 16
+Shortest Journey: 39 [49] 16
+
+Node 39 to node 17
+Foremost Journey: 39 [49] 17
+Shortest Journey: 39 [49] 17
+
+Node 39 to node 18
+Foremost Journey: 39 [49] 18
+Shortest Journey: 39 [49] 18
+
+Node 39 to node 19
+Foremost Journey: 39 [49] 19
+Shortest Journey: 39 [49] 19
+
+Node 39 to node 20
+Foremost Journey: 39 [49] 20
+Shortest Journey: 39 [49] 20
+
+Node 39 to node 21
+Foremost Journey: 39 [49] 21
+Shortest Journey: 39 [49] 21
+
+Node 39 to node 22
+Foremost Journey: 39 [49] 22
+Shortest Journey: 39 [49] 22
+
+Node 39 to node 23
+Foremost Journey: 39 [49] 23
+Shortest Journey: 39 [49] 23
+
+Node 39 to node 24
+Foremost Journey: 39 [49] 24
+Shortest Journey: 39 [49] 24
+
+Node 39 to node 25
+Foremost Journey: 39 [49] 25
+Shortest Journey: 39 [49] 25
+
+Node 39 to node 26
+Foremost Journey: 39 [49] 26
+Shortest Journey: 39 [49] 26
+
+Node 39 to node 27
+Foremost Journey: 39 [49] 27
+Shortest Journey: 39 [49] 27
+
+Node 39 to node 28
+Foremost Journey: 39 [49] 28
+Shortest Journey: 39 [49] 28
+
+Node 39 to node 29
+Foremost Journey: 39 [49] 29
+Shortest Journey: 39 [49] 29
+
+Node 39 to node 30
+Foremost Journey: 39 [49] 30
+Shortest Journey: 39 [49] 30
+
+Node 39 to node 31
+Foremost Journey: 39 [49] 31
+Shortest Journey: 39 [49] 31
+
+Node 39 to node 32
+Foremost Journey: 39 [49] 32
+Shortest Journey: 39 [49] 32
+
+Node 39 to node 33
+Foremost Journey: 39 [49] 33
+Shortest Journey: 39 [49] 33
+
+Node 39 to node 34
+Foremost Journey: 39 [49] 34
+Shortest Journey: 39 [49] 34
+
+Node 39 to node 35
+Foremost Journey: 39 [49] 35
+Shortest Journey: 39 [49] 35
+
+Node 39 to node 36
+Foremost Journey: 39 [49] 36
+Shortest Journey: 39 [49] 36
+
+Node 39 to node 37
+Foremost Journey: 39 [49] 37
+Shortest Journey: 39 [49] 37
+
+Node 39 to node 38
+Foremost Journey: 39 [49] 38
+Shortest Journey: 39 [49] 38
+
+Node 39 to node 40
+Foremost Journey: 39 [49] 40
+Shortest Journey: 39 [49] 40
+
+Node 39 to node 41
+Foremost Journey: 39 [49] 41
+Shortest Journey: 39 [49] 41
+
+Node 39 to node 42
+Foremost Journey: 39 [49] 42
+Shortest Journey: 39 [49] 42
+
+Node 39 to node 43
+Foremost Journey: 39 [49] 43
+Shortest Journey: 39 [49] 43
+
+Node 39 to node 44
+Foremost Journey: 39 [49] 44
+Shortest Journey: 39 [49] 44
+
+Node 39 to node 45
+Foremost Journey: 39 [49] 45
+Shortest Journey: 39 [49] 45
+
+Node 39 to node 46
+Foremost Journey: 39 [49] 46
+Shortest Journey: 39 [49] 46
+
+Node 39 to node 47
+Foremost Journey: 39 [49] 47
+Shortest Journey: 39 [49] 47
+
+Node 39 to node 48
+Foremost Journey: 39 [49] 48
+Shortest Journey: 39 [49] 48
+
+Node 39 to node 49
+Foremost Journey: 39 [49] 49
+Shortest Journey: 39 [49] 49
+
+Node 40 to node 0
+Foremost Journey: 40 [49] 0
+Shortest Journey: 40 [49] 0
+
+Node 40 to node 1
+Foremost Journey: 40 [49] 1
+Shortest Journey: 40 [49] 1
+
+Node 40 to node 2
+Foremost Journey: 40 [49] 2
+Shortest Journey: 40 [49] 2
+
+Node 40 to node 3
+Foremost Journey: 40 [49] 3
+Shortest Journey: 40 [49] 3
+
+Node 40 to node 4
+Foremost Journey: 40 [49] 4
+Shortest Journey: 40 [49] 4
+
+Node 40 to node 5
+Foremost Journey: 40 [49] 5
+Shortest Journey: 40 [49] 5
+
+Node 40 to node 6
+Foremost Journey: 40 [49] 6
+Shortest Journey: 40 [49] 6
+
+Node 40 to node 7
+Foremost Journey: 40 [49] 7
+Shortest Journey: 40 [49] 7
+
+Node 40 to node 8
+Foremost Journey: 40 [49] 8
+Shortest Journey: 40 [49] 8
+
+Node 40 to node 9
+Foremost Journey: 40 [49] 9
+Shortest Journey: 40 [49] 9
+
+Node 40 to node 10
+Foremost Journey: 40 [49] 10
+Shortest Journey: 40 [49] 10
+
+Node 40 to node 11
+Foremost Journey: 40 [49] 11
+Shortest Journey: 40 [49] 11
+
+Node 40 to node 12
+Foremost Journey: 40 [49] 12
+Shortest Journey: 40 [49] 12
+
+Node 40 to node 13
+Foremost Journey: 40 [49] 13
+Shortest Journey: 40 [49] 13
+
+Node 40 to node 14
+Foremost Journey: 40 [49] 14
+Shortest Journey: 40 [49] 14
+
+Node 40 to node 15
+Foremost Journey: 40 [49] 15
+Shortest Journey: 40 [49] 15
+
+Node 40 to node 16
+Foremost Journey: 40 [49] 16
+Shortest Journey: 40 [49] 16
+
+Node 40 to node 17
+Foremost Journey: 40 [49] 17
+Shortest Journey: 40 [49] 17
+
+Node 40 to node 18
+Foremost Journey: 40 [49] 18
+Shortest Journey: 40 [49] 18
+
+Node 40 to node 19
+Foremost Journey: 40 [49] 19
+Shortest Journey: 40 [49] 19
+
+Node 40 to node 20
+Foremost Journey: 40 [49] 20
+Shortest Journey: 40 [49] 20
+
+Node 40 to node 21
+Foremost Journey: 40 [49] 21
+Shortest Journey: 40 [49] 21
+
+Node 40 to node 22
+Foremost Journey: 40 [49] 22
+Shortest Journey: 40 [49] 22
+
+Node 40 to node 23
+Foremost Journey: 40 [49] 23
+Shortest Journey: 40 [49] 23
+
+Node 40 to node 24
+Foremost Journey: 40 [49] 24
+Shortest Journey: 40 [49] 24
+
+Node 40 to node 25
+Foremost Journey: 40 [49] 25
+Shortest Journey: 40 [49] 25
+
+Node 40 to node 26
+Foremost Journey: 40 [49] 26
+Shortest Journey: 40 [49] 26
+
+Node 40 to node 27
+Foremost Journey: 40 [49] 27
+Shortest Journey: 40 [49] 27
+
+Node 40 to node 28
+Foremost Journey: 40 [49] 28
+Shortest Journey: 40 [49] 28
+
+Node 40 to node 29
+Foremost Journey: 40 [49] 29
+Shortest Journey: 40 [49] 29
+
+Node 40 to node 30
+Foremost Journey: 40 [49] 30
+Shortest Journey: 40 [49] 30
+
+Node 40 to node 31
+Foremost Journey: 40 [49] 31
+Shortest Journey: 40 [49] 31
+
+Node 40 to node 32
+Foremost Journey: 40 [49] 32
+Shortest Journey: 40 [49] 32
+
+Node 40 to node 33
+Foremost Journey: 40 [49] 33
+Shortest Journey: 40 [49] 33
+
+Node 40 to node 34
+Foremost Journey: 40 [49] 34
+Shortest Journey: 40 [49] 34
+
+Node 40 to node 35
+Foremost Journey: 40 [49] 35
+Shortest Journey: 40 [49] 35
+
+Node 40 to node 36
+Foremost Journey: 40 [49] 36
+Shortest Journey: 40 [49] 36
+
+Node 40 to node 37
+Foremost Journey: 40 [49] 37
+Shortest Journey: 40 [49] 37
+
+Node 40 to node 38
+Foremost Journey: 40 [49] 38
+Shortest Journey: 40 [49] 38
+
+Node 40 to node 39
+Foremost Journey: 40 [49] 39
+Shortest Journey: 40 [49] 39
+
+Node 40 to node 41
+Foremost Journey: 40 [49] 41
+Shortest Journey: 40 [49] 41
+
+Node 40 to node 42
+Foremost Journey: 40 [49] 42
+Shortest Journey: 40 [49] 42
+
+Node 40 to node 43
+Foremost Journey: 40 [49] 43
+Shortest Journey: 40 [49] 43
+
+Node 40 to node 44
+Foremost Journey: 40 [49] 44
+Shortest Journey: 40 [49] 44
+
+Node 40 to node 45
+Foremost Journey: 40 [49] 45
+Shortest Journey: 40 [49] 45
+
+Node 40 to node 46
+Foremost Journey: 40 [49] 46
+Shortest Journey: 40 [49] 46
+
+Node 40 to node 47
+Foremost Journey: 40 [49] 47
+Shortest Journey: 40 [49] 47
+
+Node 40 to node 48
+Foremost Journey: 40 [49] 48
+Shortest Journey: 40 [49] 48
+
+Node 40 to node 49
+Foremost Journey: 40 [49] 49
+Shortest Journey: 40 [49] 49
+
+Node 41 to node 0
+Foremost Journey: 41 [49] 0
+Shortest Journey: 41 [49] 0
+
+Node 41 to node 1
+Foremost Journey: 41 [49] 1
+Shortest Journey: 41 [49] 1
+
+Node 41 to node 2
+Foremost Journey: 41 [49] 2
+Shortest Journey: 41 [49] 2
+
+Node 41 to node 3
+Foremost Journey: 41 [49] 3
+Shortest Journey: 41 [49] 3
+
+Node 41 to node 4
+Foremost Journey: 41 [49] 4
+Shortest Journey: 41 [49] 4
+
+Node 41 to node 5
+Foremost Journey: 41 [49] 5
+Shortest Journey: 41 [49] 5
+
+Node 41 to node 6
+Foremost Journey: 41 [49] 6
+Shortest Journey: 41 [49] 6
+
+Node 41 to node 7
+Foremost Journey: 41 [49] 7
+Shortest Journey: 41 [49] 7
+
+Node 41 to node 8
+Foremost Journey: 41 [49] 8
+Shortest Journey: 41 [49] 8
+
+Node 41 to node 9
+Foremost Journey: 41 [49] 9
+Shortest Journey: 41 [49] 9
+
+Node 41 to node 10
+Foremost Journey: 41 [49] 10
+Shortest Journey: 41 [49] 10
+
+Node 41 to node 11
+Foremost Journey: 41 [49] 11
+Shortest Journey: 41 [49] 11
+
+Node 41 to node 12
+Foremost Journey: 41 [49] 12
+Shortest Journey: 41 [49] 12
+
+Node 41 to node 13
+Foremost Journey: 41 [49] 13
+Shortest Journey: 41 [49] 13
+
+Node 41 to node 14
+Foremost Journey: 41 [49] 14
+Shortest Journey: 41 [49] 14
+
+Node 41 to node 15
+Foremost Journey: 41 [49] 15
+Shortest Journey: 41 [49] 15
+
+Node 41 to node 16
+Foremost Journey: 41 [49] 16
+Shortest Journey: 41 [49] 16
+
+Node 41 to node 17
+Foremost Journey: 41 [49] 17
+Shortest Journey: 41 [49] 17
+
+Node 41 to node 18
+Foremost Journey: 41 [49] 18
+Shortest Journey: 41 [49] 18
+
+Node 41 to node 19
+Foremost Journey: 41 [49] 19
+Shortest Journey: 41 [49] 19
+
+Node 41 to node 20
+Foremost Journey: 41 [49] 20
+Shortest Journey: 41 [49] 20
+
+Node 41 to node 21
+Foremost Journey: 41 [49] 21
+Shortest Journey: 41 [49] 21
+
+Node 41 to node 22
+Foremost Journey: 41 [49] 22
+Shortest Journey: 41 [49] 22
+
+Node 41 to node 23
+Foremost Journey: 41 [49] 23
+Shortest Journey: 41 [49] 23
+
+Node 41 to node 24
+Foremost Journey: 41 [49] 24
+Shortest Journey: 41 [49] 24
+
+Node 41 to node 25
+Foremost Journey: 41 [49] 25
+Shortest Journey: 41 [49] 25
+
+Node 41 to node 26
+Foremost Journey: 41 [49] 26
+Shortest Journey: 41 [49] 26
+
+Node 41 to node 27
+Foremost Journey: 41 [49] 27
+Shortest Journey: 41 [49] 27
+
+Node 41 to node 28
+Foremost Journey: 41 [49] 28
+Shortest Journey: 41 [49] 28
+
+Node 41 to node 29
+Foremost Journey: 41 [49] 29
+Shortest Journey: 41 [49] 29
+
+Node 41 to node 30
+Foremost Journey: 41 [49] 30
+Shortest Journey: 41 [49] 30
+
+Node 41 to node 31
+Foremost Journey: 41 [49] 31
+Shortest Journey: 41 [49] 31
+
+Node 41 to node 32
+Foremost Journey: 41 [49] 32
+Shortest Journey: 41 [49] 32
+
+Node 41 to node 33
+Foremost Journey: 41 [49] 33
+Shortest Journey: 41 [49] 33
+
+Node 41 to node 34
+Foremost Journey: 41 [49] 34
+Shortest Journey: 41 [49] 34
+
+Node 41 to node 35
+Foremost Journey: 41 [49] 35
+Shortest Journey: 41 [49] 35
+
+Node 41 to node 36
+Foremost Journey: 41 [49] 36
+Shortest Journey: 41 [49] 36
+
+Node 41 to node 37
+Foremost Journey: 41 [49] 37
+Shortest Journey: 41 [49] 37
+
+Node 41 to node 38
+Foremost Journey: 41 [49] 38
+Shortest Journey: 41 [49] 38
+
+Node 41 to node 39
+Foremost Journey: 41 [49] 39
+Shortest Journey: 41 [49] 39
+
+Node 41 to node 40
+Foremost Journey: 41 [49] 40
+Shortest Journey: 41 [49] 40
+
+Node 41 to node 42
+Foremost Journey: 41 [49] 42
+Shortest Journey: 41 [49] 42
+
+Node 41 to node 43
+Foremost Journey: 41 [49] 43
+Shortest Journey: 41 [49] 43
+
+Node 41 to node 44
+Foremost Journey: 41 [49] 44
+Shortest Journey: 41 [49] 44
+
+Node 41 to node 45
+Foremost Journey: 41 [49] 45
+Shortest Journey: 41 [49] 45
+
+Node 41 to node 46
+Foremost Journey: 41 [49] 46
+Shortest Journey: 41 [49] 46
+
+Node 41 to node 47
+Foremost Journey: 41 [49] 47
+Shortest Journey: 41 [49] 47
+
+Node 41 to node 48
+Foremost Journey: 41 [49] 48
+Shortest Journey: 41 [49] 48
+
+Node 41 to node 49
+Foremost Journey: 41 [49] 49
+Shortest Journey: 41 [49] 49
+
+Node 42 to node 0
+Foremost Journey: 42 [49] 0
+Shortest Journey: 42 [49] 0
+
+Node 42 to node 1
+Foremost Journey: 42 [49] 1
+Shortest Journey: 42 [49] 1
+
+Node 42 to node 2
+Foremost Journey: 42 [49] 2
+Shortest Journey: 42 [49] 2
+
+Node 42 to node 3
+Foremost Journey: 42 [49] 3
+Shortest Journey: 42 [49] 3
+
+Node 42 to node 4
+Foremost Journey: 42 [49] 4
+Shortest Journey: 42 [49] 4
+
+Node 42 to node 5
+Foremost Journey: 42 [49] 5
+Shortest Journey: 42 [49] 5
+
+Node 42 to node 6
+Foremost Journey: 42 [49] 6
+Shortest Journey: 42 [49] 6
+
+Node 42 to node 7
+Foremost Journey: 42 [49] 7
+Shortest Journey: 42 [49] 7
+
+Node 42 to node 8
+Foremost Journey: 42 [49] 8
+Shortest Journey: 42 [49] 8
+
+Node 42 to node 9
+Foremost Journey: 42 [49] 9
+Shortest Journey: 42 [49] 9
+
+Node 42 to node 10
+Foremost Journey: 42 [49] 10
+Shortest Journey: 42 [49] 10
+
+Node 42 to node 11
+Foremost Journey: 42 [49] 11
+Shortest Journey: 42 [49] 11
+
+Node 42 to node 12
+Foremost Journey: 42 [49] 12
+Shortest Journey: 42 [49] 12
+
+Node 42 to node 13
+Foremost Journey: 42 [49] 13
+Shortest Journey: 42 [49] 13
+
+Node 42 to node 14
+Foremost Journey: 42 [49] 14
+Shortest Journey: 42 [49] 14
+
+Node 42 to node 15
+Foremost Journey: 42 [49] 15
+Shortest Journey: 42 [49] 15
+
+Node 42 to node 16
+Foremost Journey: 42 [49] 16
+Shortest Journey: 42 [49] 16
+
+Node 42 to node 17
+Foremost Journey: 42 [49] 17
+Shortest Journey: 42 [49] 17
+
+Node 42 to node 18
+Foremost Journey: 42 [49] 18
+Shortest Journey: 42 [49] 18
+
+Node 42 to node 19
+Foremost Journey: 42 [49] 19
+Shortest Journey: 42 [49] 19
+
+Node 42 to node 20
+Foremost Journey: 42 [49] 20
+Shortest Journey: 42 [49] 20
+
+Node 42 to node 21
+Foremost Journey: 42 [49] 21
+Shortest Journey: 42 [49] 21
+
+Node 42 to node 22
+Foremost Journey: 42 [49] 22
+Shortest Journey: 42 [49] 22
+
+Node 42 to node 23
+Foremost Journey: 42 [49] 23
+Shortest Journey: 42 [49] 23
+
+Node 42 to node 24
+Foremost Journey: 42 [49] 24
+Shortest Journey: 42 [49] 24
+
+Node 42 to node 25
+Foremost Journey: 42 [49] 25
+Shortest Journey: 42 [49] 25
+
+Node 42 to node 26
+Foremost Journey: 42 [49] 26
+Shortest Journey: 42 [49] 26
+
+Node 42 to node 27
+Foremost Journey: 42 [49] 27
+Shortest Journey: 42 [49] 27
+
+Node 42 to node 28
+Foremost Journey: 42 [49] 28
+Shortest Journey: 42 [49] 28
+
+Node 42 to node 29
+Foremost Journey: 42 [49] 29
+Shortest Journey: 42 [49] 29
+
+Node 42 to node 30
+Foremost Journey: 42 [49] 30
+Shortest Journey: 42 [49] 30
+
+Node 42 to node 31
+Foremost Journey: 42 [49] 31
+Shortest Journey: 42 [49] 31
+
+Node 42 to node 32
+Foremost Journey: 42 [49] 32
+Shortest Journey: 42 [49] 32
+
+Node 42 to node 33
+Foremost Journey: 42 [49] 33
+Shortest Journey: 42 [49] 33
+
+Node 42 to node 34
+Foremost Journey: 42 [49] 34
+Shortest Journey: 42 [49] 34
+
+Node 42 to node 35
+Foremost Journey: 42 [49] 35
+Shortest Journey: 42 [49] 35
+
+Node 42 to node 36
+Foremost Journey: 42 [49] 36
+Shortest Journey: 42 [49] 36
+
+Node 42 to node 37
+Foremost Journey: 42 [49] 37
+Shortest Journey: 42 [49] 37
+
+Node 42 to node 38
+Foremost Journey: 42 [49] 38
+Shortest Journey: 42 [49] 38
+
+Node 42 to node 39
+Foremost Journey: 42 [49] 39
+Shortest Journey: 42 [49] 39
+
+Node 42 to node 40
+Foremost Journey: 42 [49] 40
+Shortest Journey: 42 [49] 40
+
+Node 42 to node 41
+Foremost Journey: 42 [49] 41
+Shortest Journey: 42 [49] 41
+
+Node 42 to node 43
+Foremost Journey: 42 [49] 43
+Shortest Journey: 42 [49] 43
+
+Node 42 to node 44
+Foremost Journey: 42 [49] 44
+Shortest Journey: 42 [49] 44
+
+Node 42 to node 45
+Foremost Journey: 42 [49] 45
+Shortest Journey: 42 [49] 45
+
+Node 42 to node 46
+Foremost Journey: 42 [49] 46
+Shortest Journey: 42 [49] 46
+
+Node 42 to node 47
+Foremost Journey: 42 [49] 47
+Shortest Journey: 42 [49] 47
+
+Node 42 to node 48
+Foremost Journey: 42 [49] 48
+Shortest Journey: 42 [49] 48
+
+Node 42 to node 49
+Foremost Journey: 42 [49] 49
+Shortest Journey: 42 [49] 49
+
+Node 43 to node 0
+Foremost Journey: 43 [49] 0
+Shortest Journey: 43 [49] 0
+
+Node 43 to node 1
+Foremost Journey: 43 [49] 1
+Shortest Journey: 43 [49] 1
+
+Node 43 to node 2
+Foremost Journey: 43 [49] 2
+Shortest Journey: 43 [49] 2
+
+Node 43 to node 3
+Foremost Journey: 43 [49] 3
+Shortest Journey: 43 [49] 3
+
+Node 43 to node 4
+Foremost Journey: 43 [49] 4
+Shortest Journey: 43 [49] 4
+
+Node 43 to node 5
+Foremost Journey: 43 [49] 5
+Shortest Journey: 43 [49] 5
+
+Node 43 to node 6
+Foremost Journey: 43 [49] 6
+Shortest Journey: 43 [49] 6
+
+Node 43 to node 7
+Foremost Journey: 43 [49] 7
+Shortest Journey: 43 [49] 7
+
+Node 43 to node 8
+Foremost Journey: 43 [49] 8
+Shortest Journey: 43 [49] 8
+
+Node 43 to node 9
+Foremost Journey: 43 [49] 9
+Shortest Journey: 43 [49] 9
+
+Node 43 to node 10
+Foremost Journey: 43 [49] 10
+Shortest Journey: 43 [49] 10
+
+Node 43 to node 11
+Foremost Journey: 43 [49] 11
+Shortest Journey: 43 [49] 11
+
+Node 43 to node 12
+Foremost Journey: 43 [49] 12
+Shortest Journey: 43 [49] 12
+
+Node 43 to node 13
+Foremost Journey: 43 [49] 13
+Shortest Journey: 43 [49] 13
+
+Node 43 to node 14
+Foremost Journey: 43 [49] 14
+Shortest Journey: 43 [49] 14
+
+Node 43 to node 15
+Foremost Journey: 43 [49] 15
+Shortest Journey: 43 [49] 15
+
+Node 43 to node 16
+Foremost Journey: 43 [49] 16
+Shortest Journey: 43 [49] 16
+
+Node 43 to node 17
+Foremost Journey: 43 [49] 17
+Shortest Journey: 43 [49] 17
+
+Node 43 to node 18
+Foremost Journey: 43 [49] 18
+Shortest Journey: 43 [49] 18
+
+Node 43 to node 19
+Foremost Journey: 43 [49] 19
+Shortest Journey: 43 [49] 19
+
+Node 43 to node 20
+Foremost Journey: 43 [49] 20
+Shortest Journey: 43 [49] 20
+
+Node 43 to node 21
+Foremost Journey: 43 [49] 21
+Shortest Journey: 43 [49] 21
+
+Node 43 to node 22
+Foremost Journey: 43 [49] 22
+Shortest Journey: 43 [49] 22
+
+Node 43 to node 23
+Foremost Journey: 43 [49] 23
+Shortest Journey: 43 [49] 23
+
+Node 43 to node 24
+Foremost Journey: 43 [49] 24
+Shortest Journey: 43 [49] 24
+
+Node 43 to node 25
+Foremost Journey: 43 [49] 25
+Shortest Journey: 43 [49] 25
+
+Node 43 to node 26
+Foremost Journey: 43 [49] 26
+Shortest Journey: 43 [49] 26
+
+Node 43 to node 27
+Foremost Journey: 43 [49] 27
+Shortest Journey: 43 [49] 27
+
+Node 43 to node 28
+Foremost Journey: 43 [49] 28
+Shortest Journey: 43 [49] 28
+
+Node 43 to node 29
+Foremost Journey: 43 [49] 29
+Shortest Journey: 43 [49] 29
+
+Node 43 to node 30
+Foremost Journey: 43 [49] 30
+Shortest Journey: 43 [49] 30
+
+Node 43 to node 31
+Foremost Journey: 43 [49] 31
+Shortest Journey: 43 [49] 31
+
+Node 43 to node 32
+Foremost Journey: 43 [49] 32
+Shortest Journey: 43 [49] 32
+
+Node 43 to node 33
+Foremost Journey: 43 [49] 33
+Shortest Journey: 43 [49] 33
+
+Node 43 to node 34
+Foremost Journey: 43 [49] 34
+Shortest Journey: 43 [49] 34
+
+Node 43 to node 35
+Foremost Journey: 43 [49] 35
+Shortest Journey: 43 [49] 35
+
+Node 43 to node 36
+Foremost Journey: 43 [49] 36
+Shortest Journey: 43 [49] 36
+
+Node 43 to node 37
+Foremost Journey: 43 [49] 37
+Shortest Journey: 43 [49] 37
+
+Node 43 to node 38
+Foremost Journey: 43 [49] 38
+Shortest Journey: 43 [49] 38
+
+Node 43 to node 39
+Foremost Journey: 43 [49] 39
+Shortest Journey: 43 [49] 39
+
+Node 43 to node 40
+Foremost Journey: 43 [49] 40
+Shortest Journey: 43 [49] 40
+
+Node 43 to node 41
+Foremost Journey: 43 [49] 41
+Shortest Journey: 43 [49] 41
+
+Node 43 to node 42
+Foremost Journey: 43 [49] 42
+Shortest Journey: 43 [49] 42
+
+Node 43 to node 44
+Foremost Journey: 43 [49] 44
+Shortest Journey: 43 [49] 44
+
+Node 43 to node 45
+Foremost Journey: 43 [49] 45
+Shortest Journey: 43 [49] 45
+
+Node 43 to node 46
+Foremost Journey: 43 [49] 46
+Shortest Journey: 43 [49] 46
+
+Node 43 to node 47
+Foremost Journey: 43 [49] 47
+Shortest Journey: 43 [49] 47
+
+Node 43 to node 48
+Foremost Journey: 43 [49] 48
+Shortest Journey: 43 [49] 48
+
+Node 43 to node 49
+Foremost Journey: 43 [49] 49
+Shortest Journey: 43 [49] 49
+
+Node 44 to node 0
+Foremost Journey: 44 [49] 0
+Shortest Journey: 44 [49] 0
+
+Node 44 to node 1
+Foremost Journey: 44 [49] 1
+Shortest Journey: 44 [49] 1
+
+Node 44 to node 2
+Foremost Journey: 44 [49] 2
+Shortest Journey: 44 [49] 2
+
+Node 44 to node 3
+Foremost Journey: 44 [49] 3
+Shortest Journey: 44 [49] 3
+
+Node 44 to node 4
+Foremost Journey: 44 [49] 4
+Shortest Journey: 44 [49] 4
+
+Node 44 to node 5
+Foremost Journey: 44 [49] 5
+Shortest Journey: 44 [49] 5
+
+Node 44 to node 6
+Foremost Journey: 44 [49] 6
+Shortest Journey: 44 [49] 6
+
+Node 44 to node 7
+Foremost Journey: 44 [49] 7
+Shortest Journey: 44 [49] 7
+
+Node 44 to node 8
+Foremost Journey: 44 [49] 8
+Shortest Journey: 44 [49] 8
+
+Node 44 to node 9
+Foremost Journey: 44 [49] 9
+Shortest Journey: 44 [49] 9
+
+Node 44 to node 10
+Foremost Journey: 44 [49] 10
+Shortest Journey: 44 [49] 10
+
+Node 44 to node 11
+Foremost Journey: 44 [49] 11
+Shortest Journey: 44 [49] 11
+
+Node 44 to node 12
+Foremost Journey: 44 [49] 12
+Shortest Journey: 44 [49] 12
+
+Node 44 to node 13
+Foremost Journey: 44 [49] 13
+Shortest Journey: 44 [49] 13
+
+Node 44 to node 14
+Foremost Journey: 44 [49] 14
+Shortest Journey: 44 [49] 14
+
+Node 44 to node 15
+Foremost Journey: 44 [49] 15
+Shortest Journey: 44 [49] 15
+
+Node 44 to node 16
+Foremost Journey: 44 [49] 16
+Shortest Journey: 44 [49] 16
+
+Node 44 to node 17
+Foremost Journey: 44 [49] 17
+Shortest Journey: 44 [49] 17
+
+Node 44 to node 18
+Foremost Journey: 44 [49] 18
+Shortest Journey: 44 [49] 18
+
+Node 44 to node 19
+Foremost Journey: 44 [49] 19
+Shortest Journey: 44 [49] 19
+
+Node 44 to node 20
+Foremost Journey: 44 [49] 20
+Shortest Journey: 44 [49] 20
+
+Node 44 to node 21
+Foremost Journey: 44 [49] 21
+Shortest Journey: 44 [49] 21
+
+Node 44 to node 22
+Foremost Journey: 44 [49] 22
+Shortest Journey: 44 [49] 22
+
+Node 44 to node 23
+Foremost Journey: 44 [49] 23
+Shortest Journey: 44 [49] 23
+
+Node 44 to node 24
+Foremost Journey: 44 [49] 24
+Shortest Journey: 44 [49] 24
+
+Node 44 to node 25
+Foremost Journey: 44 [49] 25
+Shortest Journey: 44 [49] 25
+
+Node 44 to node 26
+Foremost Journey: 44 [49] 26
+Shortest Journey: 44 [49] 26
+
+Node 44 to node 27
+Foremost Journey: 44 [49] 27
+Shortest Journey: 44 [49] 27
+
+Node 44 to node 28
+Foremost Journey: 44 [49] 28
+Shortest Journey: 44 [49] 28
+
+Node 44 to node 29
+Foremost Journey: 44 [49] 29
+Shortest Journey: 44 [49] 29
+
+Node 44 to node 30
+Foremost Journey: 44 [49] 30
+Shortest Journey: 44 [49] 30
+
+Node 44 to node 31
+Foremost Journey: 44 [49] 31
+Shortest Journey: 44 [49] 31
+
+Node 44 to node 32
+Foremost Journey: 44 [49] 32
+Shortest Journey: 44 [49] 32
+
+Node 44 to node 33
+Foremost Journey: 44 [49] 33
+Shortest Journey: 44 [49] 33
+
+Node 44 to node 34
+Foremost Journey: 44 [49] 34
+Shortest Journey: 44 [49] 34
+
+Node 44 to node 35
+Foremost Journey: 44 [49] 35
+Shortest Journey: 44 [49] 35
+
+Node 44 to node 36
+Foremost Journey: 44 [49] 36
+Shortest Journey: 44 [49] 36
+
+Node 44 to node 37
+Foremost Journey: 44 [49] 37
+Shortest Journey: 44 [49] 37
+
+Node 44 to node 38
+Foremost Journey: 44 [49] 38
+Shortest Journey: 44 [49] 38
+
+Node 44 to node 39
+Foremost Journey: 44 [49] 39
+Shortest Journey: 44 [49] 39
+
+Node 44 to node 40
+Foremost Journey: 44 [49] 40
+Shortest Journey: 44 [49] 40
+
+Node 44 to node 41
+Foremost Journey: 44 [49] 41
+Shortest Journey: 44 [49] 41
+
+Node 44 to node 42
+Foremost Journey: 44 [49] 42
+Shortest Journey: 44 [49] 42
+
+Node 44 to node 43
+Foremost Journey: 44 [49] 43
+Shortest Journey: 44 [49] 43
+
+Node 44 to node 45
+Foremost Journey: 44 [49] 45
+Shortest Journey: 44 [49] 45
+
+Node 44 to node 46
+Foremost Journey: 44 [49] 46
+Shortest Journey: 44 [49] 46
+
+Node 44 to node 47
+Foremost Journey: 44 [49] 47
+Shortest Journey: 44 [49] 47
+
+Node 44 to node 48
+Foremost Journey: 44 [49] 48
+Shortest Journey: 44 [49] 48
+
+Node 44 to node 49
+Foremost Journey: 44 [49] 49
+Shortest Journey: 44 [49] 49
+
+Node 45 to node 0
+Foremost Journey: 45 [49] 0
+Shortest Journey: 45 [49] 0
+
+Node 45 to node 1
+Foremost Journey: 45 [49] 1
+Shortest Journey: 45 [49] 1
+
+Node 45 to node 2
+Foremost Journey: 45 [49] 2
+Shortest Journey: 45 [49] 2
+
+Node 45 to node 3
+Foremost Journey: 45 [49] 3
+Shortest Journey: 45 [49] 3
+
+Node 45 to node 4
+Foremost Journey: 45 [49] 4
+Shortest Journey: 45 [49] 4
+
+Node 45 to node 5
+Foremost Journey: 45 [49] 5
+Shortest Journey: 45 [49] 5
+
+Node 45 to node 6
+Foremost Journey: 45 [49] 6
+Shortest Journey: 45 [49] 6
+
+Node 45 to node 7
+Foremost Journey: 45 [49] 7
+Shortest Journey: 45 [49] 7
+
+Node 45 to node 8
+Foremost Journey: 45 [49] 8
+Shortest Journey: 45 [49] 8
+
+Node 45 to node 9
+Foremost Journey: 45 [49] 9
+Shortest Journey: 45 [49] 9
+
+Node 45 to node 10
+Foremost Journey: 45 [49] 10
+Shortest Journey: 45 [49] 10
+
+Node 45 to node 11
+Foremost Journey: 45 [49] 11
+Shortest Journey: 45 [49] 11
+
+Node 45 to node 12
+Foremost Journey: 45 [49] 12
+Shortest Journey: 45 [49] 12
+
+Node 45 to node 13
+Foremost Journey: 45 [49] 13
+Shortest Journey: 45 [49] 13
+
+Node 45 to node 14
+Foremost Journey: 45 [49] 14
+Shortest Journey: 45 [49] 14
+
+Node 45 to node 15
+Foremost Journey: 45 [49] 15
+Shortest Journey: 45 [49] 15
+
+Node 45 to node 16
+Foremost Journey: 45 [49] 16
+Shortest Journey: 45 [49] 16
+
+Node 45 to node 17
+Foremost Journey: 45 [49] 17
+Shortest Journey: 45 [49] 17
+
+Node 45 to node 18
+Foremost Journey: 45 [49] 18
+Shortest Journey: 45 [49] 18
+
+Node 45 to node 19
+Foremost Journey: 45 [49] 19
+Shortest Journey: 45 [49] 19
+
+Node 45 to node 20
+Foremost Journey: 45 [49] 20
+Shortest Journey: 45 [49] 20
+
+Node 45 to node 21
+Foremost Journey: 45 [49] 21
+Shortest Journey: 45 [49] 21
+
+Node 45 to node 22
+Foremost Journey: 45 [49] 22
+Shortest Journey: 45 [49] 22
+
+Node 45 to node 23
+Foremost Journey: 45 [49] 23
+Shortest Journey: 45 [49] 23
+
+Node 45 to node 24
+Foremost Journey: 45 [49] 24
+Shortest Journey: 45 [49] 24
+
+Node 45 to node 25
+Foremost Journey: 45 [49] 25
+Shortest Journey: 45 [49] 25
+
+Node 45 to node 26
+Foremost Journey: 45 [49] 26
+Shortest Journey: 45 [49] 26
+
+Node 45 to node 27
+Foremost Journey: 45 [49] 27
+Shortest Journey: 45 [49] 27
+
+Node 45 to node 28
+Foremost Journey: 45 [49] 28
+Shortest Journey: 45 [49] 28
+
+Node 45 to node 29
+Foremost Journey: 45 [49] 29
+Shortest Journey: 45 [49] 29
+
+Node 45 to node 30
+Foremost Journey: 45 [49] 30
+Shortest Journey: 45 [49] 30
+
+Node 45 to node 31
+Foremost Journey: 45 [49] 31
+Shortest Journey: 45 [49] 31
+
+Node 45 to node 32
+Foremost Journey: 45 [49] 32
+Shortest Journey: 45 [49] 32
+
+Node 45 to node 33
+Foremost Journey: 45 [49] 33
+Shortest Journey: 45 [49] 33
+
+Node 45 to node 34
+Foremost Journey: 45 [49] 34
+Shortest Journey: 45 [49] 34
+
+Node 45 to node 35
+Foremost Journey: 45 [49] 35
+Shortest Journey: 45 [49] 35
+
+Node 45 to node 36
+Foremost Journey: 45 [49] 36
+Shortest Journey: 45 [49] 36
+
+Node 45 to node 37
+Foremost Journey: 45 [49] 37
+Shortest Journey: 45 [49] 37
+
+Node 45 to node 38
+Foremost Journey: 45 [49] 38
+Shortest Journey: 45 [49] 38
+
+Node 45 to node 39
+Foremost Journey: 45 [49] 39
+Shortest Journey: 45 [49] 39
+
+Node 45 to node 40
+Foremost Journey: 45 [49] 40
+Shortest Journey: 45 [49] 40
+
+Node 45 to node 41
+Foremost Journey: 45 [49] 41
+Shortest Journey: 45 [49] 41
+
+Node 45 to node 42
+Foremost Journey: 45 [49] 42
+Shortest Journey: 45 [49] 42
+
+Node 45 to node 43
+Foremost Journey: 45 [49] 43
+Shortest Journey: 45 [49] 43
+
+Node 45 to node 44
+Foremost Journey: 45 [49] 44
+Shortest Journey: 45 [49] 44
+
+Node 45 to node 46
+Foremost Journey: 45 [49] 46
+Shortest Journey: 45 [49] 46
+
+Node 45 to node 47
+Foremost Journey: 45 [49] 47
+Shortest Journey: 45 [49] 47
+
+Node 45 to node 48
+Foremost Journey: 45 [49] 48
+Shortest Journey: 45 [49] 48
+
+Node 45 to node 49
+Foremost Journey: 45 [49] 49
+Shortest Journey: 45 [49] 49
+
+Node 46 to node 0
+Foremost Journey: 46 [49] 0
+Shortest Journey: 46 [49] 0
+
+Node 46 to node 1
+Foremost Journey: 46 [49] 1
+Shortest Journey: 46 [49] 1
+
+Node 46 to node 2
+Foremost Journey: 46 [49] 2
+Shortest Journey: 46 [49] 2
+
+Node 46 to node 3
+Foremost Journey: 46 [49] 3
+Shortest Journey: 46 [49] 3
+
+Node 46 to node 4
+Foremost Journey: 46 [49] 4
+Shortest Journey: 46 [49] 4
+
+Node 46 to node 5
+Foremost Journey: 46 [49] 5
+Shortest Journey: 46 [49] 5
+
+Node 46 to node 6
+Foremost Journey: 46 [49] 6
+Shortest Journey: 46 [49] 6
+
+Node 46 to node 7
+Foremost Journey: 46 [49] 7
+Shortest Journey: 46 [49] 7
+
+Node 46 to node 8
+Foremost Journey: 46 [49] 8
+Shortest Journey: 46 [49] 8
+
+Node 46 to node 9
+Foremost Journey: 46 [49] 9
+Shortest Journey: 46 [49] 9
+
+Node 46 to node 10
+Foremost Journey: 46 [49] 10
+Shortest Journey: 46 [49] 10
+
+Node 46 to node 11
+Foremost Journey: 46 [49] 11
+Shortest Journey: 46 [49] 11
+
+Node 46 to node 12
+Foremost Journey: 46 [49] 12
+Shortest Journey: 46 [49] 12
+
+Node 46 to node 13
+Foremost Journey: 46 [49] 13
+Shortest Journey: 46 [49] 13
+
+Node 46 to node 14
+Foremost Journey: 46 [49] 14
+Shortest Journey: 46 [49] 14
+
+Node 46 to node 15
+Foremost Journey: 46 [49] 15
+Shortest Journey: 46 [49] 15
+
+Node 46 to node 16
+Foremost Journey: 46 [49] 16
+Shortest Journey: 46 [49] 16
+
+Node 46 to node 17
+Foremost Journey: 46 [49] 17
+Shortest Journey: 46 [49] 17
+
+Node 46 to node 18
+Foremost Journey: 46 [49] 18
+Shortest Journey: 46 [49] 18
+
+Node 46 to node 19
+Foremost Journey: 46 [49] 19
+Shortest Journey: 46 [49] 19
+
+Node 46 to node 20
+Foremost Journey: 46 [49] 20
+Shortest Journey: 46 [49] 20
+
+Node 46 to node 21
+Foremost Journey: 46 [49] 21
+Shortest Journey: 46 [49] 21
+
+Node 46 to node 22
+Foremost Journey: 46 [49] 22
+Shortest Journey: 46 [49] 22
+
+Node 46 to node 23
+Foremost Journey: 46 [49] 23
+Shortest Journey: 46 [49] 23
+
+Node 46 to node 24
+Foremost Journey: 46 [49] 24
+Shortest Journey: 46 [49] 24
+
+Node 46 to node 25
+Foremost Journey: 46 [49] 25
+Shortest Journey: 46 [49] 25
+
+Node 46 to node 26
+Foremost Journey: 46 [49] 26
+Shortest Journey: 46 [49] 26
+
+Node 46 to node 27
+Foremost Journey: 46 [49] 27
+Shortest Journey: 46 [49] 27
+
+Node 46 to node 28
+Foremost Journey: 46 [49] 28
+Shortest Journey: 46 [49] 28
+
+Node 46 to node 29
+Foremost Journey: 46 [49] 29
+Shortest Journey: 46 [49] 29
+
+Node 46 to node 30
+Foremost Journey: 46 [49] 30
+Shortest Journey: 46 [49] 30
+
+Node 46 to node 31
+Foremost Journey: 46 [49] 31
+Shortest Journey: 46 [49] 31
+
+Node 46 to node 32
+Foremost Journey: 46 [49] 32
+Shortest Journey: 46 [49] 32
+
+Node 46 to node 33
+Foremost Journey: 46 [49] 33
+Shortest Journey: 46 [49] 33
+
+Node 46 to node 34
+Foremost Journey: 46 [49] 34
+Shortest Journey: 46 [49] 34
+
+Node 46 to node 35
+Foremost Journey: 46 [49] 35
+Shortest Journey: 46 [49] 35
+
+Node 46 to node 36
+Foremost Journey: 46 [49] 36
+Shortest Journey: 46 [49] 36
+
+Node 46 to node 37
+Foremost Journey: 46 [49] 37
+Shortest Journey: 46 [49] 37
+
+Node 46 to node 38
+Foremost Journey: 46 [49] 38
+Shortest Journey: 46 [49] 38
+
+Node 46 to node 39
+Foremost Journey: 46 [49] 39
+Shortest Journey: 46 [49] 39
+
+Node 46 to node 40
+Foremost Journey: 46 [49] 40
+Shortest Journey: 46 [49] 40
+
+Node 46 to node 41
+Foremost Journey: 46 [49] 41
+Shortest Journey: 46 [49] 41
+
+Node 46 to node 42
+Foremost Journey: 46 [49] 42
+Shortest Journey: 46 [49] 42
+
+Node 46 to node 43
+Foremost Journey: 46 [49] 43
+Shortest Journey: 46 [49] 43
+
+Node 46 to node 44
+Foremost Journey: 46 [49] 44
+Shortest Journey: 46 [49] 44
+
+Node 46 to node 45
+Foremost Journey: 46 [49] 45
+Shortest Journey: 46 [49] 45
+
+Node 46 to node 47
+Foremost Journey: 46 [49] 47
+Shortest Journey: 46 [49] 47
+
+Node 46 to node 48
+Foremost Journey: 46 [49] 48
+Shortest Journey: 46 [49] 48
+
+Node 46 to node 49
+Foremost Journey: 46 [49] 49
+Shortest Journey: 46 [49] 49
+
+Node 47 to node 0
+Foremost Journey: 47 [49] 0
+Shortest Journey: 47 [49] 0
+
+Node 47 to node 1
+Foremost Journey: 47 [49] 1
+Shortest Journey: 47 [49] 1
+
+Node 47 to node 2
+Foremost Journey: 47 [49] 2
+Shortest Journey: 47 [49] 2
+
+Node 47 to node 3
+Foremost Journey: 47 [49] 3
+Shortest Journey: 47 [49] 3
+
+Node 47 to node 4
+Foremost Journey: 47 [49] 4
+Shortest Journey: 47 [49] 4
+
+Node 47 to node 5
+Foremost Journey: 47 [49] 5
+Shortest Journey: 47 [49] 5
+
+Node 47 to node 6
+Foremost Journey: 47 [49] 6
+Shortest Journey: 47 [49] 6
+
+Node 47 to node 7
+Foremost Journey: 47 [49] 7
+Shortest Journey: 47 [49] 7
+
+Node 47 to node 8
+Foremost Journey: 47 [49] 8
+Shortest Journey: 47 [49] 8
+
+Node 47 to node 9
+Foremost Journey: 47 [49] 9
+Shortest Journey: 47 [49] 9
+
+Node 47 to node 10
+Foremost Journey: 47 [49] 10
+Shortest Journey: 47 [49] 10
+
+Node 47 to node 11
+Foremost Journey: 47 [49] 11
+Shortest Journey: 47 [49] 11
+
+Node 47 to node 12
+Foremost Journey: 47 [49] 12
+Shortest Journey: 47 [49] 12
+
+Node 47 to node 13
+Foremost Journey: 47 [49] 13
+Shortest Journey: 47 [49] 13
+
+Node 47 to node 14
+Foremost Journey: 47 [49] 14
+Shortest Journey: 47 [49] 14
+
+Node 47 to node 15
+Foremost Journey: 47 [49] 15
+Shortest Journey: 47 [49] 15
+
+Node 47 to node 16
+Foremost Journey: 47 [49] 16
+Shortest Journey: 47 [49] 16
+
+Node 47 to node 17
+Foremost Journey: 47 [49] 17
+Shortest Journey: 47 [49] 17
+
+Node 47 to node 18
+Foremost Journey: 47 [49] 18
+Shortest Journey: 47 [49] 18
+
+Node 47 to node 19
+Foremost Journey: 47 [49] 19
+Shortest Journey: 47 [49] 19
+
+Node 47 to node 20
+Foremost Journey: 47 [49] 20
+Shortest Journey: 47 [49] 20
+
+Node 47 to node 21
+Foremost Journey: 47 [49] 21
+Shortest Journey: 47 [49] 21
+
+Node 47 to node 22
+Foremost Journey: 47 [49] 22
+Shortest Journey: 47 [49] 22
+
+Node 47 to node 23
+Foremost Journey: 47 [49] 23
+Shortest Journey: 47 [49] 23
+
+Node 47 to node 24
+Foremost Journey: 47 [49] 24
+Shortest Journey: 47 [49] 24
+
+Node 47 to node 25
+Foremost Journey: 47 [49] 25
+Shortest Journey: 47 [49] 25
+
+Node 47 to node 26
+Foremost Journey: 47 [49] 26
+Shortest Journey: 47 [49] 26
+
+Node 47 to node 27
+Foremost Journey: 47 [49] 27
+Shortest Journey: 47 [49] 27
+
+Node 47 to node 28
+Foremost Journey: 47 [49] 28
+Shortest Journey: 47 [49] 28
+
+Node 47 to node 29
+Foremost Journey: 47 [49] 29
+Shortest Journey: 47 [49] 29
+
+Node 47 to node 30
+Foremost Journey: 47 [49] 30
+Shortest Journey: 47 [49] 30
+
+Node 47 to node 31
+Foremost Journey: 47 [49] 31
+Shortest Journey: 47 [49] 31
+
+Node 47 to node 32
+Foremost Journey: 47 [49] 32
+Shortest Journey: 47 [49] 32
+
+Node 47 to node 33
+Foremost Journey: 47 [49] 33
+Shortest Journey: 47 [49] 33
+
+Node 47 to node 34
+Foremost Journey: 47 [49] 34
+Shortest Journey: 47 [49] 34
+
+Node 47 to node 35
+Foremost Journey: 47 [49] 35
+Shortest Journey: 47 [49] 35
+
+Node 47 to node 36
+Foremost Journey: 47 [49] 36
+Shortest Journey: 47 [49] 36
+
+Node 47 to node 37
+Foremost Journey: 47 [49] 37
+Shortest Journey: 47 [49] 37
+
+Node 47 to node 38
+Foremost Journey: 47 [49] 38
+Shortest Journey: 47 [49] 38
+
+Node 47 to node 39
+Foremost Journey: 47 [49] 39
+Shortest Journey: 47 [49] 39
+
+Node 47 to node 40
+Foremost Journey: 47 [49] 40
+Shortest Journey: 47 [49] 40
+
+Node 47 to node 41
+Foremost Journey: 47 [49] 41
+Shortest Journey: 47 [49] 41
+
+Node 47 to node 42
+Foremost Journey: 47 [49] 42
+Shortest Journey: 47 [49] 42
+
+Node 47 to node 43
+Foremost Journey: 47 [49] 43
+Shortest Journey: 47 [49] 43
+
+Node 47 to node 44
+Foremost Journey: 47 [49] 44
+Shortest Journey: 47 [49] 44
+
+Node 47 to node 45
+Foremost Journey: 47 [49] 45
+Shortest Journey: 47 [49] 45
+
+Node 47 to node 46
+Foremost Journey: 47 [49] 46
+Shortest Journey: 47 [49] 46
+
+Node 47 to node 48
+Foremost Journey: 47 [49] 48
+Shortest Journey: 47 [49] 48
+
+Node 47 to node 49
+Foremost Journey: 47 [49] 49
+Shortest Journey: 47 [49] 49
+
+Node 48 to node 0
+Foremost Journey: 48 [49] 0
+Shortest Journey: 48 [49] 0
+
+Node 48 to node 1
+Foremost Journey: 48 [49] 1
+Shortest Journey: 48 [49] 1
+
+Node 48 to node 2
+Foremost Journey: 48 [49] 2
+Shortest Journey: 48 [49] 2
+
+Node 48 to node 3
+Foremost Journey: 48 [49] 3
+Shortest Journey: 48 [49] 3
+
+Node 48 to node 4
+Foremost Journey: 48 [49] 4
+Shortest Journey: 48 [49] 4
+
+Node 48 to node 5
+Foremost Journey: 48 [49] 5
+Shortest Journey: 48 [49] 5
+
+Node 48 to node 6
+Foremost Journey: 48 [49] 6
+Shortest Journey: 48 [49] 6
+
+Node 48 to node 7
+Foremost Journey: 48 [49] 7
+Shortest Journey: 48 [49] 7
+
+Node 48 to node 8
+Foremost Journey: 48 [49] 8
+Shortest Journey: 48 [49] 8
+
+Node 48 to node 9
+Foremost Journey: 48 [49] 9
+Shortest Journey: 48 [49] 9
+
+Node 48 to node 10
+Foremost Journey: 48 [49] 10
+Shortest Journey: 48 [49] 10
+
+Node 48 to node 11
+Foremost Journey: 48 [49] 11
+Shortest Journey: 48 [49] 11
+
+Node 48 to node 12
+Foremost Journey: 48 [49] 12
+Shortest Journey: 48 [49] 12
+
+Node 48 to node 13
+Foremost Journey: 48 [49] 13
+Shortest Journey: 48 [49] 13
+
+Node 48 to node 14
+Foremost Journey: 48 [49] 14
+Shortest Journey: 48 [49] 14
+
+Node 48 to node 15
+Foremost Journey: 48 [49] 15
+Shortest Journey: 48 [49] 15
+
+Node 48 to node 16
+Foremost Journey: 48 [49] 16
+Shortest Journey: 48 [49] 16
+
+Node 48 to node 17
+Foremost Journey: 48 [49] 17
+Shortest Journey: 48 [49] 17
+
+Node 48 to node 18
+Foremost Journey: 48 [49] 18
+Shortest Journey: 48 [49] 18
+
+Node 48 to node 19
+Foremost Journey: 48 [49] 19
+Shortest Journey: 48 [49] 19
+
+Node 48 to node 20
+Foremost Journey: 48 [49] 20
+Shortest Journey: 48 [49] 20
+
+Node 48 to node 21
+Foremost Journey: 48 [49] 21
+Shortest Journey: 48 [49] 21
+
+Node 48 to node 22
+Foremost Journey: 48 [49] 22
+Shortest Journey: 48 [49] 22
+
+Node 48 to node 23
+Foremost Journey: 48 [49] 23
+Shortest Journey: 48 [49] 23
+
+Node 48 to node 24
+Foremost Journey: 48 [49] 24
+Shortest Journey: 48 [49] 24
+
+Node 48 to node 25
+Foremost Journey: 48 [49] 25
+Shortest Journey: 48 [49] 25
+
+Node 48 to node 26
+Foremost Journey: 48 [49] 26
+Shortest Journey: 48 [49] 26
+
+Node 48 to node 27
+Foremost Journey: 48 [49] 27
+Shortest Journey: 48 [49] 27
+
+Node 48 to node 28
+Foremost Journey: 48 [49] 28
+Shortest Journey: 48 [49] 28
+
+Node 48 to node 29
+Foremost Journey: 48 [49] 29
+Shortest Journey: 48 [49] 29
+
+Node 48 to node 30
+Foremost Journey: 48 [49] 30
+Shortest Journey: 48 [49] 30
+
+Node 48 to node 31
+Foremost Journey: 48 [49] 31
+Shortest Journey: 48 [49] 31
+
+Node 48 to node 32
+Foremost Journey: 48 [49] 32
+Shortest Journey: 48 [49] 32
+
+Node 48 to node 33
+Foremost Journey: 48 [49] 33
+Shortest Journey: 48 [49] 33
+
+Node 48 to node 34
+Foremost Journey: 48 [49] 34
+Shortest Journey: 48 [49] 34
+
+Node 48 to node 35
+Foremost Journey: 48 [49] 35
+Shortest Journey: 48 [49] 35
+
+Node 48 to node 36
+Foremost Journey: 48 [49] 36
+Shortest Journey: 48 [49] 36
+
+Node 48 to node 37
+Foremost Journey: 48 [49] 37
+Shortest Journey: 48 [49] 37
+
+Node 48 to node 38
+Foremost Journey: 48 [49] 38
+Shortest Journey: 48 [49] 38
+
+Node 48 to node 39
+Foremost Journey: 48 [49] 39
+Shortest Journey: 48 [49] 39
+
+Node 48 to node 40
+Foremost Journey: 48 [49] 40
+Shortest Journey: 48 [49] 40
+
+Node 48 to node 41
+Foremost Journey: 48 [49] 41
+Shortest Journey: 48 [49] 41
+
+Node 48 to node 42
+Foremost Journey: 48 [49] 42
+Shortest Journey: 48 [49] 42
+
+Node 48 to node 43
+Foremost Journey: 48 [49] 43
+Shortest Journey: 48 [49] 43
+
+Node 48 to node 44
+Foremost Journey: 48 [49] 44
+Shortest Journey: 48 [49] 44
+
+Node 48 to node 45
+Foremost Journey: 48 [49] 45
+Shortest Journey: 48 [49] 45
+
+Node 48 to node 46
+Foremost Journey: 48 [49] 46
+Shortest Journey: 48 [49] 46
+
+Node 48 to node 47
+Foremost Journey: 48 [49] 47
+Shortest Journey: 48 [49] 47
+
+Node 48 to node 49
+Foremost Journey: 48 [49] 49
+Shortest Journey: 48 [49] 49
+
+Node 49 to node 0
+Foremost Journey: 49 [49] 0
+Shortest Journey: 49 [49] 0
+
+Node 49 to node 1
+Foremost Journey: 49 [49] 1
+Shortest Journey: 49 [49] 1
+
+Node 49 to node 2
+Foremost Journey: 49 [49] 2
+Shortest Journey: 49 [49] 2
+
+Node 49 to node 3
+Foremost Journey: 49 [49] 3
+Shortest Journey: 49 [49] 3
+
+Node 49 to node 4
+Foremost Journey: 49 [49] 4
+Shortest Journey: 49 [49] 4
+
+Node 49 to node 5
+Foremost Journey: 49 [49] 5
+Shortest Journey: 49 [49] 5
+
+Node 49 to node 6
+Foremost Journey: 49 [49] 6
+Shortest Journey: 49 [49] 6
+
+Node 49 to node 7
+Foremost Journey: 49 [49] 7
+Shortest Journey: 49 [49] 7
+
+Node 49 to node 8
+Foremost Journey: 49 [49] 8
+Shortest Journey: 49 [49] 8
+
+Node 49 to node 9
+Foremost Journey: 49 [49] 9
+Shortest Journey: 49 [49] 9
+
+Node 49 to node 10
+Foremost Journey: 49 [49] 10
+Shortest Journey: 49 [49] 10
+
+Node 49 to node 11
+Foremost Journey: 49 [49] 11
+Shortest Journey: 49 [49] 11
+
+Node 49 to node 12
+Foremost Journey: 49 [49] 12
+Shortest Journey: 49 [49] 12
+
+Node 49 to node 13
+Foremost Journey: 49 [49] 13
+Shortest Journey: 49 [49] 13
+
+Node 49 to node 14
+Foremost Journey: 49 [49] 14
+Shortest Journey: 49 [49] 14
+
+Node 49 to node 15
+Foremost Journey: 49 [49] 15
+Shortest Journey: 49 [49] 15
+
+Node 49 to node 16
+Foremost Journey: 49 [49] 16
+Shortest Journey: 49 [49] 16
+
+Node 49 to node 17
+Foremost Journey: 49 [49] 17
+Shortest Journey: 49 [49] 17
+
+Node 49 to node 18
+Foremost Journey: 49 [49] 18
+Shortest Journey: 49 [49] 18
+
+Node 49 to node 19
+Foremost Journey: 49 [49] 19
+Shortest Journey: 49 [49] 19
+
+Node 49 to node 20
+Foremost Journey: 49 [49] 20
+Shortest Journey: 49 [49] 20
+
+Node 49 to node 21
+Foremost Journey: 49 [49] 21
+Shortest Journey: 49 [49] 21
+
+Node 49 to node 22
+Foremost Journey: 49 [49] 22
+Shortest Journey: 49 [49] 22
+
+Node 49 to node 23
+Foremost Journey: 49 [49] 23
+Shortest Journey: 49 [49] 23
+
+Node 49 to node 24
+Foremost Journey: 49 [49] 24
+Shortest Journey: 49 [49] 24
+
+Node 49 to node 25
+Foremost Journey: 49 [49] 25
+Shortest Journey: 49 [49] 25
+
+Node 49 to node 26
+Foremost Journey: 49 [49] 26
+Shortest Journey: 49 [49] 26
+
+Node 49 to node 27
+Foremost Journey: 49 [49] 27
+Shortest Journey: 49 [49] 27
+
+Node 49 to node 28
+Foremost Journey: 49 [49] 28
+Shortest Journey: 49 [49] 28
+
+Node 49 to node 29
+Foremost Journey: 49 [49] 29
+Shortest Journey: 49 [49] 29
+
+Node 49 to node 30
+Foremost Journey: 49 [49] 30
+Shortest Journey: 49 [49] 30
+
+Node 49 to node 31
+Foremost Journey: 49 [49] 31
+Shortest Journey: 49 [49] 31
+
+Node 49 to node 32
+Foremost Journey: 49 [49] 32
+Shortest Journey: 49 [49] 32
+
+Node 49 to node 33
+Foremost Journey: 49 [49] 33
+Shortest Journey: 49 [49] 33
+
+Node 49 to node 34
+Foremost Journey: 49 [49] 34
+Shortest Journey: 49 [49] 34
+
+Node 49 to node 35
+Foremost Journey: 49 [49] 35
+Shortest Journey: 49 [49] 35
+
+Node 49 to node 36
+Foremost Journey: 49 [49] 36
+Shortest Journey: 49 [49] 36
+
+Node 49 to node 37
+Foremost Journey: 49 [49] 37
+Shortest Journey: 49 [49] 37
+
+Node 49 to node 38
+Foremost Journey: 49 [49] 38
+Shortest Journey: 49 [49] 38
+
+Node 49 to node 39
+Foremost Journey: 49 [49] 39
+Shortest Journey: 49 [49] 39
+
+Node 49 to node 40
+Foremost Journey: 49 [49] 40
+Shortest Journey: 49 [49] 40
+
+Node 49 to node 41
+Foremost Journey: 49 [49] 41
+Shortest Journey: 49 [49] 41
+
+Node 49 to node 42
+Foremost Journey: 49 [49] 42
+Shortest Journey: 49 [49] 42
+
+Node 49 to node 43
+Foremost Journey: 49 [49] 43
+Shortest Journey: 49 [49] 43
+
+Node 49 to node 44
+Foremost Journey: 49 [49] 44
+Shortest Journey: 49 [49] 44
+
+Node 49 to node 45
+Foremost Journey: 49 [49] 45
+Shortest Journey: 49 [49] 45
+
+Node 49 to node 46
+Foremost Journey: 49 [49] 46
+Shortest Journey: 49 [49] 46
+
+Node 49 to node 47
+Foremost Journey: 49 [49] 47
+Shortest Journey: 49 [49] 47
+
+Node 49 to node 48
+Foremost Journey: 49 [49] 48
+Shortest Journey: 49 [49] 48
+

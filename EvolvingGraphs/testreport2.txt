@@ -1,0 +1,8 @@
+This report is for the trace: null
+Uploaded to DTNTES by: null
+No link to the trace was provided
+
+Message	EAD	MinHop	MinTrs
+1	10	3	3
+2	6	2	3
+3	-	-	-

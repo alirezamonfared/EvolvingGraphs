@@ -1,0 +1,14 @@
+#This is the periodicity report
+
+#This report is for the trace: null
+#Uploaded to DTNTES by: null
+#No link to the trace was provided
+
+Edge 0 1
+Periodic after 4 seconds, every 8 seconds.
+Edge 1 2
+Non periodic.
+Edge 2 3
+Periodic after 0 seconds, every 13 seconds.
+Edge 3 4
+Non periodic.

@@ -1,0 +1,8 @@
+#This report is for the trace: Teste de Mensagens
+#Uploaded to DTNTES by: Bozo
+#No link to the trace was provided
+
+Message	EAD	MinHop	MinTrs
+1	1	1	0
+2	1	3	0
+3	2	1	0

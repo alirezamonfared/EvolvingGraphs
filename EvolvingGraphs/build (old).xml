@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?eclipse.ant.import?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project name="EvolvingGraphs" default="build" basedir=".">
+  <property environment="env"/>
+  <property name="ECLIPSE_HOME" value="/usr/lib/eclipse"/>
+  <property name="one_1.3.0.location" value="../one_1.3.0"/>
+  <property name="junit.output.dir" value="junit"/>
+  <property name="debuglevel" value="source,lines,vars"/>
+  <property name="target" value="1.6"/>
+  <property name="source" value="1.6"/>
+  <path id="EvolvingGraphs.classpath">
+    <pathelement location="bin"/>
+  </path>
+  <target name="init">
+    <mkdir dir="bin"/>
+    <copy todir="bin" includeemptydirs="false">
+      <fileset dir="src" excludes="**/*.launch, **/*.svn, **/*.java"/>
+    </copy>
+    <copy todir="bin" includeemptydirs="false">
+      <fileset dir="test" excludes="**/*.launch, **/*.svn, **/*.java"/>
+    </copy>
+  </target>
+  <target name="clean">
+    <delete dir="bin"/>
+  </target>
+  <target name="cleanall" depends="clean"/>
+  <target name="build" depends="build-subprojects,build-project"/>
+  <target name="build-subprojects"/>
+  <target name="build-project" depends="init">
+    <echo message="${ant.project.name}: ${ant.file}"/>
+    <javac destdir="bin" debug="true" debuglevel="${debuglevel}" source="${source}" target="${target}">
+      <src path="src"/>
+      <classpath refid="EvolvingGraphs.classpath"/>
+    </javac>
+    <javac destdir="bin" debug="true" debuglevel="${debuglevel}" source="${source}" target="${target}">
+      <src path="test"/>
+      <classpath refid="EvolvingGraphs.classpath"/>
+    </javac>
+  </target>
+  <target name="build-refprojects" description="Build all projects which reference this project. Useful to propagate changes.">
+    <ant antfile="${one_1.3.0.location}/build.xml" target="clean" inheritAll="false"/>
+    <ant antfile="${one_1.3.0.location}/build.xml" target="build" inheritAll="false">
+      <propertyset>
+        <propertyref name="build.compiler"/>
+      </propertyset>
+    </ant>
+  </target>
+  <target name="init-eclipse-compiler" description="copy Eclipse compiler jars to ant lib directory">
+    <copy todir="${ant.library.dir}">
+      <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+    </copy>
+    <unzip dest="${ant.library.dir}">
+      <patternset includes="jdtCompilerAdapter.jar"/>
+      <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+    </unzip>
+  </target>
+  <target name="build-eclipse-compiler" description="compile project with Eclipse compiler">
+    <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+    <antcall target="build"/>
+  </target>
+  <target name="OneIntegration">
+    <java fork="yes" classname="br.usp.ime.oneintegration.OneIntegration" failonerror="true">
+      <classpath refid="EvolvingGraphs.classpath"/>
+      <arg line="${args}"/>
+    </java>
+  </target>
+  <target name="FastestTradeoff">
+    <java fork="yes" classname="br.usp.ime.algorithmslist.FastestTradeoff" failonerror="true">
+      <classpath refid="EvolvingGraphs.classpath"/>
+      <arg line="${args}"/>
+    </java>
+  </target>
+  <target name="Fastest">
+    <java fork="yes" classname="br.usp.ime.algorithms.FastestAlgorithm" failonerror="true">
+      <classpath refid="EvolvingGraphs.classpath"/>
+      <arg line="${args}"/>
+    </java>
+  </target>
+  <target name="FastestAlgorithmTest">
+    <mkdir dir="${junit.output.dir}"/>
+    <junit fork="yes" printsummary="withOutAndErr">
+      <formatter type="xml"/>
+      <test name="br.usp.ime.evolvinggraph.FastestAlgorithmTest" todir="${junit.output.dir}"/>
+      <classpath refid="EvolvingGraphs.classpath"/>
+    </junit>
+  </target>
+  <target name="junitreport">
+    <junitreport todir="${junit.output.dir}">
+      <fileset dir="${junit.output.dir}">
+        <include name="TEST-*.xml"/>
+      </fileset>
+      <report format="frames" todir="${junit.output.dir}"/>
+    </junitreport>
+  </target>
+</project>
