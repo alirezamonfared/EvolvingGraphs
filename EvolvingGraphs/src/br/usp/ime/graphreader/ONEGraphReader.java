@@ -4,11 +4,17 @@
  */
 package br.usp.ime.graphreader;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
+import java.util.Set;
 import java.util.regex.MatchResult;
 
 import br.usp.ime.evolvinggraph.Edge;
@@ -34,7 +40,45 @@ public class ONEGraphReader implements GraphReader{
 		this.simTime = simTime;
 		this.startsFromOne = false; //If this is set to true, node numbers in the ONE file are interpreted as 1,2...,N and are handled correctly in the reader with a -1 offset
 	}
+	
+	public ONEGraphReader (String filename) throws IOException {
+		this.filename = filename;
+		int[] values = getNumNodesAndMaxTime();
+		this.numOfNodes = values[0];
+		this.simTime = values[1];
+		this.startsFromOne = false; //If this is set to true, node numbers in the ONE file are interpreted as 1,2...,N and are handled correctly in the reader with a -1 offset
+	}
 
+	
+	public int getNumOfNodes() {
+		return numOfNodes;
+	}
+
+	public int getMaxTime() {
+		return simTime;
+	}
+
+	private int[] getNumNodesAndMaxTime() throws IOException{
+		int[] values = new int[2];
+		BufferedReader CSVFile = 
+				new BufferedReader(new FileReader(this.filename));
+		ArrayList<Double> ls1 = new ArrayList<Double>();
+		Set<Integer> ls2 = new HashSet<Integer>();			
+		String dataRow = CSVFile.readLine(); 
+		while (dataRow != null){
+			   String[] dataArray = dataRow.split(" ");
+			   ls1.add(Double.valueOf(dataArray[0]));
+			   ls2.add(Integer.valueOf(dataArray[2]));
+			   System.out.println(); // Print the data line.
+			   dataRow = CSVFile.readLine(); // Read next line of data.
+			  }
+		values[0] = ls2.size();
+		values[1] = Collections.max(ls1).intValue();
+		this.numOfNodes = values[0];
+		this.simTime = values[1];
+		CSVFile.close();
+		return values;
+	}
 	/**
 	 * Processes a line of the input, generating
 	 * @param s
