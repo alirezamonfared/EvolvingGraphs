@@ -38,6 +38,18 @@ public class Node {
 		this.nodeSchedule = new LinkedList<Integer>();
 	}
 	
+	
+	/** 
+	 * Copy constructor
+	 * @param N
+	 */
+	public Node(Node N) {
+		this.id = N.id;
+		this.name = N.name;
+		this.adj = new LinkedList<Edge>(N.adj);
+		this.nodeSchedule = new LinkedList<Integer>(N.nodeSchedule);
+	}
+	
 	/**
 	 * Adds a new edge to this node's adjacency list
 	 * 
@@ -50,6 +62,15 @@ public class Node {
 		Edge e = new Edge(this, v,sched,cost);
 		this.adj.add(e);
 		return e;
+	}
+	
+	/**
+	 * Removes an edge from the adjacency of a node
+	 * 
+	 * @param e Edge to be removed
+	 */
+	public void remove(Edge e){
+		this.adj.remove(e);
 	}
 	
 	/**

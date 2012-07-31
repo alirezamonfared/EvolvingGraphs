@@ -5,6 +5,7 @@
 package br.usp.ime.evolvinggraph;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -33,6 +34,22 @@ public class EvolvingGraph {
 		for(int i = 0; i < numOfNodes; i++){
 			nodes.add(new Node(i));
 		}
+	}
+	
+	
+	/**
+	 * Copy constructor
+	 * @param eg 
+	 */
+	public EvolvingGraph(EvolvingGraph eg){
+		nodes = new ArrayList<Node>();
+		for (int i = 0 ;  i < eg.nodes.size() ; i++){
+			Node N = new Node(eg.nodes.get(i));
+			this.nodes.add(N);
+		}
+		this.edgesnum = eg.edgesnum;
+		this.maxTime = eg.maxTime;
+		names = new HashMap<String, Integer>(eg.names);
 	}
 	
 	/**
@@ -141,6 +158,14 @@ public class EvolvingGraph {
 			}
 		}
 		return e;
+	}
+	
+	
+	public void removeEdge(int u, int v, Edge e) {
+		edgesnum--;
+		//Edge e = nodes.get(u).add(this.nodes.get(v), sched, cost);
+		nodes.get(u).remove(e);
+		nodes.get(v).remove(e);
 	}
 	
 	/**
